@@ -1,0 +1,863 @@
+season,league_id,league_name,team_id,team_name,rank,points,goal_diff,group,form,status,description,matches_played,wins,draws,losses,goals_for,goals_against,matches_played_home,wins_home,draws_home,losses_home,goals_for_home,goals_against_home,matches_played_away,wins_away,draws_away,losses_away,goals_for_away,goals_against_away,update_date,points_per_game,win_percentage,goals_per_game,goals_conceded_per_game
+2018,39,Premier League,50,Manchester City,1,98,72,Premier League,WWWWW,,Promotion - Champions League (Group Stage),38,32,2,4,95,23,19,18,0,1,57,12,19,14,2,3,38,11,2019-05-12T00:00:00+00:00,2.58,84.21,2.5,0.61
+2018,39,Premier League,40,Liverpool,2,97,67,Premier League,WWWWW,,Promotion - Champions League (Group Stage),38,30,7,1,89,22,19,17,2,0,55,10,19,13,5,1,34,12,2019-05-12T00:00:00+00:00,2.55,78.95,2.34,0.58
+2018,39,Premier League,49,Chelsea,3,72,24,Premier League,DWDDL,,Promotion - Champions League (Group Stage),38,21,9,8,63,39,19,12,6,1,39,12,19,9,3,7,24,27,2019-05-12T00:00:00+00:00,1.89,55.26,1.66,1.03
+2018,39,Premier League,47,Tottenham,4,71,28,Premier League,DLLWL,,Promotion - Champions League (Group Stage),38,23,2,13,67,39,19,12,2,5,34,16,19,11,0,8,33,23,2019-05-12T00:00:00+00:00,1.87,60.53,1.76,1.03
+2018,39,Premier League,42,Arsenal,5,70,22,Premier League,WDLLL,,Promotion - Europa League (Group Stage),38,21,7,10,73,51,19,14,3,2,42,16,19,7,4,8,31,35,2019-05-12T00:00:00+00:00,1.84,55.26,1.92,1.34
+2018,39,Premier League,33,Manchester United,6,66,11,Premier League,LDDLL,,Promotion - Europa League (Qualification),38,19,9,10,65,54,19,10,6,3,33,25,19,9,3,7,32,29,2019-05-12T00:00:00+00:00,1.74,50.0,1.71,1.42
+2018,39,Premier League,39,Wolves,7,57,1,Premier League,LWWWD,,,38,16,9,13,47,46,19,10,4,5,28,21,19,6,5,8,19,25,2019-05-12T00:00:00+00:00,1.5,42.11,1.24,1.21
+2018,39,Premier League,45,Everton,8,54,8,Premier League,DWDWL,,,38,15,9,14,54,46,19,10,4,5,30,21,19,5,5,9,24,25,2019-05-12T00:00:00+00:00,1.42,39.47,1.42,1.21
+2018,39,Premier League,46,Leicester,9,52,3,Premier League,DLWDL,,,38,15,7,16,51,48,19,8,3,8,24,20,19,7,4,8,27,28,2019-05-12T00:00:00+00:00,1.37,39.47,1.34,1.26
+2018,39,Premier League,48,West Ham,10,52,-3,Premier League,WWWDL,,,38,15,7,16,52,55,19,9,4,6,32,27,19,6,3,10,20,28,2019-05-12T00:00:00+00:00,1.37,39.47,1.37,1.45
+2018,39,Premier League,38,Watford,11,50,-7,Premier League,LLLDW,,,38,14,8,16,52,59,19,8,3,8,26,28,19,6,5,8,26,31,2019-05-12T00:00:00+00:00,1.32,36.84,1.37,1.55
+2018,39,Premier League,52,Crystal Palace,12,49,-2,Premier League,WWDWL,,,38,14,7,17,51,53,19,5,5,9,19,23,19,9,2,8,32,30,2019-05-12T00:00:00+00:00,1.29,36.84,1.34,1.39
+2018,39,Premier League,34,Newcastle,13,45,-6,Premier League,WLDWW,,,38,12,9,17,42,48,19,8,1,10,24,25,19,4,8,7,18,23,2019-05-12T00:00:00+00:00,1.18,31.58,1.11,1.26
+2018,39,Premier League,35,Bournemouth,14,45,-14,Premier League,LWDLW,,,38,13,6,19,56,70,19,8,5,6,30,25,19,5,1,13,26,45,2019-05-12T00:00:00+00:00,1.18,34.21,1.47,1.84
+2018,39,Premier League,44,Burnley,15,40,-23,Premier League,LLLDW,,,38,11,7,20,45,68,19,7,2,10,24,32,19,4,5,10,21,36,2019-05-12T00:00:00+00:00,1.05,28.95,1.18,1.79
+2018,39,Premier League,41,Southampton,16,39,-20,Premier League,DLDDL,,,38,9,12,17,45,65,19,5,8,6,27,30,19,4,4,11,18,35,2019-05-12T00:00:00+00:00,1.03,23.68,1.18,1.71
+2018,39,Premier League,51,Brighton,17,36,-25,Premier League,LDDLD,,,38,9,9,20,35,60,19,6,5,8,19,28,19,3,4,12,16,32,2019-05-12T00:00:00+00:00,0.95,23.68,0.92,1.58
+2018,39,Premier League,43,Cardiff,18,34,-35,Premier League,WLLLW,,Relegation - Championship,38,10,4,24,34,69,19,6,2,11,21,38,19,4,2,13,13,31,2019-05-12T00:00:00+00:00,0.89,26.32,0.89,1.82
+2018,39,Premier League,36,Fulham,19,26,-47,Premier League,LLWWW,,Relegation - Championship,38,7,5,26,34,81,19,6,3,10,22,36,19,1,2,16,12,45,2019-05-12T00:00:00+00:00,0.68,18.42,0.89,2.13
+2018,39,Premier League,37,Huddersfield,20,16,-54,Premier League,DDLLL,,Relegation - Championship,38,3,7,28,22,76,19,2,3,14,10,31,19,1,4,14,12,45,2019-05-12T00:00:00+00:00,0.42,7.89,0.58,2.0
+2019,39,Premier League,40,Liverpool,1,99,52,Premier League,WWLDW,same,Promotion - Champions League (Group Stage),38,32,3,3,85,33,19,18,1,0,52,16,19,14,2,3,33,17,2020-07-26T00:00:00+00:00,2.61,84.21,2.24,0.87
+2019,39,Premier League,50,Manchester City,2,81,67,Premier League,WWWWW,same,Promotion - Champions League (Group Stage),38,26,3,9,102,35,19,15,2,2,57,13,19,11,1,7,45,22,2020-07-26T00:00:00+00:00,2.13,68.42,2.68,0.92
+2019,39,Premier League,33,Manchester United,3,66,30,Premier League,WDWDW,same,Promotion - Champions League (Group Stage),38,18,12,8,66,36,19,10,7,2,40,17,19,8,5,6,26,19,2020-07-26T00:00:00+00:00,1.74,47.37,1.74,0.95
+2019,39,Premier League,49,Chelsea,4,66,15,Premier League,WLWLW,same,Promotion - Champions League (Group Stage),38,20,6,12,69,54,19,11,3,5,30,16,19,9,3,7,39,38,2020-07-26T00:00:00+00:00,1.74,52.63,1.82,1.42
+2019,39,Premier League,46,Leicester,5,62,26,Premier League,LLWLD,same,Promotion - Europa League (Group Stage),38,18,8,12,67,41,19,11,4,4,35,17,19,7,4,8,32,24,2020-07-26T00:00:00+00:00,1.63,47.37,1.76,1.08
+2019,39,Premier League,47,Tottenham,6,59,14,Premier League,DWWWD,same,Promotion - Europa League (Qualification),38,16,11,11,61,47,19,12,3,4,36,17,19,4,8,7,25,30,2020-07-26T00:00:00+00:00,1.55,42.11,1.61,1.24
+2019,39,Premier League,39,Wolves,7,59,11,Premier League,LWDWL,same,,38,15,14,9,51,40,19,8,7,4,27,19,19,7,7,5,24,21,2020-07-26T00:00:00+00:00,1.55,39.47,1.34,1.05
+2019,39,Premier League,42,Arsenal,8,56,8,Premier League,WLWLD,same,,38,14,14,10,56,48,19,10,6,3,36,24,19,4,8,7,20,24,2020-07-26T00:00:00+00:00,1.47,36.84,1.47,1.26
+2019,39,Premier League,62,Sheffield Utd,9,54,0,Premier League,LLLWW,same,,38,14,12,12,39,39,19,10,3,6,24,15,19,4,9,6,15,24,2020-07-26T00:00:00+00:00,1.42,36.84,1.03,1.03
+2019,39,Premier League,44,Burnley,10,54,-7,Premier League,LWDDW,same,,38,15,9,14,43,50,19,8,4,7,24,23,19,7,5,7,19,27,2020-07-26T00:00:00+00:00,1.42,39.47,1.13,1.32
+2019,39,Premier League,41,Southampton,11,52,-9,Premier League,WWDDD,same,,38,15,7,16,51,60,19,6,3,10,21,35,19,9,4,6,30,25,2020-07-26T00:00:00+00:00,1.37,39.47,1.34,1.58
+2019,39,Premier League,45,Everton,12,49,-12,Premier League,LWDLD,same,,38,13,10,15,44,56,19,8,7,4,24,21,19,5,3,11,20,35,2020-07-26T00:00:00+00:00,1.29,34.21,1.16,1.47
+2019,39,Premier League,34,Newcastle,13,44,-20,Premier League,LDLLL,same,,38,11,11,16,38,58,19,6,8,5,20,21,19,5,3,11,18,37,2020-07-26T00:00:00+00:00,1.16,28.95,1.0,1.53
+2019,39,Premier League,52,Crystal Palace,14,43,-19,Premier League,DLLLL,same,,38,11,10,17,31,50,19,6,5,8,15,20,19,5,5,9,16,30,2020-07-26T00:00:00+00:00,1.13,28.95,0.82,1.32
+2019,39,Premier League,51,Brighton,15,41,-15,Premier League,WDDLL,same,,38,9,14,15,39,54,19,5,7,7,20,27,19,4,7,8,19,27,2020-07-26T00:00:00+00:00,1.08,23.68,1.03,1.42
+2019,39,Premier League,48,West Ham,16,39,-13,Premier League,DDWWL,same,,38,10,9,19,49,62,19,6,4,9,30,33,19,4,5,10,19,29,2020-07-26T00:00:00+00:00,1.03,26.32,1.29,1.63
+2019,39,Premier League,66,Aston Villa,17,35,-26,Premier League,DWDWL,same,,38,9,8,21,41,67,19,7,3,9,22,30,19,2,5,12,19,37,2020-07-26T00:00:00+00:00,0.92,23.68,1.08,1.76
+2019,39,Premier League,35,Bournemouth,18,34,-25,Premier League,WLLWD,same,Relegation - Championship,38,9,7,22,40,65,19,5,6,8,22,30,19,4,1,14,18,35,2020-07-26T00:00:00+00:00,0.89,23.68,1.05,1.71
+2019,39,Premier League,38,Watford,19,34,-28,Premier League,LLLWW,same,Relegation - Championship,38,8,10,20,36,64,19,6,6,7,22,27,19,2,4,13,14,37,2020-07-26T00:00:00+00:00,0.89,21.05,0.95,1.68
+2019,39,Premier League,71,Norwich,20,21,-49,Premier League,LLLLL,same,Relegation - Championship,38,5,6,27,26,75,19,4,3,12,19,37,19,1,3,15,7,38,2020-07-26T00:00:00+00:00,0.55,13.16,0.68,1.97
+2020,39,Premier League,50,Manchester City,1,86,51,Premier League,WLWLW,same,Promotion - Champions League (Group Stage),38,27,5,6,83,32,19,13,2,4,43,17,19,14,3,2,40,15,2021-05-23T00:00:00+00:00,2.26,71.05,2.18,0.84
+2020,39,Premier League,33,Manchester United,2,74,29,Premier League,WDLLW,same,Promotion - Champions League (Group Stage),38,21,11,6,73,44,19,9,4,6,38,28,19,12,7,0,35,16,2021-05-23T00:00:00+00:00,1.95,55.26,1.92,1.16
+2020,39,Premier League,40,Liverpool,3,69,26,Premier League,WWWWW,same,Promotion - Champions League (Group Stage),38,20,9,9,68,42,19,10,3,6,29,20,19,10,6,3,39,22,2021-05-23T00:00:00+00:00,1.82,52.63,1.79,1.11
+2020,39,Premier League,49,Chelsea,4,67,22,Premier League,LWLWW,same,Promotion - Champions League (Group Stage),38,19,10,9,58,36,19,9,6,4,31,18,19,10,4,5,27,18,2021-05-23T00:00:00+00:00,1.76,50.0,1.53,0.95
+2020,39,Premier League,46,Leicester,5,66,18,Premier League,LLWLD,same,Promotion - Europa League (Group Stage),38,20,6,12,68,50,19,9,1,9,34,30,19,11,5,3,34,20,2021-05-23T00:00:00+00:00,1.74,52.63,1.79,1.32
+2020,39,Premier League,48,West Ham,6,65,15,Premier League,WWDLW,same,Promotion - Europa League (Group Stage),38,19,8,11,62,47,19,10,4,5,32,22,19,9,4,6,30,25,2021-05-23T00:00:00+00:00,1.71,50.0,1.63,1.24
+2020,39,Premier League,47,Tottenham,7,62,23,Premier League,WLWLW,same,Promotion - Europa Conference League (Qualification),38,18,8,12,68,45,19,10,3,6,35,20,19,8,5,6,33,25,2021-05-23T00:00:00+00:00,1.63,47.37,1.79,1.18
+2020,39,Premier League,42,Arsenal,8,61,16,Premier League,WWWWW,same,,38,18,7,13,55,39,19,8,4,7,24,21,19,10,3,6,31,18,2021-05-23T00:00:00+00:00,1.61,47.37,1.45,1.03
+2020,39,Premier League,63,Leeds,9,59,8,Premier League,WWWWL,same,,38,18,5,15,62,54,19,8,5,6,28,21,19,10,0,9,34,33,2021-05-23T00:00:00+00:00,1.55,47.37,1.63,1.42
+2020,39,Premier League,45,Everton,10,59,-1,Premier League,LWLDW,same,,38,17,8,13,47,48,19,6,4,9,24,28,19,11,4,4,23,20,2021-05-23T00:00:00+00:00,1.55,44.74,1.24,1.26
+2020,39,Premier League,66,Aston Villa,11,55,9,Premier League,WWLDL,same,,38,16,7,15,55,46,19,7,4,8,29,27,19,9,3,7,26,19,2021-05-23T00:00:00+00:00,1.45,42.11,1.45,1.21
+2020,39,Premier League,34,Newcastle,12,45,-16,Premier League,WWLWL,same,,38,12,9,17,46,62,19,6,5,8,26,33,19,6,4,9,20,29,2021-05-23T00:00:00+00:00,1.18,31.58,1.21,1.63
+2020,39,Premier League,39,Wolves,13,45,-16,Premier League,LLLWD,same,,38,12,9,17,36,52,19,7,4,8,21,25,19,5,5,9,15,27,2021-05-23T00:00:00+00:00,1.18,31.58,0.95,1.37
+2020,39,Premier League,52,Crystal Palace,14,44,-25,Premier League,LLWLW,same,,38,12,8,18,41,66,19,6,5,8,20,32,19,6,3,10,21,34,2021-05-23T00:00:00+00:00,1.16,31.58,1.08,1.74
+2020,39,Premier League,41,Southampton,15,43,-21,Premier League,LLWWL,same,,38,12,7,19,47,68,19,8,3,8,28,25,19,4,4,11,19,43,2021-05-23T00:00:00+00:00,1.13,31.58,1.24,1.79
+2020,39,Premier League,51,Brighton,16,41,-6,Premier League,LWDLW,same,,38,9,14,15,40,46,19,4,9,6,22,22,19,5,5,9,18,24,2021-05-23T00:00:00+00:00,1.08,23.68,1.05,1.21
+2020,39,Premier League,44,Burnley,17,39,-22,Premier League,LLLWL,same,,38,10,9,19,33,55,19,4,6,9,14,27,19,6,3,10,19,28,2021-05-23T00:00:00+00:00,1.03,26.32,0.87,1.45
+2020,39,Premier League,36,Fulham,18,28,-26,Premier League,LDLLL,same,Relegation - Championship,38,5,13,20,27,53,19,2,4,13,9,28,19,3,9,7,18,25,2021-05-23T00:00:00+00:00,0.74,13.16,0.71,1.39
+2020,39,Premier League,60,West Brom,19,26,-41,Premier League,LLLLD,same,Relegation - Championship,38,5,11,22,35,76,19,3,6,10,15,39,19,2,5,12,20,37,2021-05-23T00:00:00+00:00,0.68,13.16,0.92,2.0
+2020,39,Premier League,62,Sheffield Utd,20,23,-43,Premier League,WLWLL,same,Relegation - Championship,38,7,2,29,20,63,19,5,1,13,12,27,19,2,1,16,8,36,2021-05-23T00:00:00+00:00,0.61,18.42,0.53,1.66
+2021,39,Premier League,50,Manchester City,1,93,73,Premier League,WDWWW,same,Promotion - Champions League (Group Stage),38,29,6,3,99,26,19,15,2,2,58,15,19,14,4,1,41,11,2022-05-22T00:00:00+00:00,2.45,76.32,2.61,0.68
+2021,39,Premier League,40,Liverpool,2,92,68,Premier League,WWWDW,same,Promotion - Champions League (Group Stage),38,28,8,2,94,26,19,15,4,0,49,9,19,13,4,2,45,17,2022-05-22T00:00:00+00:00,2.42,73.68,2.47,0.68
+2021,39,Premier League,49,Chelsea,3,74,43,Premier League,WDWDL,same,Promotion - Champions League (Group Stage),38,21,11,6,76,33,19,9,7,3,37,22,19,12,4,3,39,11,2022-05-22T00:00:00+00:00,1.95,55.26,2.0,0.87
+2021,39,Premier League,47,Tottenham,4,71,29,Premier League,WWWDW,same,Promotion - Champions League (Group Stage),38,22,5,11,69,40,19,13,1,5,38,19,19,9,4,6,31,21,2022-05-22T00:00:00+00:00,1.87,57.89,1.82,1.05
+2021,39,Premier League,42,Arsenal,5,69,13,Premier League,WLLWW,same,Promotion - Europa League (Group Stage),38,22,3,13,61,48,19,13,2,4,35,17,19,9,1,9,26,31,2022-05-22T00:00:00+00:00,1.82,57.89,1.61,1.26
+2021,39,Premier League,33,Manchester United,6,58,0,Premier League,LLWDL,same,Promotion - Europa League (Group Stage),38,16,10,12,57,57,19,10,5,4,32,22,19,6,5,8,25,35,2022-05-22T00:00:00+00:00,1.53,42.11,1.5,1.5
+2021,39,Premier League,48,West Ham,7,56,9,Premier League,LDWLL,same,Promotion - Europa Conference League (Qualification),38,16,8,14,60,51,19,9,5,5,33,26,19,7,3,9,27,25,2022-05-22T00:00:00+00:00,1.47,42.11,1.58,1.34
+2021,39,Premier League,46,Leicester,8,52,3,Premier League,WDWWL,same,,38,14,10,14,62,59,19,10,4,5,34,23,19,4,6,9,28,36,2022-05-22T00:00:00+00:00,1.37,36.84,1.63,1.55
+2021,39,Premier League,51,Brighton,9,51,-2,Premier League,WDWWD,same,,38,12,15,11,42,44,19,5,7,7,19,23,19,7,8,4,23,21,2022-05-22T00:00:00+00:00,1.34,31.58,1.11,1.16
+2021,39,Premier League,39,Wolves,10,51,-5,Premier League,LDLDL,same,,38,15,6,17,38,43,19,7,3,9,20,25,19,8,3,8,18,18,2022-05-22T00:00:00+00:00,1.34,39.47,1.0,1.13
+2021,39,Premier League,34,Newcastle,11,49,-18,Premier League,WWLLW,same,,38,13,10,15,44,62,19,8,6,5,26,27,19,5,4,10,18,35,2022-05-22T00:00:00+00:00,1.29,34.21,1.16,1.63
+2021,39,Premier League,52,Crystal Palace,12,48,4,Premier League,WLDWW,same,,38,11,15,12,50,46,19,7,8,4,27,17,19,4,7,8,23,29,2022-05-22T00:00:00+00:00,1.26,28.95,1.32,1.21
+2021,39,Premier League,55,Brentford,13,46,-8,Premier League,LWWLD,same,,38,13,7,18,48,56,19,7,3,9,22,21,19,6,4,9,26,35,2022-05-22T00:00:00+00:00,1.21,34.21,1.26,1.47
+2021,39,Premier League,66,Aston Villa,14,45,-2,Premier League,LDDLW,same,,38,13,6,19,52,54,19,6,5,8,29,29,19,7,1,11,23,25,2022-05-22T00:00:00+00:00,1.18,34.21,1.37,1.42
+2021,39,Premier League,41,Southampton,15,40,-24,Premier League,LLLLD,same,,38,9,13,16,43,67,19,6,7,6,23,24,19,3,6,10,20,43,2022-05-22T00:00:00+00:00,1.05,23.68,1.13,1.76
+2021,39,Premier League,45,Everton,16,39,-23,Premier League,LWLDW,same,,38,11,6,21,43,66,19,9,2,8,27,25,19,2,4,13,16,41,2022-05-22T00:00:00+00:00,1.03,28.95,1.13,1.74
+2021,39,Premier League,63,Leeds,17,38,-37,Premier League,WDLLL,same,,38,9,11,18,42,79,19,4,6,9,19,38,19,5,5,9,23,41,2022-05-22T00:00:00+00:00,1.0,23.68,1.11,2.08
+2021,39,Premier League,44,Burnley,18,35,-19,Premier League,LDLLW,same,Relegation - Championship,38,7,14,17,34,53,19,5,6,8,18,25,19,2,8,9,16,28,2022-05-22T00:00:00+00:00,0.92,18.42,0.89,1.39
+2021,39,Premier League,38,Watford,19,23,-43,Premier League,LLDLL,same,Relegation - Championship,38,6,5,27,34,77,19,2,2,15,17,46,19,4,3,12,17,31,2022-05-22T00:00:00+00:00,0.61,15.79,0.89,2.03
+2021,39,Premier League,71,Norwich,20,22,-61,Premier League,LDLLL,same,Relegation - Championship,38,5,7,26,23,84,19,3,3,13,12,43,19,2,4,13,11,41,2022-05-22T00:00:00+00:00,0.58,13.16,0.61,2.21
+2022,39,Premier League,50,Manchester City,1,89,61,Premier League,LDWWW,same,Promotion - Champions League (Group Stage: ),38,28,5,5,94,33,19,17,1,1,60,17,19,11,4,4,34,16,2023-05-28T00:00:00+00:00,2.34,73.68,2.47,0.87
+2022,39,Premier League,42,Arsenal,2,84,45,Premier League,WLLWW,same,Promotion - Champions League (Group Stage: ),38,26,6,6,88,43,19,14,3,2,53,25,19,12,3,4,35,18,2023-05-28T00:00:00+00:00,2.21,68.42,2.32,1.13
+2022,39,Premier League,33,Manchester United,3,75,15,Premier League,WWWWL,same,Promotion - Champions League (Group Stage: ),38,23,6,9,58,43,19,15,3,1,36,10,19,8,3,8,22,33,2023-05-28T00:00:00+00:00,1.97,60.53,1.53,1.13
+2022,39,Premier League,34,Newcastle,4,71,35,Premier League,DDWDL,same,Promotion - Champions League (Group Stage: ),38,19,14,5,68,33,19,11,6,2,36,14,19,8,8,3,32,19,2023-05-28T00:00:00+00:00,1.87,50.0,1.79,0.87
+2022,39,Premier League,40,Liverpool,5,67,28,Premier League,DDWWW,same,Promotion - Europa League (Group Stage: ),38,19,10,9,75,47,19,13,5,1,46,17,19,6,5,8,29,30,2023-05-28T00:00:00+00:00,1.76,50.0,1.97,1.24
+2022,39,Premier League,51,Brighton,6,62,19,Premier League,LDWLW,same,Promotion - Europa League (Group Stage: ),38,18,8,12,72,53,19,10,4,5,37,21,19,8,4,7,35,32,2023-05-28T00:00:00+00:00,1.63,47.37,1.89,1.39
+2022,39,Premier League,66,Aston Villa,7,61,5,Premier League,WDWLL,same,Promotion - Europa Conference League (Qualification: ),38,18,7,13,51,46,19,12,2,5,33,21,19,6,5,8,18,25,2023-05-28T00:00:00+00:00,1.61,47.37,1.34,1.21
+2022,39,Premier League,47,Tottenham,8,60,7,Premier League,WLLWL,same,,38,18,6,14,70,63,19,12,1,6,37,25,19,6,5,8,33,38,2023-05-28T00:00:00+00:00,1.58,47.37,1.84,1.66
+2022,39,Premier League,55,Brentford,9,59,12,Premier League,WWWLW,same,,38,15,14,9,58,46,19,10,7,2,35,18,19,5,7,7,23,28,2023-05-28T00:00:00+00:00,1.55,39.47,1.53,1.21
+2022,39,Premier League,36,Fulham,10,52,2,Premier League,LDWWL,same,,38,15,7,16,55,53,19,8,5,6,31,29,19,7,2,10,24,24,2023-05-28T00:00:00+00:00,1.37,39.47,1.45,1.39
+2022,39,Premier League,52,Crystal Palace,11,45,-9,Premier League,DDWLW,same,,38,11,12,15,40,49,19,7,7,5,21,23,19,4,5,10,19,26,2023-05-28T00:00:00+00:00,1.18,28.95,1.05,1.29
+2022,39,Premier League,49,Chelsea,12,44,-9,Premier League,DLLDW,same,,38,11,11,16,38,47,19,6,7,6,20,19,19,5,4,10,18,28,2023-05-28T00:00:00+00:00,1.16,28.95,1.0,1.24
+2022,39,Premier League,39,Wolves,13,41,-27,Premier League,LDLWL,same,,38,11,8,19,31,58,19,9,3,7,19,20,19,2,5,12,12,38,2023-05-28T00:00:00+00:00,1.08,28.95,0.82,1.53
+2022,39,Premier League,48,West Ham,14,40,-13,Premier League,LWLWL,same,,38,11,7,20,42,55,19,8,4,7,26,24,19,3,3,13,16,31,2023-05-28T00:00:00+00:00,1.05,28.95,1.11,1.45
+2022,39,Premier League,35,Bournemouth,15,39,-34,Premier League,LLLLW,same,,38,11,6,21,37,71,19,6,4,9,20,28,19,5,2,12,17,43,2023-05-28T00:00:00+00:00,1.03,28.95,0.97,1.87
+2022,39,Premier League,65,Nottingham Forest,16,38,-30,Premier League,DWDWL,same,,38,9,11,18,38,68,19,8,6,5,27,24,19,1,5,13,11,44,2023-05-28T00:00:00+00:00,1.0,23.68,1.0,1.79
+2022,39,Premier League,45,Everton,17,36,-23,Premier League,WDLWD,same,,38,8,12,18,34,57,19,6,3,10,16,27,19,2,9,8,18,30,2023-05-28T00:00:00+00:00,0.95,21.05,0.89,1.5
+2022,39,Premier League,46,Leicester,18,34,-17,Premier League,WDLLD,same,Relegation - Championship,38,9,7,22,51,68,19,5,4,10,23,27,19,4,3,12,28,41,2023-05-28T00:00:00+00:00,0.89,23.68,1.34,1.79
+2022,39,Premier League,63,Leeds,19,31,-30,Premier League,LLDLL,same,Relegation - Championship,38,7,10,21,48,78,19,5,7,7,26,37,19,2,3,14,22,41,2023-05-28T00:00:00+00:00,0.82,18.42,1.26,2.05
+2022,39,Premier League,41,Southampton,20,25,-37,Premier League,DLLLL,same,Relegation - Championship,38,6,7,25,36,73,19,2,5,12,19,37,19,4,2,13,17,36,2023-05-28T00:00:00+00:00,0.66,15.79,0.95,1.92
+2023,39,Premier League,50,Manchester City,1,91,62,Premier League,WWWWW,same,Promotion - Champions League (Group Stage: ),38,28,7,3,96,34,19,14,5,0,51,16,19,14,2,3,45,18,2024-05-28T00:00:00+00:00,2.39,73.68,2.53,0.89
+2023,39,Premier League,42,Arsenal,2,89,62,Premier League,WWWWW,same,Promotion - Champions League (Group Stage: ),38,28,5,5,91,29,19,15,2,2,48,16,19,13,3,3,43,13,2024-05-28T00:00:00+00:00,2.34,73.68,2.39,0.76
+2023,39,Premier League,40,Liverpool,3,82,45,Premier League,WDWDL,same,Promotion - Champions League (Group Stage: ),38,24,10,4,86,41,19,15,3,1,49,17,19,9,7,3,37,24,2024-05-28T00:00:00+00:00,2.16,63.16,2.26,1.08
+2023,39,Premier League,66,Aston Villa,4,68,15,Premier League,LDLDW,same,Promotion - Champions League (Group Stage: ),38,20,8,10,76,61,19,12,4,3,48,28,19,8,4,7,28,33,2024-05-28T00:00:00+00:00,1.79,52.63,2.0,1.61
+2023,39,Premier League,47,Tottenham,5,66,13,Premier League,WLWLL,same,Promotion - Europa League (Group Stage: ),38,20,6,12,74,61,19,13,0,6,38,27,19,7,6,6,36,34,2024-05-28T00:00:00+00:00,1.74,52.63,1.95,1.61
+2023,39,Premier League,49,Chelsea,6,63,14,Premier League,WWWWW,same,Promotion - Europa Conference League (Qualification: ),38,18,9,11,77,63,19,11,4,4,44,26,19,7,5,7,33,37,2024-05-28T00:00:00+00:00,1.66,47.37,2.03,1.66
+2023,39,Premier League,34,Newcastle,7,60,23,Premier League,WLDWW,same,,38,18,6,14,85,62,19,12,4,3,49,22,19,6,2,11,36,40,2024-05-28T00:00:00+00:00,1.58,47.37,2.24,1.63
+2023,39,Premier League,33,Manchester United,8,60,-1,Premier League,WWLLD,same,Promotion - Europa League (Group Stage: ),38,18,6,14,57,58,19,10,3,6,31,28,19,8,3,8,26,30,2024-05-28T00:00:00+00:00,1.58,47.37,1.5,1.53
+2023,39,Premier League,48,West Ham,9,52,-14,Premier League,LWLDL,same,,38,14,10,14,60,74,19,7,8,4,31,28,19,7,2,10,29,46,2024-05-28T00:00:00+00:00,1.37,36.84,1.58,1.95
+2023,39,Premier League,52,Crystal Palace,10,49,-1,Premier League,WWWDW,same,,38,13,10,15,57,58,19,8,4,7,37,26,19,5,6,8,20,32,2024-05-28T00:00:00+00:00,1.29,34.21,1.5,1.53
+2023,39,Premier League,51,Brighton,11,48,-7,Premier League,LLDWL,same,,38,12,12,14,55,62,19,8,6,5,30,27,19,4,6,9,25,35,2024-05-28T00:00:00+00:00,1.26,31.58,1.45,1.63
+2023,39,Premier League,35,Bournemouth,12,48,-13,Premier League,LLLWW,same,,38,13,9,16,54,67,19,7,6,6,27,28,19,6,3,10,27,39,2024-05-28T00:00:00+00:00,1.26,34.21,1.42,1.76
+2023,39,Premier League,36,Fulham,13,47,-6,Premier League,WLDDL,same,,38,13,8,17,55,61,19,9,2,8,31,24,19,4,6,9,24,37,2024-05-28T00:00:00+00:00,1.24,34.21,1.45,1.61
+2023,39,Premier League,39,Wolves,14,46,-15,Premier League,LLLWL,same,,38,13,7,18,50,65,19,8,3,8,26,30,19,5,4,10,24,35,2024-05-28T00:00:00+00:00,1.21,34.21,1.32,1.71
+2023,39,Premier League,45,Everton,15,40,-11,Premier League,LWDWW,same,,38,13,9,16,40,51,19,8,4,7,22,18,19,5,5,9,18,33,2024-05-28T00:00:00+00:00,1.05,34.21,1.05,1.34
+2023,39,Premier League,55,Brentford,16,39,-9,Premier League,LWDLW,same,,38,10,9,19,56,65,19,5,7,7,29,34,19,5,2,12,27,31,2024-05-28T00:00:00+00:00,1.03,26.32,1.47,1.71
+2023,39,Premier League,65,Nottingham Forest,17,32,-18,Premier League,WLWLL,same,,38,9,9,20,49,67,19,5,5,9,27,30,19,4,4,11,22,37,2024-05-28T00:00:00+00:00,0.84,23.68,1.29,1.76
+2023,39,Premier League,1359,Luton,18,26,-33,Premier League,LLDLL,same,Relegation - Championship,38,6,8,24,52,85,19,4,4,11,28,37,19,2,4,13,24,48,2024-05-28T00:00:00+00:00,0.68,15.79,1.37,2.24
+2023,39,Premier League,44,Burnley,19,24,-37,Premier League,LLLDW,same,Relegation - Championship,38,5,9,24,41,78,19,2,4,13,19,43,19,3,5,11,22,35,2024-05-28T00:00:00+00:00,0.63,13.16,1.08,2.05
+2023,39,Premier League,62,Sheffield Utd,20,16,-69,Premier League,LLLLL,same,Relegation - Championship,38,3,7,28,35,104,19,2,4,13,19,57,19,1,3,15,16,47,2024-05-28T00:00:00+00:00,0.42,7.89,0.92,2.74
+2018,140,La Liga,529,Barcelona,1,87,54,Primera División,DWLWW,,Promotion - Champions League (Group Stage),38,26,9,3,90,36,19,15,3,1,51,17,19,11,6,2,39,19,2019-05-19T00:00:00+00:00,2.29,68.42,2.37,0.95
+2018,140,La Liga,530,Atletico Madrid,2,76,26,Primera División,DDLWW,,Promotion - Champions League (Group Stage),38,22,10,6,55,29,19,15,3,1,32,10,19,7,7,5,23,19,2019-05-19T00:00:00+00:00,2.0,57.89,1.45,0.76
+2018,140,La Liga,541,Real Madrid,3,68,17,Primera División,LLWLD,,Promotion - Champions League (Group Stage),38,21,5,12,63,46,19,13,1,5,32,15,19,8,4,7,31,31,2019-05-19T00:00:00+00:00,1.79,55.26,1.66,1.21
+2018,140,La Liga,532,Valencia,4,61,16,Primera División,WWWLL,,Promotion - Champions League (Group Stage),38,15,16,7,51,35,19,7,10,2,24,12,19,8,6,5,27,23,2019-05-19T00:00:00+00:00,1.61,39.47,1.34,0.92
+2018,140,La Liga,546,Getafe,5,59,13,Primera División,DLWLD,,Promotion - Europa League (Group Stage),38,15,14,9,48,35,19,11,3,5,28,13,19,4,11,4,20,22,2019-05-19T00:00:00+00:00,1.55,39.47,1.26,0.92
+2018,140,La Liga,536,Sevilla,6,59,15,Primera División,WDLLW,,Promotion - Europa League (Qualification),38,17,8,13,62,47,19,12,3,4,39,20,19,5,5,9,23,27,2019-05-19T00:00:00+00:00,1.55,44.74,1.63,1.24
+2018,140,La Liga,540,Espanyol,7,53,-2,Primera División,WWWDD,,Promotion - Europa League (Qualification),38,14,11,13,48,50,19,11,3,5,28,22,19,3,8,8,20,28,2019-05-19T00:00:00+00:00,1.39,36.84,1.26,1.32
+2018,140,La Liga,531,Athletic Club,8,53,-4,Primera División,LWLDW,,,38,13,14,11,41,45,19,9,8,2,26,19,19,4,6,9,15,26,2019-05-19T00:00:00+00:00,1.39,34.21,1.08,1.18
+2018,140,La Liga,548,Real Sociedad,9,50,-1,Primera División,LWWWL,,,38,13,11,14,45,46,19,7,6,6,23,20,19,6,5,8,22,26,2019-05-19T00:00:00+00:00,1.32,34.21,1.18,1.21
+2018,140,La Liga,543,Real Betis,10,50,-8,Primera División,WWLDL,,,38,14,8,16,44,52,19,8,5,6,25,26,19,6,3,10,19,26,2019-05-19T00:00:00+00:00,1.32,36.84,1.16,1.37
+2018,140,La Liga,542,Alaves,11,50,-11,Primera División,WLLDL,,,38,13,11,14,39,50,19,7,8,4,19,19,19,6,3,10,20,31,2019-05-19T00:00:00+00:00,1.32,34.21,1.03,1.32
+2018,140,La Liga,545,Eibar,12,47,-4,Primera División,DLWWL,,,38,11,14,13,46,50,19,9,6,4,31,21,19,2,8,9,15,29,2019-05-19T00:00:00+00:00,1.24,28.95,1.21,1.32
+2018,140,La Liga,537,Leganes,13,45,-6,Primera División,LLWDL,,,38,11,12,15,37,43,19,7,8,4,19,16,19,4,4,11,18,27,2019-05-19T00:00:00+00:00,1.18,28.95,0.97,1.13
+2018,140,La Liga,533,Villarreal,14,44,-3,Primera División,DWLDW,,,38,10,14,14,49,52,19,5,8,6,28,26,19,5,6,8,21,26,2019-05-19T00:00:00+00:00,1.16,26.32,1.29,1.37
+2018,140,La Liga,539,Levante,15,44,-7,Primera División,DWWLW,,,38,11,11,16,59,66,19,6,7,6,34,34,19,5,4,10,25,32,2019-05-19T00:00:00+00:00,1.16,28.95,1.55,1.74
+2018,140,La Liga,720,Valladolid,16,41,-19,Primera División,LWWLW,,,38,10,11,17,32,51,19,5,5,9,16,26,19,5,6,8,16,25,2019-05-19T00:00:00+00:00,1.08,26.32,0.84,1.34
+2018,140,La Liga,538,Celta Vigo,17,41,-9,Primera División,DLWDD,,,38,10,11,17,53,62,19,8,5,6,31,25,19,2,6,11,22,37,2019-05-19T00:00:00+00:00,1.08,26.32,1.39,1.63
+2018,140,La Liga,547,Girona,18,37,-16,Primera División,LLLWL,,Relegation - LaLiga2,38,9,10,19,37,53,19,3,6,10,17,28,19,6,4,9,20,25,2019-05-19T00:00:00+00:00,0.97,23.68,0.97,1.39
+2018,140,La Liga,726,Huesca,19,33,-22,Primera División,WLLDW,,Relegation - LaLiga2,38,7,12,19,43,65,19,5,6,8,24,30,19,2,6,11,19,35,2019-05-19T00:00:00+00:00,0.87,18.42,1.13,1.71
+2018,140,La Liga,728,Rayo Vallecano,20,32,-29,Primera División,DLLWL,,Relegation - LaLiga2,38,8,8,22,41,70,19,5,6,8,25,32,19,3,2,14,16,38,2019-05-19T00:00:00+00:00,0.84,21.05,1.08,1.84
+2019,140,La Liga,541,Real Madrid,1,87,45,Primera División,DWWWW,same,Promotion - Champions League (Group Stage),38,26,9,3,70,25,19,15,4,0,40,11,19,11,5,3,30,14,2020-07-19T00:00:00+00:00,2.29,68.42,1.84,0.66
+2019,140,La Liga,529,Barcelona,2,82,48,Primera División,WLWWW,same,Promotion - Champions League (Group Stage),38,25,7,6,86,38,19,16,2,1,52,16,19,9,5,5,34,22,2020-07-19T00:00:00+00:00,2.16,65.79,2.26,1.0
+2019,140,La Liga,530,Atletico Madrid,3,70,24,Primera División,DWWDW,same,Promotion - Champions League (Group Stage),38,18,16,4,51,27,19,12,6,1,28,11,19,6,10,3,23,16,2020-07-19T00:00:00+00:00,1.84,47.37,1.34,0.71
+2019,140,La Liga,536,Sevilla,4,70,20,Primera División,WDWWW,same,Promotion - Champions League (Group Stage),38,19,13,6,54,34,19,10,7,2,26,14,19,9,6,4,28,20,2020-07-19T00:00:00+00:00,1.84,50.0,1.42,0.89
+2019,140,La Liga,533,Villarreal,5,60,14,Primera División,WLLWL,same,Promotion - Europa League (Group Stage),38,18,6,14,63,49,19,9,5,5,37,25,19,9,1,9,26,24,2020-07-19T00:00:00+00:00,1.58,47.37,1.66,1.29
+2019,140,La Liga,548,Real Sociedad,6,56,8,Primera División,DDWLD,same,Promotion - Europa League (Group Stage),38,16,8,14,56,48,19,9,4,6,33,20,19,7,4,8,23,28,2020-07-19T00:00:00+00:00,1.47,42.11,1.47,1.26
+2019,140,La Liga,715,Granada CF,7,56,7,Primera División,WWLWD,same,Promotion - Europa League (Qualification),38,16,8,14,52,45,19,10,3,6,26,16,19,6,5,8,26,29,2020-07-19T00:00:00+00:00,1.47,42.11,1.37,1.18
+2019,140,La Liga,546,Getafe,8,54,6,Primera División,LLDLD,same,,38,14,12,12,43,37,19,8,6,5,25,20,19,6,6,7,18,17,2020-07-19T00:00:00+00:00,1.42,36.84,1.13,0.97
+2019,140,La Liga,532,Valencia,9,53,-7,Primera División,LWLWD,same,,38,14,11,13,46,53,19,11,7,1,29,16,19,3,4,12,17,37,2020-07-19T00:00:00+00:00,1.39,36.84,1.21,1.39
+2019,140,La Liga,727,Osasuna,10,52,-8,Primera División,DWWLD,same,,38,13,13,12,46,54,19,7,7,5,26,29,19,6,6,7,20,25,2020-07-19T00:00:00+00:00,1.37,34.21,1.21,1.42
+2019,140,La Liga,531,Athletic Club,11,51,3,Primera División,LLWLL,same,,38,13,12,13,41,38,19,9,4,6,21,14,19,4,8,7,20,24,2020-07-19T00:00:00+00:00,1.34,34.21,1.08,1.0
+2019,140,La Liga,539,Levante,12,49,-6,Primera División,WWLLD,same,,38,14,7,17,47,53,19,9,5,5,27,19,19,5,2,12,20,34,2020-07-19T00:00:00+00:00,1.29,36.84,1.24,1.39
+2019,140,La Liga,720,Valladolid,13,42,-11,Primera División,WLLLW,same,,38,9,15,14,32,43,19,5,10,4,18,15,19,4,5,10,14,28,2020-07-19T00:00:00+00:00,1.11,23.68,0.84,1.13
+2019,140,La Liga,545,Eibar,14,42,-17,Primera División,LWWDL,same,,38,11,9,18,39,56,19,8,3,8,25,25,19,3,6,10,14,31,2020-07-19T00:00:00+00:00,1.11,28.95,1.03,1.47
+2019,140,La Liga,543,Real Betis,15,41,-12,Primera División,LLLWD,same,,38,10,11,17,48,60,19,9,4,6,34,27,19,1,7,11,14,33,2020-07-19T00:00:00+00:00,1.08,26.32,1.26,1.58
+2019,140,La Liga,542,Alaves,16,39,-25,Primera División,LWDLL,same,,38,10,9,19,34,59,19,7,6,6,20,19,19,3,3,13,14,40,2020-07-19T00:00:00+00:00,1.03,26.32,0.89,1.55
+2019,140,La Liga,538,Celta Vigo,17,37,-12,Primera División,DLLDD,same,,38,7,16,15,37,49,19,5,8,6,22,20,19,2,8,9,15,29,2020-07-19T00:00:00+00:00,0.97,18.42,0.97,1.29
+2019,140,La Liga,537,Leganes,18,36,-21,Primera División,DWWDW,same,Relegation - LaLiga2,38,8,12,18,30,51,19,5,5,9,17,26,19,3,7,9,13,25,2020-07-19T00:00:00+00:00,0.95,21.05,0.79,1.34
+2019,140,La Liga,798,Mallorca,19,33,-25,Primera División,DLLWL,same,Relegation - LaLiga2,38,9,6,23,40,65,19,8,3,8,25,22,19,1,3,15,15,43,2020-07-19T00:00:00+00:00,0.87,23.68,1.05,1.71
+2019,140,La Liga,540,Espanyol,20,25,-31,Primera División,DLLLL,same,Relegation - LaLiga2,38,5,10,23,27,58,19,2,6,11,15,31,19,3,4,12,12,27,2020-07-19T00:00:00+00:00,0.66,13.16,0.71,1.53
+2020,140,La Liga,530,Atletico Madrid,1,86,42,Primera División,WWWDW,same,Promotion - Champions League (Group Stage),38,26,8,4,67,25,19,15,3,1,41,11,19,11,5,3,26,14,2021-05-23T00:00:00+00:00,2.26,68.42,1.76,0.66
+2020,140,La Liga,541,Real Madrid,2,84,39,Primera División,WWWDW,same,Promotion - Champions League (Group Stage),38,25,9,4,67,28,19,13,3,3,33,13,19,12,6,1,34,15,2021-05-23T00:00:00+00:00,2.21,65.79,1.76,0.74
+2020,140,La Liga,529,Barcelona,3,79,47,Primera División,WLDDW,same,Promotion - Champions League (Group Stage),38,24,7,7,85,38,19,11,5,3,44,20,19,13,2,4,41,18,2021-05-23T00:00:00+00:00,2.08,63.16,2.24,1.0
+2020,140,La Liga,536,Sevilla,4,77,20,Primera División,WLWDL,same,Promotion - Champions League (Group Stage),38,24,5,9,53,33,19,14,1,4,27,11,19,10,4,5,26,22,2021-05-23T00:00:00+00:00,2.03,63.16,1.39,0.87
+2020,140,La Liga,548,Real Sociedad,5,62,21,Primera División,WWLWL,same,Promotion - Europa League (Group Stage),38,17,11,10,59,38,19,9,6,4,34,21,19,8,5,6,25,17,2021-05-23T00:00:00+00:00,1.63,44.74,1.55,1.0
+2020,140,La Liga,543,Real Betis,6,61,0,Primera División,WWDWD,same,Promotion - Europa League (Group Stage),38,17,10,11,50,50,19,10,5,4,27,21,19,7,5,7,23,29,2021-05-23T00:00:00+00:00,1.61,44.74,1.32,1.32
+2020,140,La Liga,533,Villarreal,7,58,16,Primera División,LWWLW,same,Promotion - Europa Conference League (Qualification),38,15,13,10,60,44,19,8,6,5,29,23,19,7,7,5,31,21,2021-05-23T00:00:00+00:00,1.53,39.47,1.58,1.16
+2020,140,La Liga,538,Celta Vigo,8,53,-2,Primera División,LWWWW,same,,38,14,11,13,55,57,19,9,3,7,30,30,19,5,8,6,25,27,2021-05-23T00:00:00+00:00,1.39,36.84,1.45,1.5
+2020,140,La Liga,715,Granada CF,9,46,-18,Primera División,DLLLL,same,,38,13,7,18,47,65,19,9,4,6,25,25,19,4,3,12,22,40,2021-05-23T00:00:00+00:00,1.21,34.21,1.24,1.71
+2020,140,La Liga,531,Athletic Club,10,46,4,Primera División,LLLDW,same,,38,11,13,14,46,42,19,8,6,5,29,19,19,3,7,9,17,23,2021-05-23T00:00:00+00:00,1.21,28.95,1.21,1.11
+2020,140,La Liga,727,Osasuna,11,44,-11,Primera División,LLWDL,same,,38,11,11,16,37,48,19,7,5,7,21,23,19,4,6,9,16,25,2021-05-23T00:00:00+00:00,1.16,28.95,0.97,1.26
+2020,140,La Liga,724,Cadiz,12,44,-22,Primera División,DLLWW,same,,38,11,11,16,36,58,19,5,5,9,17,30,19,6,6,7,19,28,2021-05-23T00:00:00+00:00,1.16,28.95,0.95,1.53
+2020,140,La Liga,532,Valencia,13,43,-3,Primera División,DWLWL,same,,38,10,13,15,50,53,19,8,7,4,34,23,19,2,6,11,16,30,2021-05-23T00:00:00+00:00,1.13,26.32,1.32,1.39
+2020,140,La Liga,539,Levante,14,41,-11,Primera División,DLDDL,same,,38,9,14,15,46,57,19,5,9,5,27,30,19,4,5,10,19,27,2021-05-23T00:00:00+00:00,1.08,23.68,1.21,1.5
+2020,140,La Liga,546,Getafe,15,38,-15,Primera División,DWLLL,same,,38,9,11,18,28,43,19,6,6,7,15,13,19,3,5,11,13,30,2021-05-23T00:00:00+00:00,1.0,23.68,0.74,1.13
+2020,140,La Liga,542,Alaves,16,38,-21,Primera División,LWWDL,same,,38,9,11,18,36,57,19,6,6,7,21,25,19,3,5,11,15,32,2021-05-23T00:00:00+00:00,1.0,23.68,0.95,1.5
+2020,140,La Liga,797,Elche,17,36,-21,Primera División,WWLLL,same,,38,8,12,18,34,55,19,5,8,6,18,23,19,3,4,12,16,32,2021-05-23T00:00:00+00:00,0.95,21.05,0.89,1.45
+2020,140,La Liga,726,Huesca,18,34,-19,Primera División,DLWLW,same,Relegation - LaLiga2,38,7,13,18,34,53,19,5,7,7,17,21,19,2,6,11,17,32,2021-05-23T00:00:00+00:00,0.89,18.42,0.89,1.39
+2020,140,La Liga,720,Valladolid,19,31,-23,Primera División,LLLLD,same,Relegation - LaLiga2,38,5,16,17,34,57,19,3,7,9,19,30,19,2,9,8,15,27,2021-05-23T00:00:00+00:00,0.82,13.16,0.89,1.5
+2020,140,La Liga,545,Eibar,20,30,-23,Primera División,LLDWW,same,Relegation - LaLiga2,38,6,12,20,29,52,19,2,7,10,12,21,19,4,5,10,17,31,2021-05-23T00:00:00+00:00,0.79,15.79,0.76,1.37
+2021,140,La Liga,541,Real Madrid,1,86,49,Primera División,DDWLW,same,Promotion - Champions League (Group Stage),38,26,8,4,80,31,19,13,5,1,44,13,19,13,3,3,36,18,2022-05-22T00:00:00+00:00,2.26,68.42,2.11,0.82
+2021,140,La Liga,529,Barcelona,2,73,30,Primera División,LDWWW,same,Promotion - Champions League (Group Stage),38,21,10,7,68,38,19,12,2,5,37,19,19,9,8,2,31,19,2022-05-22T00:00:00+00:00,1.92,55.26,1.79,1.0
+2021,140,La Liga,530,Atletico Madrid,3,71,22,Primera División,WDWWL,same,Promotion - Champions League (Group Stage),38,21,8,9,65,43,19,12,5,2,33,16,19,9,3,7,32,27,2022-05-22T00:00:00+00:00,1.87,55.26,1.71,1.13
+2021,140,La Liga,536,Sevilla,4,70,23,Primera División,WDDDD,same,Promotion - Champions League (Group Stage),38,18,16,4,53,30,19,12,6,1,36,17,19,6,10,3,17,13,2022-05-22T00:00:00+00:00,1.84,47.37,1.39,0.79
+2021,140,La Liga,543,Real Betis,5,65,22,Primera División,DWWLD,same,Promotion - Europa League (Group Stage),38,19,8,11,62,40,19,10,2,7,34,22,19,9,6,4,28,18,2022-05-22T00:00:00+00:00,1.71,50.0,1.63,1.05
+2021,140,La Liga,548,Real Sociedad,6,62,3,Primera División,LWWLD,same,Promotion - Europa League (Group Stage),38,17,11,10,40,37,19,10,5,4,16,9,19,7,6,6,24,28,2022-05-22T00:00:00+00:00,1.63,44.74,1.05,0.97
+2021,140,La Liga,533,Villarreal,7,59,26,Primera División,WLWDL,same,Promotion - Europa Conference League (Qualification),38,16,11,11,63,37,19,10,6,3,40,18,19,6,5,8,23,19,2022-05-22T00:00:00+00:00,1.55,42.11,1.66,0.97
+2021,140,La Liga,531,Athletic Club,8,55,7,Primera División,LWLDW,same,,38,14,13,11,43,36,19,10,4,5,29,18,19,4,9,6,14,18,2022-05-22T00:00:00+00:00,1.45,36.84,1.13,0.95
+2021,140,La Liga,532,Valencia,9,48,-5,Primera División,WDLDD,same,,38,11,15,12,48,53,19,6,8,5,26,24,19,5,7,7,22,29,2022-05-22T00:00:00+00:00,1.26,28.95,1.26,1.39
+2021,140,La Liga,727,Osasuna,10,47,-14,Primera División,LLDDD,same,,38,12,11,15,37,51,19,5,7,7,17,26,19,7,4,8,20,25,2022-05-22T00:00:00+00:00,1.24,31.58,0.97,1.34
+2021,140,La Liga,538,Celta Vigo,11,46,0,Primera División,LWLWD,same,,38,12,10,16,43,43,19,7,4,8,26,23,19,5,6,8,17,20,2022-05-22T00:00:00+00:00,1.21,31.58,1.13,1.13
+2021,140,La Liga,728,Rayo Vallecano,12,42,-11,Primera División,LLLDD,same,,38,11,9,18,39,50,19,8,5,6,26,22,19,3,4,12,13,28,2022-05-22T00:00:00+00:00,1.11,28.95,1.03,1.32
+2021,140,La Liga,797,Elche,13,42,-12,Primera División,WLLLD,same,,38,11,9,18,40,52,19,7,6,6,24,21,19,4,3,12,16,31,2022-05-22T00:00:00+00:00,1.11,28.95,1.05,1.37
+2021,140,La Liga,540,Espanyol,14,42,-13,Primera División,DDLDL,same,,38,10,12,16,40,53,19,9,6,4,25,19,19,1,6,12,15,34,2022-05-22T00:00:00+00:00,1.11,26.32,1.05,1.39
+2021,140,La Liga,546,Getafe,15,39,-8,Primera División,LDDDD,same,,38,8,15,15,33,41,19,7,7,5,21,15,19,1,8,10,12,26,2022-05-22T00:00:00+00:00,1.03,21.05,0.87,1.08
+2021,140,La Liga,798,Mallorca,16,39,-27,Primera División,WWDLL,same,,38,10,9,19,36,63,19,7,6,6,20,25,19,3,3,13,16,38,2022-05-22T00:00:00+00:00,1.03,26.32,0.95,1.66
+2021,140,La Liga,724,Cadiz,17,39,-16,Primera División,WDLWD,same,,38,8,15,15,35,51,19,3,9,7,19,24,19,5,6,8,16,27,2022-05-22T00:00:00+00:00,1.03,21.05,0.92,1.34
+2021,140,La Liga,715,Granada CF,18,38,-17,Primera División,DLWWD,same,Relegation - LaLiga2,38,8,14,16,44,61,19,5,7,7,22,29,19,3,7,9,22,32,2022-05-22T00:00:00+00:00,1.0,21.05,1.16,1.61
+2021,140,La Liga,539,Levante,19,35,-25,Primera División,WWLWD,same,Relegation - LaLiga2,38,8,11,19,51,76,19,5,7,7,28,30,19,3,4,12,23,46,2022-05-22T00:00:00+00:00,0.92,21.05,1.34,2.0
+2021,140,La Liga,542,Alaves,20,31,-34,Primera División,LLWLW,same,Relegation - LaLiga2,38,8,7,23,31,65,19,7,4,8,17,21,19,1,3,15,14,44,2022-05-22T00:00:00+00:00,0.82,21.05,0.82,1.71
+2022,140,La Liga,529,Barcelona,1,88,50,Primera División,LWLLW,same,Promotion - Champions League (Group Stage: ),38,28,4,6,70,20,19,15,3,1,37,4,19,13,1,5,33,16,2023-06-04T00:00:00+00:00,2.32,73.68,1.84,0.53
+2022,140,La Liga,541,Real Madrid,2,78,39,Primera División,DWWLW,same,Promotion - Champions League (Group Stage: ),38,24,6,8,75,36,19,13,5,1,44,16,19,11,1,7,31,20,2023-06-04T00:00:00+00:00,2.05,63.16,1.97,0.95
+2022,140,La Liga,530,Atletico Madrid,3,77,37,Primera División,DWDWL,same,Promotion - Champions League (Group Stage: ),38,23,8,7,70,33,19,13,3,3,41,15,19,10,5,4,29,18,2023-06-04T00:00:00+00:00,2.03,60.53,1.84,0.87
+2022,140,La Liga,548,Real Sociedad,4,71,16,Primera División,WLWWD,same,Promotion - Champions League (Group Stage: ),38,21,8,9,51,35,19,11,5,3,26,16,19,10,3,6,25,19,2023-06-04T00:00:00+00:00,1.87,55.26,1.34,0.92
+2022,140,La Liga,533,Villarreal,5,64,19,Primera División,DLWWW,same,Promotion - Europa League (Group Stage: ),38,19,7,12,59,40,19,12,3,4,36,18,19,7,4,8,23,22,2023-06-04T00:00:00+00:00,1.68,50.0,1.55,1.05
+2022,140,La Liga,543,Real Betis,6,60,5,Primera División,DWLDW,same,Promotion - Europa League (Group Stage: ),38,17,9,12,46,41,19,9,5,5,26,18,19,8,4,7,20,23,2023-06-04T00:00:00+00:00,1.58,44.74,1.21,1.08
+2022,140,La Liga,727,Osasuna,7,53,-5,Primera División,WLWLW,same,Promotion - Europa Conference League (Qualification: ),38,15,8,15,37,42,19,11,1,7,24,21,19,4,7,8,13,21,2023-06-04T00:00:00+00:00,1.39,39.47,0.97,1.11
+2022,140,La Liga,531,Athletic Club,8,51,4,Primera División,DLLWL,same,,38,14,9,15,47,43,19,8,3,8,22,15,19,6,6,7,25,28,2023-06-04T00:00:00+00:00,1.34,36.84,1.24,1.13
+2022,140,La Liga,798,Mallorca,9,50,-6,Primera División,WLWLW,same,,38,14,8,16,37,43,19,10,5,4,22,12,19,4,3,12,15,31,2023-06-04T00:00:00+00:00,1.32,36.84,0.97,1.13
+2022,140,La Liga,547,Girona,10,49,3,Primera División,LLDLD,same,,38,13,10,15,58,55,19,10,3,6,35,26,19,3,7,9,23,29,2023-06-04T00:00:00+00:00,1.29,34.21,1.53,1.45
+2022,140,La Liga,728,Rayo Vallecano,11,49,-8,Primera División,LWLLL,same,,38,13,10,15,45,53,19,9,5,5,28,22,19,4,5,10,17,31,2023-06-04T00:00:00+00:00,1.29,34.21,1.18,1.39
+2022,140,La Liga,536,Sevilla,12,49,-7,Primera División,LLDDW,same,Promotion - Champions League (Group Stage: ),38,13,10,15,47,54,19,7,5,7,24,25,19,6,5,8,23,29,2023-06-04T00:00:00+00:00,1.29,34.21,1.24,1.42
+2022,140,La Liga,538,Celta Vigo,13,43,-10,Primera División,WLDLL,same,,38,11,10,17,43,53,19,7,6,6,26,21,19,4,4,11,17,32,2023-06-04T00:00:00+00:00,1.13,28.95,1.13,1.39
+2022,140,La Liga,724,Cadiz,14,42,-23,Primera División,DWLWL,same,,38,10,12,16,30,53,19,7,6,6,19,23,19,3,6,10,11,30,2023-06-04T00:00:00+00:00,1.11,26.32,0.79,1.39
+2022,140,La Liga,546,Getafe,15,42,-11,Primera División,DWWDL,same,,38,10,12,16,34,45,19,7,6,6,21,20,19,3,6,10,13,25,2023-06-04T00:00:00+00:00,1.11,26.32,0.89,1.18
+2022,140,La Liga,532,Valencia,16,42,-3,Primera División,DDLWW,same,,38,11,9,18,42,45,19,8,5,6,27,19,19,3,4,12,15,26,2023-06-04T00:00:00+00:00,1.11,28.95,1.11,1.18
+2022,140,La Liga,723,Almeria,17,41,-16,Primera División,DDLWL,same,,38,11,8,19,49,65,19,10,3,6,29,22,19,1,5,13,20,43,2023-06-04T00:00:00+00:00,1.08,28.95,1.29,1.71
+2022,140,La Liga,720,Valladolid,18,40,-30,Primera División,DDWLL,same,Relegation - LaLiga2,38,11,7,20,33,63,19,8,4,7,21,25,19,3,3,13,12,38,2023-06-04T00:00:00+00:00,1.05,28.95,0.87,1.66
+2022,140,La Liga,540,Espanyol,19,37,-17,Primera División,DDDWL,same,Relegation - LaLiga2,38,8,13,17,52,69,19,4,7,8,27,35,19,4,6,9,25,34,2023-06-04T00:00:00+00:00,0.97,21.05,1.37,1.82
+2022,140,La Liga,797,Elche,20,25,-37,Primera División,DWDDW,same,Relegation - LaLiga2,38,5,10,23,30,67,19,3,6,10,18,29,19,2,4,13,12,38,2023-06-04T00:00:00+00:00,0.66,13.16,0.79,1.76
+2023,140,La Liga,541,Real Madrid,1,95,61,Primera División,DDWWW,same,Promotion - Champions League (Group Stage: ),38,29,8,1,87,26,19,16,3,0,48,9,19,13,5,1,39,17,2024-05-29T00:00:00+00:00,2.5,76.32,2.29,0.68
+2023,140,La Liga,529,Barcelona,2,85,35,Primera División,WWWWL,same,Promotion - Champions League (Group Stage: ),38,26,7,5,79,44,19,15,1,3,43,21,19,11,6,2,36,23,2024-05-29T00:00:00+00:00,2.24,68.42,2.08,1.16
+2023,140,La Liga,547,Girona,3,81,39,Primera División,WWLDW,same,Promotion - Champions League (Group Stage: ),38,25,6,7,85,46,19,15,2,2,53,20,19,10,4,5,32,26,2024-05-29T00:00:00+00:00,2.13,65.79,2.24,1.21
+2023,140,La Liga,530,Atletico Madrid,4,76,27,Primera División,WLWWW,same,Promotion - Champions League (Group Stage: ),38,24,4,10,70,43,19,16,1,2,42,22,19,8,3,8,28,21,2024-05-29T00:00:00+00:00,2.0,63.16,1.84,1.13
+2023,140,La Liga,531,Athletic Club,5,68,24,Primera División,WWLDW,same,Promotion - Europa League (Group Stage: ),38,19,11,8,61,37,19,12,6,1,42,18,19,7,5,7,19,19,2024-05-29T00:00:00+00:00,1.79,50.0,1.61,0.97
+2023,140,La Liga,548,Real Sociedad,6,60,12,Primera División,LWWLW,same,Promotion - Europa League (Group Stage: ),38,16,12,10,51,39,19,8,6,5,26,20,19,8,6,5,25,19,2024-05-29T00:00:00+00:00,1.58,42.11,1.34,1.03
+2023,140,La Liga,543,Real Betis,7,57,3,Primera División,DLDWW,same,Promotion - Europa Conference League (Qualification: ),38,14,15,9,48,45,19,9,7,3,27,19,19,5,8,6,21,26,2024-05-29T00:00:00+00:00,1.5,36.84,1.26,1.18
+2023,140,La Liga,533,Villarreal,8,53,0,Primera División,DDWWL,same,,38,14,11,13,65,65,19,7,5,7,36,32,19,7,6,6,29,33,2024-05-29T00:00:00+00:00,1.39,36.84,1.71,1.71
+2023,140,La Liga,532,Valencia,9,49,-5,Primera División,DLLDL,same,,38,13,10,15,40,45,19,8,6,5,20,14,19,5,4,10,20,31,2024-05-29T00:00:00+00:00,1.29,34.21,1.05,1.18
+2023,140,La Liga,542,Alaves,10,46,-10,Primera División,DWLDW,same,,38,12,10,16,36,46,19,9,4,6,23,19,19,3,6,10,13,27,2024-05-29T00:00:00+00:00,1.21,31.58,0.95,1.21
+2023,140,La Liga,727,Osasuna,11,45,-11,Primera División,DWDDL,same,,38,12,9,17,45,56,19,6,5,8,19,26,19,6,4,9,26,30,2024-05-29T00:00:00+00:00,1.18,31.58,1.18,1.47
+2023,140,La Liga,546,Getafe,12,43,-12,Primera División,LLLLL,same,,38,10,13,15,42,54,19,8,5,6,20,22,19,2,8,9,22,32,2024-05-29T00:00:00+00:00,1.13,26.32,1.11,1.42
+2023,140,La Liga,538,Celta Vigo,13,41,-11,Primera División,DWWLW,same,,38,10,11,17,46,57,19,6,6,7,21,23,19,4,5,10,25,34,2024-05-29T00:00:00+00:00,1.08,26.32,1.21,1.5
+2023,140,La Liga,536,Sevilla,14,41,-6,Primera División,LLLLW,same,,38,10,11,17,48,54,19,6,5,8,27,27,19,4,6,9,21,27,2024-05-29T00:00:00+00:00,1.08,26.32,1.26,1.42
+2023,140,La Liga,798,Mallorca,15,40,-11,Primera División,WDDWL,same,,38,8,16,14,33,44,19,6,8,5,17,16,19,2,8,9,16,28,2024-05-29T00:00:00+00:00,1.05,21.05,0.87,1.16
+2023,140,La Liga,534,Las Palmas,16,40,-14,Primera División,DDDLL,same,,38,10,10,18,33,47,19,6,6,7,20,20,19,4,4,11,13,27,2024-05-29T00:00:00+00:00,1.05,26.32,0.87,1.24
+2023,140,La Liga,728,Rayo Vallecano,17,38,-19,Primera División,LLWDL,same,,38,8,14,16,29,48,19,4,8,7,18,26,19,4,6,9,11,22,2024-05-29T00:00:00+00:00,1.0,21.05,0.76,1.26
+2023,140,La Liga,724,Cadiz,18,33,-29,Primera División,LDWWL,same,Relegation - LaLiga2,38,6,15,17,26,55,19,5,9,5,16,19,19,1,6,12,10,36,2024-05-29T00:00:00+00:00,0.87,15.79,0.68,1.45
+2023,140,La Liga,723,Almeria,19,21,-32,Primera División,WDLLW,same,Relegation - LaLiga2,38,3,12,23,43,75,19,1,8,10,22,36,19,2,4,13,21,39,2024-05-29T00:00:00+00:00,0.55,7.89,1.13,1.97
+2023,140,La Liga,715,Granada CF,20,21,-41,Primera División,LLLLL,same,Relegation - LaLiga2,38,4,9,25,38,79,19,4,6,9,24,32,19,0,3,16,14,47,2024-05-29T00:00:00+00:00,0.55,10.53,1.0,2.08
+2018,135,Serie A,496,Juventus,1,90,40,Serie A,LDLDD,,Promotion - Champions League (Group Stage),38,28,6,4,70,30,19,15,4,0,39,13,19,13,2,4,31,17,2019-05-26T00:00:00+00:00,2.37,73.68,1.84,0.79
+2018,135,Serie A,492,Napoli,2,79,38,Serie A,LWWWW,,Promotion - Champions League (Group Stage),38,24,7,7,74,36,19,13,4,2,41,16,19,11,3,5,33,20,2019-05-26T00:00:00+00:00,2.08,63.16,1.95,0.95
+2018,135,Serie A,499,Atalanta,3,69,31,Serie A,WDWWW,,Promotion - Champions League (Group Stage),38,20,9,9,77,46,19,10,5,4,36,19,19,10,4,5,41,27,2019-05-26T00:00:00+00:00,1.82,52.63,2.03,1.21
+2018,135,Serie A,505,Inter,4,69,24,Serie A,WLWDD,,Promotion - Champions League (Group Stage),38,20,9,9,57,33,19,11,5,3,27,10,19,9,4,6,30,23,2019-05-26T00:00:00+00:00,1.82,52.63,1.5,0.87
+2018,135,Serie A,489,AC Milan,5,68,19,Serie A,WWWWL,,Promotion - Europa League (Group Stage),38,19,11,8,55,36,19,12,4,3,31,17,19,7,7,5,24,19,2019-05-26T00:00:00+00:00,1.79,50.0,1.45,0.95
+2018,135,Serie A,497,AS Roma,6,66,18,Serie A,WDWDW,,Promotion - Europa League (Qualification),38,18,12,8,66,48,19,12,5,2,43,26,19,6,7,6,23,22,2019-05-26T00:00:00+00:00,1.74,47.37,1.74,1.26
+2018,135,Serie A,503,Torino,7,63,15,Serie A,WLWDW,,,38,16,15,7,52,37,19,12,2,5,32,19,19,4,13,2,20,18,2019-05-26T00:00:00+00:00,1.66,42.11,1.37,0.97
+2018,135,Serie A,487,Lazio,8,59,10,Serie A,LDWLW,,Promotion - Europa League (Group Stage),38,17,8,13,56,46,19,9,5,5,36,25,19,8,3,8,20,21,2019-05-26T00:00:00+00:00,1.55,44.74,1.47,1.21
+2018,135,Serie A,498,Sampdoria,9,53,9,Serie A,WDLDL,,,38,15,8,15,60,51,19,10,2,7,28,16,19,5,6,8,32,35,2019-05-26T00:00:00+00:00,1.39,39.47,1.58,1.34
+2018,135,Serie A,500,Bologna,10,44,-8,Serie A,WDWLW,,,38,11,11,16,48,56,19,9,4,6,28,22,19,2,7,10,20,34,2019-05-26T00:00:00+00:00,1.16,28.95,1.26,1.47
+2018,135,Serie A,488,Sassuolo,11,43,-7,Serie A,LDLDW,,,38,9,16,13,53,60,19,5,10,4,33,33,19,4,6,9,20,27,2019-05-26T00:00:00+00:00,1.13,23.68,1.39,1.58
+2018,135,Serie A,494,Udinese,12,43,-14,Serie A,WWWDL,,,38,11,10,17,39,53,19,8,5,6,22,22,19,3,5,11,17,31,2019-05-26T00:00:00+00:00,1.13,28.95,1.03,1.39
+2018,135,Serie A,493,Spal,13,42,-12,Serie A,LLLWD,,,38,11,9,18,44,56,19,5,7,7,20,26,19,6,2,11,24,30,2019-05-26T00:00:00+00:00,1.11,28.95,1.16,1.47
+2018,135,Serie A,523,Parma,14,41,-20,Serie A,LWLDD,,,38,10,11,17,41,61,19,5,7,7,18,25,19,5,4,10,23,36,2019-05-26T00:00:00+00:00,1.08,26.32,1.08,1.61
+2018,135,Serie A,490,Cagliari,15,41,-18,Serie A,LDLLL,,,38,10,11,17,36,54,19,8,6,5,23,20,19,2,5,12,13,34,2019-05-26T00:00:00+00:00,1.08,26.32,0.95,1.42
+2018,135,Serie A,502,Fiorentina,16,41,2,Serie A,DLLLL,,,38,8,17,13,47,45,19,5,9,5,25,19,19,3,8,8,22,26,2019-05-26T00:00:00+00:00,1.08,21.05,1.24,1.18
+2018,135,Serie A,495,Genoa,17,38,-18,Serie A,DDLDD,,,38,8,14,16,39,57,19,6,8,5,21,22,19,2,6,11,18,35,2019-05-26T00:00:00+00:00,1.0,21.05,1.03,1.5
+2018,135,Serie A,511,Empoli,18,38,-19,Serie A,LWWWL,,Relegation - Serie B,38,10,8,20,51,70,19,9,3,7,33,30,19,1,5,13,18,40,2019-05-26T00:00:00+00:00,1.0,26.32,1.34,1.84
+2018,135,Serie A,512,Frosinone,19,25,-40,Serie A,DLLDL,,Relegation - Serie B,38,5,10,23,29,69,19,1,6,12,14,38,19,4,4,11,15,31,2019-05-26T00:00:00+00:00,0.66,13.16,0.76,1.82
+2018,135,Serie A,491,Chievo,20,17,-50,Serie A,DDLLD,,Relegation - Serie B,38,2,14,22,25,75,19,1,7,11,14,37,19,1,7,11,11,38,2019-05-26T00:00:00+00:00,0.45,5.26,0.66,1.97
+2019,135,Serie A,496,Juventus,1,83,33,Serie A,LLWLW,same,Promotion - Champions League (Group Stage),38,26,5,7,76,43,19,16,2,1,46,17,19,10,3,6,30,26,2020-08-02T00:00:00+00:00,2.18,68.42,2.0,1.13
+2019,135,Serie A,505,Inter,2,82,45,Serie A,WWWDD,same,Promotion - Champions League (Group Stage),38,24,10,4,81,36,19,11,6,2,40,17,19,13,4,2,41,19,2020-08-02T00:00:00+00:00,2.16,63.16,2.13,0.95
+2019,135,Serie A,499,Atalanta,3,78,50,Serie A,LWDWD,same,Promotion - Champions League (Group Stage),38,23,9,6,98,48,19,12,2,5,51,26,19,11,7,1,47,22,2020-08-02T00:00:00+00:00,2.05,60.53,2.58,1.26
+2019,135,Serie A,487,Lazio,4,78,37,Serie A,LWWWL,same,Promotion - Champions League (Group Stage),38,24,6,8,79,42,19,14,3,2,46,17,19,10,3,6,33,25,2020-08-02T00:00:00+00:00,2.05,63.16,2.08,1.11
+2019,135,Serie A,497,AS Roma,5,70,26,Serie A,WWWWD,same,Promotion - Europa League (Group Stage),38,21,7,10,77,51,19,10,4,5,36,27,19,11,3,5,41,24,2020-08-02T00:00:00+00:00,1.84,55.26,2.03,1.34
+2019,135,Serie A,489,AC Milan,6,66,17,Serie A,WWDWW,same,Promotion - Europa League (Qualification),38,19,9,10,63,46,19,9,6,4,31,20,19,10,3,6,32,26,2020-08-02T00:00:00+00:00,1.74,50.0,1.66,1.21
+2019,135,Serie A,492,Napoli,7,62,11,Serie A,WLWLW,same,,38,18,8,12,61,50,19,10,3,6,31,24,19,8,5,6,30,26,2020-08-02T00:00:00+00:00,1.63,47.37,1.61,1.32
+2019,135,Serie A,488,Sassuolo,8,51,6,Serie A,LWLLD,same,,38,14,9,15,69,63,19,8,3,8,44,33,19,6,6,7,25,30,2020-08-02T00:00:00+00:00,1.34,36.84,1.82,1.66
+2019,135,Serie A,504,Verona,9,49,-4,Serie A,LWLDD,same,,38,12,13,13,47,51,19,9,5,5,29,25,19,3,8,8,18,26,2020-08-02T00:00:00+00:00,1.29,31.58,1.24,1.34
+2019,135,Serie A,502,Fiorentina,10,49,3,Serie A,WWLDW,same,,38,12,13,13,51,48,19,5,8,6,22,22,19,7,5,7,29,26,2020-08-02T00:00:00+00:00,1.29,31.58,1.34,1.26
+2019,135,Serie A,523,Parma,11,49,-1,Serie A,WLWWL,same,,38,14,7,17,56,57,19,7,2,10,26,24,19,7,5,7,30,33,2020-08-02T00:00:00+00:00,1.29,36.84,1.47,1.5
+2019,135,Serie A,500,Bologna,12,47,-13,Serie A,DLWLL,same,,38,12,11,15,52,65,19,5,8,6,25,29,19,7,3,9,27,36,2020-08-02T00:00:00+00:00,1.24,31.58,1.37,1.71
+2019,135,Serie A,494,Udinese,13,45,-14,Serie A,WLWWL,same,,38,12,9,17,37,51,19,6,6,7,18,23,19,6,3,10,19,28,2020-08-02T00:00:00+00:00,1.18,31.58,0.97,1.34
+2019,135,Serie A,490,Cagliari,14,45,-4,Serie A,LWLLD,same,,38,11,12,15,52,56,19,7,4,8,32,28,19,4,8,7,20,28,2020-08-02T00:00:00+00:00,1.18,28.95,1.37,1.47
+2019,135,Serie A,498,Sampdoria,15,42,-17,Serie A,DLLLW,same,,38,12,6,20,48,65,19,6,4,9,25,30,19,6,2,11,23,35,2020-08-02T00:00:00+00:00,1.11,31.58,1.26,1.71
+2019,135,Serie A,503,Torino,16,40,-22,Serie A,DLDDL,same,,38,11,7,20,46,68,19,7,4,8,23,30,19,4,3,12,23,38,2020-08-02T00:00:00+00:00,1.05,28.95,1.21,1.79
+2019,135,Serie A,495,Genoa,17,39,-26,Serie A,WLLWW,same,,38,10,9,19,47,73,19,7,1,11,24,31,19,3,8,8,23,42,2020-08-02T00:00:00+00:00,1.03,26.32,1.24,1.92
+2019,135,Serie A,867,Lecce,18,35,-33,Serie A,LWLWL,same,Relegation - Serie B,38,9,8,21,52,85,19,4,5,10,30,41,19,5,3,11,22,44,2020-08-02T00:00:00+00:00,0.92,23.68,1.37,2.24
+2019,135,Serie A,518,Brescia,19,25,-44,Serie A,DLLLW,same,Relegation - Serie B,38,6,7,25,35,79,19,3,5,11,21,34,19,3,2,14,14,45,2020-08-02T00:00:00+00:00,0.66,15.79,0.92,2.08
+2019,135,Serie A,493,Spal,20,20,-50,Serie A,LLDLL,same,Relegation - Serie B,38,5,5,28,27,77,19,2,4,13,16,40,19,3,1,15,11,37,2020-08-02T00:00:00+00:00,0.53,13.16,0.71,2.03
+2020,135,Serie A,505,Inter,1,91,54,Serie A,WLWWW,same,Promotion - Champions League (Group Stage),38,28,7,3,89,35,19,17,1,1,53,18,19,11,6,2,36,17,2021-05-23T00:00:00+00:00,2.39,73.68,2.34,0.92
+2020,135,Serie A,489,AC Milan,2,79,33,Serie A,WDWWW,same,Promotion - Champions League (Group Stage),38,24,7,7,74,41,19,8,6,5,31,24,19,16,1,2,43,17,2021-05-23T00:00:00+00:00,2.08,63.16,1.95,1.08
+2020,135,Serie A,499,Atalanta,3,78,43,Serie A,LWWWD,same,Promotion - Champions League (Group Stage),38,23,9,6,90,47,19,12,3,4,49,24,19,11,6,2,41,23,2021-05-23T00:00:00+00:00,2.05,60.53,2.37,1.24
+2020,135,Serie A,496,Juventus,4,78,39,Serie A,WWWLW,same,Promotion - Champions League (Group Stage),38,23,9,6,77,38,19,14,2,3,40,18,19,9,7,3,37,20,2021-05-23T00:00:00+00:00,2.05,60.53,2.03,1.0
+2020,135,Serie A,492,Napoli,5,77,45,Serie A,DWWWD,same,Promotion - Europa League (Group Stage),38,24,5,9,86,41,19,12,4,3,50,20,19,12,1,6,36,21,2021-05-23T00:00:00+00:00,2.03,63.16,2.26,1.08
+2020,135,Serie A,487,Lazio,6,68,6,Serie A,LDLWL,same,Promotion - Europa League (Group Stage),38,21,5,12,61,55,19,13,3,3,36,23,19,8,2,9,25,32,2021-05-23T00:00:00+00:00,1.79,55.26,1.61,1.45
+2020,135,Serie A,497,AS Roma,7,62,10,Serie A,DWLWL,same,Promotion - Europa Conference League (Qualification),38,18,8,12,68,58,19,13,4,2,42,18,19,5,4,10,26,40,2021-05-23T00:00:00+00:00,1.63,47.37,1.79,1.53
+2020,135,Serie A,488,Sassuolo,8,62,8,Serie A,WWLWD,same,,38,17,11,10,64,56,19,7,8,4,31,27,19,10,3,6,33,29,2021-05-23T00:00:00+00:00,1.63,44.74,1.68,1.47
+2020,135,Serie A,498,Sampdoria,9,52,-2,Serie A,WWDLW,same,,38,15,7,16,52,54,19,9,3,7,32,26,19,6,4,9,20,28,2021-05-23T00:00:00+00:00,1.37,39.47,1.37,1.42
+2020,135,Serie A,504,Verona,10,45,-2,Serie A,DDLDD,same,,38,11,12,15,46,48,19,6,6,7,23,23,19,5,6,8,23,25,2021-05-23T00:00:00+00:00,1.18,28.95,1.21,1.26
+2020,135,Serie A,495,Genoa,11,42,-11,Serie A,WLWLL,same,,38,10,12,16,47,58,19,5,7,7,29,30,19,5,5,9,18,28,2021-05-23T00:00:00+00:00,1.11,26.32,1.24,1.53
+2020,135,Serie A,500,Bologna,12,41,-14,Serie A,LDLDD,same,,38,10,11,17,51,65,19,7,5,7,33,33,19,3,6,10,18,32,2021-05-23T00:00:00+00:00,1.08,26.32,1.34,1.71
+2020,135,Serie A,502,Fiorentina,13,40,-12,Serie A,DLDWD,same,,38,9,13,16,47,59,19,6,6,7,25,25,19,3,7,9,22,34,2021-05-23T00:00:00+00:00,1.05,23.68,1.24,1.55
+2020,135,Serie A,494,Udinese,14,40,-16,Serie A,LLLDL,same,,38,10,10,18,42,58,19,5,4,10,14,19,19,5,6,8,28,39,2021-05-23T00:00:00+00:00,1.05,26.32,1.11,1.53
+2020,135,Serie A,515,Spezia,15,39,-20,Serie A,DWDLD,same,,38,9,12,17,52,72,19,5,7,7,28,33,19,4,5,10,24,39,2021-05-23T00:00:00+00:00,1.03,23.68,1.37,1.89
+2020,135,Serie A,490,Cagliari,16,37,-16,Serie A,LDDWD,same,,38,9,10,19,43,59,19,5,4,10,22,32,19,4,6,9,21,27,2021-05-23T00:00:00+00:00,0.97,23.68,1.13,1.55
+2020,135,Serie A,503,Torino,17,37,-19,Serie A,DDLLD,same,,38,7,16,15,50,69,19,3,9,7,25,36,19,4,7,8,25,33,2021-05-23T00:00:00+00:00,0.97,18.42,1.32,1.82
+2020,135,Serie A,506,Benevento,18,33,-35,Serie A,DDLLL,same,Relegation,38,7,12,19,40,75,19,2,7,10,19,39,19,5,5,9,21,36,2021-05-23T00:00:00+00:00,0.87,18.42,1.05,1.97
+2020,135,Serie A,501,Crotone,19,23,-47,Serie A,DDWLL,same,Relegation,38,6,5,27,45,92,19,5,2,12,23,35,19,1,3,15,22,57,2021-05-23T00:00:00+00:00,0.61,15.79,1.18,2.42
+2020,135,Serie A,523,Parma,20,20,-44,Serie A,LLLLL,same,Relegation,38,3,11,24,39,83,19,2,5,12,16,39,19,1,6,12,23,44,2021-05-23T00:00:00+00:00,0.53,7.89,1.03,2.18
+2021,135,Serie A,489,AC Milan,1,86,38,Serie A,WWWWW,same,Promotion - Champions League (Group Stage),38,26,8,4,69,31,19,12,4,3,28,12,19,14,4,1,41,19,2022-05-22T00:00:00+00:00,2.26,68.42,1.82,0.82
+2021,135,Serie A,505,Inter,2,84,52,Serie A,WWWWL,same,Promotion - Champions League (Group Stage),38,25,9,4,84,32,19,14,3,2,48,16,19,11,6,2,36,16,2022-05-22T00:00:00+00:00,2.21,65.79,2.21,0.84
+2021,135,Serie A,492,Napoli,3,79,43,Serie A,WWWWL,same,Promotion - Champions League (Group Stage),38,24,7,7,74,31,19,11,3,5,37,16,19,13,4,2,37,15,2022-05-22T00:00:00+00:00,2.08,63.16,1.95,0.82
+2021,135,Serie A,496,Juventus,4,70,20,Serie A,LDLWW,same,Promotion - Champions League (Group Stage),38,20,10,8,57,37,19,10,5,4,25,14,19,10,5,4,32,23,2022-05-22T00:00:00+00:00,1.84,52.63,1.5,0.97
+2021,135,Serie A,487,Lazio,5,64,19,Serie A,DDWWL,same,Promotion - Europa League (Group Stage),38,18,10,10,77,58,19,10,6,3,42,25,19,8,4,7,35,33,2022-05-22T00:00:00+00:00,1.68,47.37,2.03,1.53
+2021,135,Serie A,497,AS Roma,6,63,16,Serie A,WDLDL,same,Promotion - Europa League (Group Stage),38,18,9,11,59,43,19,10,6,3,26,16,19,8,3,8,33,27,2022-05-22T00:00:00+00:00,1.66,47.37,1.55,1.13
+2021,135,Serie A,502,Fiorentina,7,62,8,Serie A,WLWLL,same,Promotion - Europa Conference League (Qualification),38,19,5,14,59,51,19,13,2,4,38,20,19,6,3,10,21,31,2022-05-22T00:00:00+00:00,1.63,50.0,1.55,1.34
+2021,135,Serie A,499,Atalanta,8,59,17,Serie A,LLWDD,same,,38,16,11,11,65,48,19,4,8,7,31,29,19,12,3,4,34,19,2022-05-22T00:00:00+00:00,1.55,42.11,1.71,1.26
+2021,135,Serie A,504,Verona,9,53,6,Serie A,DLLWD,same,,38,14,11,13,65,59,19,9,3,7,34,25,19,5,8,6,31,34,2022-05-22T00:00:00+00:00,1.39,36.84,1.71,1.55
+2021,135,Serie A,503,Torino,10,50,5,Serie A,LWLWD,same,,38,13,11,14,46,41,19,8,5,6,29,21,19,5,6,8,17,20,2022-05-22T00:00:00+00:00,1.32,34.21,1.21,1.08
+2021,135,Serie A,488,Sassuolo,11,50,-2,Serie A,LWDLL,same,,38,13,11,14,64,66,19,6,6,7,27,30,19,7,5,7,37,36,2022-05-22T00:00:00+00:00,1.32,34.21,1.68,1.74
+2021,135,Serie A,494,Udinese,12,47,3,Serie A,WLDLW,same,,38,11,14,13,61,58,19,6,7,6,31,29,19,5,7,7,30,29,2022-05-22T00:00:00+00:00,1.24,28.95,1.61,1.53
+2021,135,Serie A,500,Bologna,13,46,-11,Serie A,WLLDW,same,,38,12,10,16,44,55,19,8,4,7,25,24,19,4,6,9,19,31,2022-05-22T00:00:00+00:00,1.21,31.58,1.16,1.45
+2021,135,Serie A,511,Empoli,14,41,-20,Serie A,WDLLW,same,,38,10,11,17,50,70,19,4,5,10,28,44,19,6,6,7,22,26,2022-05-22T00:00:00+00:00,1.08,26.32,1.32,1.84
+2021,135,Serie A,498,Sampdoria,15,36,-17,Serie A,LWLWD,same,,38,10,6,22,46,63,19,6,3,10,29,32,19,4,3,12,17,31,2022-05-22T00:00:00+00:00,0.95,26.32,1.21,1.66
+2021,135,Serie A,515,Spezia,16,36,-30,Serie A,LWLLL,same,,38,10,6,22,41,71,19,5,3,11,21,30,19,5,3,11,20,41,2022-05-22T00:00:00+00:00,0.95,26.32,1.08,1.87
+2021,135,Serie A,514,Salernitana,17,31,-45,Serie A,LDDWD,same,,38,7,10,21,33,78,19,3,6,10,17,39,19,4,4,11,16,39,2022-05-22T00:00:00+00:00,0.82,18.42,0.87,2.05
+2021,135,Serie A,490,Cagliari,18,30,-34,Serie A,DLDLL,same,Relegation - Serie B,38,6,12,20,34,68,19,3,6,10,20,33,19,3,6,10,14,35,2022-05-22T00:00:00+00:00,0.79,15.79,0.89,1.79
+2021,135,Serie A,495,Genoa,19,28,-33,Serie A,LLWLW,same,Relegation - Serie B,38,4,16,18,27,60,19,3,8,8,14,25,19,1,8,10,13,35,2022-05-22T00:00:00+00:00,0.74,10.53,0.71,1.58
+2021,135,Serie A,517,Venezia,20,27,-35,Serie A,DDWLL,same,Relegation - Serie B,38,6,9,23,34,69,19,3,5,11,21,38,19,3,4,12,13,31,2022-05-22T00:00:00+00:00,0.71,15.79,0.89,1.82
+2022,135,Serie A,492,Napoli,1,90,49,Serie A,WDWLW,same,Promotion - Champions League (Group Stage: ),38,28,6,4,77,28,19,14,3,2,40,15,19,14,3,2,37,13,2023-06-14T00:00:00+00:00,2.37,73.68,2.03,0.74
+2022,135,Serie A,487,Lazio,2,74,30,Serie A,WWWDL,same,Promotion - Champions League (Group Stage: ),38,22,8,8,60,30,19,11,4,4,32,18,19,11,4,4,28,12,2023-06-14T00:00:00+00:00,1.95,57.89,1.58,0.79
+2022,135,Serie A,505,Inter,3,72,29,Serie A,WWLWW,same,Promotion - Champions League (Group Stage: ),38,23,3,12,71,42,19,14,0,5,37,14,19,9,3,7,34,28,2023-06-14T00:00:00+00:00,1.89,60.53,1.87,1.11
+2022,135,Serie A,489,AC Milan,4,70,21,Serie A,WWWLW,same,Promotion - Champions League (Group Stage: ),38,20,10,8,64,43,19,13,4,2,41,20,19,7,6,6,23,23,2023-06-14T00:00:00+00:00,1.84,52.63,1.68,1.13
+2022,135,Serie A,499,Atalanta,5,64,18,Serie A,WLWLL,same,Promotion - Europa League (Group Stage: ),38,19,7,12,66,48,19,10,3,6,38,26,19,9,4,6,28,22,2023-06-14T00:00:00+00:00,1.68,50.0,1.74,1.26
+2022,135,Serie A,497,AS Roma,6,63,12,Serie A,WLDDL,same,Promotion - Europa League (Group Stage: ),38,18,9,11,50,38,19,11,3,5,28,15,19,7,6,6,22,23,2023-06-14T00:00:00+00:00,1.66,47.37,1.32,1.0
+2022,135,Serie A,496,Juventus,7,62,23,Serie A,WLLWW,same,Promotion - Europa Conference League (Qualification: ),38,22,6,10,56,33,19,13,3,3,38,15,19,9,3,7,18,18,2023-06-14T00:00:00+00:00,1.63,57.89,1.47,0.87
+2022,135,Serie A,502,Fiorentina,8,56,10,Serie A,WWDWL,same,,38,15,11,12,53,43,19,9,6,4,30,22,19,6,5,8,23,21,2023-06-14T00:00:00+00:00,1.47,39.47,1.39,1.13
+2022,135,Serie A,500,Bologna,9,54,4,Serie A,WDWDD,same,,38,14,12,12,53,49,19,7,9,3,24,14,19,7,3,9,29,35,2023-06-14T00:00:00+00:00,1.42,36.84,1.39,1.29
+2022,135,Serie A,503,Torino,10,53,1,Serie A,LWDWD,same,,38,14,11,13,42,41,19,5,7,7,15,19,19,9,4,6,27,22,2023-06-14T00:00:00+00:00,1.39,36.84,1.11,1.08
+2022,135,Serie A,1579,Monza,11,52,-4,Serie A,LLWWD,same,,38,14,10,14,48,52,19,7,5,7,25,22,19,7,5,7,23,30,2023-06-14T00:00:00+00:00,1.37,36.84,1.26,1.37
+2022,135,Serie A,494,Udinese,12,46,-1,Serie A,LLLLW,same,,38,11,13,14,47,48,19,6,9,4,30,20,19,5,4,10,17,28,2023-06-14T00:00:00+00:00,1.21,28.95,1.24,1.26
+2022,135,Serie A,488,Sassuolo,13,45,-14,Serie A,LDLLD,same,,38,12,9,17,47,61,19,8,4,7,24,23,19,4,5,10,23,38,2023-06-14T00:00:00+00:00,1.18,31.58,1.24,1.61
+2022,135,Serie A,511,Empoli,14,43,-12,Serie A,LDWDW,same,,38,10,13,15,37,49,19,8,4,7,22,23,19,2,9,8,15,26,2023-06-14T00:00:00+00:00,1.13,26.32,0.97,1.29
+2022,135,Serie A,514,Salernitana,15,42,-14,Serie A,LWDWL,same,,38,9,15,14,48,62,19,7,6,6,30,26,19,2,9,8,18,36,2023-06-14T00:00:00+00:00,1.11,23.68,1.26,1.63
+2022,135,Serie A,867,Lecce,16,36,-13,Serie A,LWDDL,same,,38,8,12,18,33,46,19,3,8,8,18,24,19,5,4,10,15,22,2023-06-14T00:00:00+00:00,0.95,21.05,0.87,1.21
+2022,135,Serie A,515,Spezia,17,31,-31,Serie A,LLDWL,same,Serie A (Additional match: ),38,6,13,19,31,62,19,4,8,7,18,30,19,2,5,12,13,32,2023-06-14T00:00:00+00:00,0.82,15.79,0.82,1.63
+2022,135,Serie A,504,Verona,18,31,-28,Serie A,LDLLW,same,Serie A (Additional match: ),38,7,10,21,31,59,19,6,3,10,20,32,19,1,7,11,11,27,2023-06-14T00:00:00+00:00,0.82,18.42,0.82,1.55
+2022,135,Serie A,520,Cremonese,19,27,-33,Serie A,WLLLW,same,Relegation - Serie B,38,5,12,21,36,69,19,4,4,11,15,31,19,1,8,10,21,38,2023-06-14T00:00:00+00:00,0.71,13.16,0.95,1.82
+2022,135,Serie A,498,Sampdoria,20,19,-47,Serie A,LDLDL,same,Relegation - Serie B,38,3,10,25,24,71,19,1,7,11,12,28,19,2,3,14,12,43,2023-06-14T00:00:00+00:00,0.5,7.89,0.63,1.87
+2023,135,Serie A,505,Inter,1,94,67,Serie A,DDWLW,same,Promotion - Champions League (League phase: ),38,29,7,2,89,22,19,14,4,1,44,11,19,15,3,1,45,11,2024-06-05T00:00:00+00:00,2.47,76.32,2.34,0.58
+2023,135,Serie A,489,AC Milan,2,75,27,Serie A,DLWDD,same,Promotion - Champions League (League phase: ),38,22,9,7,76,49,19,12,4,3,38,17,19,10,5,4,38,32,2024-06-05T00:00:00+00:00,1.97,57.89,2.0,1.29
+2023,135,Serie A,496,Juventus,3,71,23,Serie A,WDDDD,same,Promotion - Champions League (League phase: ),38,19,14,5,54,31,19,11,7,1,26,11,19,8,7,4,28,20,2024-06-05T00:00:00+00:00,1.87,50.0,1.42,0.82
+2023,135,Serie A,499,Atalanta,4,69,30,Serie A,LWWWW,same,Promotion - Champions League (League phase: ),38,21,6,11,72,42,19,13,2,4,42,16,19,8,4,7,30,26,2024-06-05T00:00:00+00:00,1.82,55.26,1.89,1.11
+2023,135,Serie A,500,Bologna,5,68,22,Serie A,LDWDD,same,Promotion - Champions League (League phase: ),38,18,14,6,54,32,19,12,5,2,33,12,19,6,9,4,21,20,2024-06-05T00:00:00+00:00,1.79,47.37,1.42,0.84
+2023,135,Serie A,497,AS Roma,6,63,19,Serie A,LWLDD,same,Promotion - Europa League (League phase: ),38,18,9,11,65,46,19,12,4,3,38,19,19,6,5,8,27,27,2024-06-05T00:00:00+00:00,1.66,47.37,1.71,1.21
+2023,135,Serie A,487,Lazio,7,61,10,Serie A,DDWDW,same,Promotion - Europa League (League phase: ),38,18,7,13,49,39,19,10,4,5,23,14,19,8,3,8,26,25,2024-06-05T00:00:00+00:00,1.61,47.37,1.29,1.03
+2023,135,Serie A,502,Fiorentina,8,60,15,Serie A,WWDWL,same,Promotion - Conference League (Qualification: ),38,17,9,12,61,46,19,10,5,4,37,22,19,7,4,8,24,24,2024-06-05T00:00:00+00:00,1.58,44.74,1.61,1.21
+2023,135,Serie A,503,Torino,9,53,0,Serie A,LWWDL,same,,38,13,14,11,36,36,19,8,9,2,18,9,19,5,5,9,18,27,2024-06-05T00:00:00+00:00,1.39,34.21,0.95,0.95
+2023,135,Serie A,492,Napoli,10,53,7,Serie A,DDLDD,same,,38,13,14,11,55,48,19,6,7,6,24,27,19,7,7,5,31,21,2024-06-05T00:00:00+00:00,1.39,34.21,1.45,1.26
+2023,135,Serie A,495,Genoa,11,49,0,Serie A,WLWDW,same,,38,12,13,13,45,45,19,8,6,5,27,22,19,4,7,8,18,23,2024-06-05T00:00:00+00:00,1.29,31.58,1.18,1.18
+2023,135,Serie A,1579,Monza,12,45,-12,Serie A,LLLDD,same,,38,11,12,15,39,51,19,6,6,7,23,26,19,5,6,8,16,25,2024-06-05T00:00:00+00:00,1.18,28.95,1.03,1.34
+2023,135,Serie A,504,Verona,13,38,-13,Serie A,DWLWL,same,,38,9,11,18,38,51,19,6,6,7,23,26,19,3,5,11,15,25,2024-06-05T00:00:00+00:00,1.0,23.68,1.0,1.34
+2023,135,Serie A,867,Lecce,14,38,-22,Serie A,DLLDD,same,,38,8,14,16,32,54,19,6,6,7,17,27,19,2,8,9,15,27,2024-06-05T00:00:00+00:00,1.0,21.05,0.84,1.42
+2023,135,Serie A,494,Udinese,15,37,-16,Serie A,WDWDD,same,,38,6,19,13,37,53,19,1,11,7,21,29,19,5,8,6,16,24,2024-06-05T00:00:00+00:00,0.97,15.79,0.97,1.39
+2023,135,Serie A,490,Cagliari,16,36,-26,Serie A,LWLDL,same,,38,8,12,18,42,68,19,6,7,6,28,32,19,2,5,12,14,36,2024-06-05T00:00:00+00:00,0.95,21.05,1.11,1.79
+2023,135,Serie A,511,Empoli,17,36,-25,Serie A,WDLDL,same,,38,9,9,20,29,54,19,5,5,9,15,23,19,4,4,11,14,31,2024-06-05T00:00:00+00:00,0.95,23.68,0.76,1.42
+2023,135,Serie A,512,Frosinone,18,35,-25,Serie A,LWLDW,same,Relegation - Serie B,38,8,11,19,44,69,19,7,4,8,28,32,19,1,7,11,16,37,2024-06-05T00:00:00+00:00,0.92,21.05,1.16,1.82
+2023,135,Serie A,488,Sassuolo,19,30,-32,Serie A,DLLWL,same,Relegation - Serie B,38,7,9,22,43,75,19,5,5,9,23,34,19,2,4,13,20,41,2024-06-05T00:00:00+00:00,0.79,18.42,1.13,1.97
+2023,135,Serie A,514,Salernitana,20,17,-49,Serie A,DLDLL,same,Relegation - Serie B,38,2,11,25,32,81,19,1,5,13,17,38,19,1,6,12,15,43,2024-06-05T00:00:00+00:00,0.45,5.26,0.84,2.13
+2018,78,Bundesliga,157,Bayern Munich,1,78,56,Bundesliga,WDWDW,,Promotion - Champions League (Group Stage),34,24,6,4,88,32,17,13,3,1,49,14,17,11,3,3,39,18,2019-05-18T00:00:00+00:00,2.29,70.59,2.59,0.94
+2018,78,Bundesliga,165,Borussia Dortmund,2,76,37,Bundesliga,WWDLW,,Promotion - Champions League (Group Stage),34,23,7,4,81,44,17,14,2,1,52,25,17,9,5,3,29,19,2019-05-18T00:00:00+00:00,2.24,67.65,2.38,1.29
+2018,78,Bundesliga,173,RB Leipzig,3,66,34,Bundesliga,LDDWW,,Promotion - Champions League (Group Stage),34,19,9,6,63,29,17,10,6,1,34,9,17,9,3,5,29,20,2019-05-18T00:00:00+00:00,1.94,55.88,1.85,0.85
+2018,78,Bundesliga,168,Bayer Leverkusen,4,58,17,Bundesliga,WDWWW,,Promotion - Champions League (Group Stage),34,18,4,12,69,52,17,9,2,6,32,25,17,9,2,6,37,27,2019-05-18T00:00:00+00:00,1.71,52.94,2.03,1.53
+2018,78,Bundesliga,163,Borussia Monchengladbach,5,55,13,Bundesliga,LWDLL,,Promotion - Europa League (Group Stage),34,16,7,11,55,42,17,9,3,5,31,22,17,7,4,6,24,20,2019-05-18T00:00:00+00:00,1.62,47.06,1.62,1.24
+2018,78,Bundesliga,161,VfL Wolfsburg,6,55,12,Bundesliga,WLWWD,,Promotion - Europa League (Group Stage),34,16,7,11,62,50,17,8,5,4,36,23,17,8,2,7,26,27,2019-05-18T00:00:00+00:00,1.62,47.06,1.82,1.47
+2018,78,Bundesliga,169,Eintracht Frankfurt,7,54,12,Bundesliga,LLLDD,,Promotion - Europa League (Qualification),34,15,9,10,60,48,17,8,4,5,32,21,17,7,5,5,28,27,2019-05-18T00:00:00+00:00,1.59,44.12,1.76,1.41
+2018,78,Bundesliga,162,Werder Bremen,8,53,9,Bundesliga,WWDLL,,,34,14,11,9,58,49,17,8,6,3,35,26,17,6,5,6,23,23,2019-05-18T00:00:00+00:00,1.56,41.18,1.71,1.44
+2018,78,Bundesliga,167,1899 Hoffenheim,9,51,18,Bundesliga,LLDLW,,,34,13,12,9,70,52,17,7,5,5,28,20,17,6,7,4,42,32,2019-05-18T00:00:00+00:00,1.5,38.24,2.06,1.53
+2018,78,Bundesliga,158,Fortuna Dusseldorf,10,44,-16,Bundesliga,WLDWL,,,34,13,5,16,49,65,17,9,0,8,27,28,17,4,5,8,22,37,2019-05-18T00:00:00+00:00,1.29,38.24,1.44,1.91
+2018,78,Bundesliga,159,Hertha Berlin,11,43,-8,Bundesliga,LWWDD,,,34,11,10,13,49,57,17,6,6,5,26,27,17,5,4,8,23,30,2019-05-18T00:00:00+00:00,1.26,32.35,1.44,1.68
+2018,78,Bundesliga,164,FSV Mainz 05,12,43,-11,Bundesliga,WWDLW,,,34,12,7,15,46,57,17,8,5,4,31,22,17,4,2,11,15,35,2019-05-18T00:00:00+00:00,1.26,35.29,1.35,1.68
+2018,78,Bundesliga,160,SC Freiburg,13,36,-15,Bundesliga,WLDLL,,,34,8,12,14,46,61,17,6,7,4,32,27,17,2,5,10,14,34,2019-05-18T00:00:00+00:00,1.06,23.53,1.35,1.79
+2018,78,Bundesliga,174,FC Schalke 04,14,33,-18,Bundesliga,DDDWL,,,34,8,9,17,37,55,17,4,3,10,16,28,17,4,6,7,21,27,2019-05-18T00:00:00+00:00,0.97,23.53,1.09,1.62
+2018,78,Bundesliga,170,FC Augsburg,15,32,-20,Bundesliga,LLDLW,,,34,8,8,18,51,71,17,5,4,8,34,33,17,3,4,10,17,38,2019-05-18T00:00:00+00:00,0.94,23.53,1.5,2.09
+2018,78,Bundesliga,172,VfB Stuttgart,16,28,-38,Bundesliga,DWLWL,,Bundesliga (Relegation - Play Offs),34,7,7,20,32,70,17,6,4,7,22,27,17,1,3,13,10,43,2019-05-18T00:00:00+00:00,0.82,20.59,0.94,2.06
+2018,78,Bundesliga,166,Hannover 96,17,21,-40,Bundesliga,LWLWD,,Relegation - 2. Bundesliga,34,5,6,23,31,71,17,5,1,11,15,26,17,0,5,12,16,45,2019-05-18T00:00:00+00:00,0.62,14.71,0.91,2.09
+2018,78,Bundesliga,171,FC Nurnberg,18,19,-42,Bundesliga,LLLDL,,Relegation - 2. Bundesliga,34,3,10,21,26,68,17,3,7,7,16,22,17,0,3,14,10,46,2019-05-18T00:00:00+00:00,0.56,8.82,0.76,2.0
+2019,78,Bundesliga,157,Bayern Munich,1,82,68,Bundesliga,WWWWW,same,Promotion - Champions League (Group Stage),34,26,4,4,100,32,17,13,2,2,53,15,17,13,2,2,47,17,2020-07-06T00:00:00+00:00,2.41,76.47,2.94,0.94
+2019,78,Bundesliga,165,Borussia Dortmund,2,69,43,Bundesliga,LWLWW,same,Promotion - Champions League (Group Stage),34,21,6,7,84,41,17,11,3,3,46,17,17,10,3,4,38,24,2020-07-06T00:00:00+00:00,2.03,61.76,2.47,1.21
+2019,78,Bundesliga,173,RB Leipzig,3,66,44,Bundesliga,WLDWD,same,Promotion - Champions League (Group Stage),34,18,12,4,81,37,17,7,8,2,38,21,17,11,4,2,43,16,2020-07-06T00:00:00+00:00,1.94,52.94,2.38,1.09
+2019,78,Bundesliga,163,Borussia Monchengladbach,4,65,26,Bundesliga,WWWLL,same,Promotion - Champions League (Group Stage),34,20,5,9,66,40,17,12,2,3,40,21,17,8,3,6,26,19,2020-07-06T00:00:00+00:00,1.91,58.82,1.94,1.18
+2019,78,Bundesliga,168,Bayer Leverkusen,5,63,17,Bundesliga,WLWDL,same,Promotion - Europa League (Group Stage),34,19,6,9,61,44,17,9,4,4,32,22,17,10,2,5,29,22,2020-07-06T00:00:00+00:00,1.85,55.88,1.79,1.29
+2019,78,Bundesliga,167,1899 Hoffenheim,6,52,0,Bundesliga,WWWLD,same,Promotion - Europa League (Group Stage),34,15,7,12,53,53,17,7,1,9,26,37,17,8,6,3,27,16,2020-07-06T00:00:00+00:00,1.53,44.12,1.56,1.56
+2019,78,Bundesliga,161,VfL Wolfsburg,7,49,2,Bundesliga,LWLDW,same,Promotion - Europa League (Qualification),34,13,10,11,48,46,17,4,7,6,19,23,17,9,3,5,29,23,2020-07-06T00:00:00+00:00,1.44,38.24,1.41,1.35
+2019,78,Bundesliga,160,SC Freiburg,8,48,1,Bundesliga,WLWDW,same,,34,13,9,12,48,47,17,9,2,6,23,17,17,4,7,6,25,30,2020-07-06T00:00:00+00:00,1.41,38.24,1.41,1.38
+2019,78,Bundesliga,169,Eintracht Frankfurt,9,45,-1,Bundesliga,WDWWL,same,,34,13,6,15,59,60,17,8,4,5,36,27,17,5,2,10,23,33,2020-07-06T00:00:00+00:00,1.32,38.24,1.74,1.76
+2019,78,Bundesliga,159,Hertha Berlin,10,41,-11,Bundesliga,LWLLL,same,,34,11,8,15,48,59,17,6,3,8,23,32,17,5,5,7,25,27,2020-07-06T00:00:00+00:00,1.21,32.35,1.41,1.74
+2019,78,Bundesliga,182,Union Berlin,11,41,-17,Bundesliga,WLWWD,same,,34,12,5,17,41,58,17,8,3,6,24,20,17,4,2,11,17,38,2020-07-06T00:00:00+00:00,1.21,35.29,1.21,1.71
+2019,78,Bundesliga,174,FC Schalke 04,12,39,-20,Bundesliga,LLLDD,same,,34,9,12,13,38,58,17,5,7,5,20,27,17,4,5,8,18,31,2020-07-06T00:00:00+00:00,1.15,26.47,1.12,1.71
+2019,78,Bundesliga,164,FSV Mainz 05,13,37,-21,Bundesliga,LWWLW,same,,34,11,4,19,44,65,17,5,2,10,18,29,17,6,2,9,26,36,2020-07-06T00:00:00+00:00,1.09,32.35,1.29,1.91
+2019,78,Bundesliga,192,FC Koln,14,36,-18,Bundesliga,LDLLD,same,,34,10,6,18,51,69,17,6,4,7,28,27,17,4,2,11,23,42,2020-07-06T00:00:00+00:00,1.06,29.41,1.5,2.03
+2019,78,Bundesliga,170,FC Augsburg,15,36,-18,Bundesliga,LDLWD,same,,34,9,9,16,45,63,17,5,5,7,28,29,17,4,4,9,17,34,2020-07-06T00:00:00+00:00,1.06,26.47,1.32,1.85
+2019,78,Bundesliga,162,Werder Bremen,16,31,-27,Bundesliga,WLLWL,same,Bundesliga (Relegation - Play Offs),34,8,7,19,42,69,17,2,3,12,15,36,17,6,4,7,27,33,2020-07-06T00:00:00+00:00,0.91,23.53,1.24,2.03
+2019,78,Bundesliga,158,Fortuna Dusseldorf,17,30,-31,Bundesliga,LDDLD,same,Relegation - 2. Bundesliga,34,6,12,16,36,67,17,4,6,7,18,28,17,2,6,9,18,39,2020-07-06T00:00:00+00:00,0.88,17.65,1.06,1.97
+2019,78,Bundesliga,185,SC Paderborn 07,18,20,-37,Bundesliga,LLLLD,same,Relegation - 2. Bundesliga,34,4,8,22,37,74,17,2,2,13,21,46,17,2,6,9,16,28,2020-07-06T00:00:00+00:00,0.59,11.76,1.09,2.18
+2020,78,Bundesliga,157,Bayern Munich,1,78,55,Bundesliga,WDWLW,same,Promotion - Champions League (Group Stage),34,24,6,4,99,44,17,13,4,0,64,21,17,11,2,4,35,23,2021-05-26T00:00:00+00:00,2.29,70.59,2.91,1.29
+2020,78,Bundesliga,173,RB Leipzig,2,65,28,Bundesliga,LDLWL,same,Promotion - Champions League (Group Stage),34,19,8,7,60,32,17,11,4,2,29,13,17,8,4,5,31,19,2021-05-26T00:00:00+00:00,1.91,55.88,1.76,0.94
+2020,78,Bundesliga,165,Borussia Dortmund,3,64,29,Bundesliga,WWWWW,same,Promotion - Champions League (Group Stage),34,20,4,10,75,46,17,11,2,4,40,20,17,9,2,6,35,26,2021-05-26T00:00:00+00:00,1.88,58.82,2.21,1.35
+2020,78,Bundesliga,161,VfL Wolfsburg,4,61,24,Bundesliga,LDWLW,same,Promotion - Champions League (Group Stage),34,17,10,7,61,37,17,10,4,3,32,16,17,7,6,4,29,21,2021-05-26T00:00:00+00:00,1.79,50.0,1.79,1.09
+2020,78,Bundesliga,169,Eintracht Frankfurt,5,60,16,Bundesliga,WLDLW,same,Promotion - Europa League (Group Stage),34,16,12,6,69,53,17,10,7,0,37,20,17,6,5,6,32,33,2021-05-26T00:00:00+00:00,1.76,47.06,2.03,1.56
+2020,78,Bundesliga,168,Bayer Leverkusen,6,52,14,Bundesliga,LDDWL,same,Promotion - Europa League (Group Stage),34,14,10,10,53,39,17,8,5,4,34,22,17,6,5,6,19,17,2021-05-26T00:00:00+00:00,1.53,41.18,1.56,1.15
+2020,78,Bundesliga,182,Union Berlin,7,50,7,Bundesliga,WDLWL,same,Promotion - Europa Conference League (Qualification),34,12,14,8,50,43,17,8,8,1,32,18,17,4,6,7,18,25,2021-05-26T00:00:00+00:00,1.47,35.29,1.47,1.26
+2020,78,Bundesliga,163,Borussia Monchengladbach,8,49,8,Bundesliga,WLLWL,same,,34,13,10,11,64,56,17,8,4,5,32,19,17,5,6,6,32,37,2021-05-26T00:00:00+00:00,1.44,38.24,1.88,1.65
+2020,78,Bundesliga,172,VfB Stuttgart,9,45,1,Bundesliga,LWWLL,same,,34,12,9,13,56,55,17,5,6,6,27,26,17,7,3,7,29,29,2021-05-26T00:00:00+00:00,1.32,35.29,1.65,1.62
+2020,78,Bundesliga,160,SC Freiburg,10,45,0,Bundesliga,LDWLD,same,,34,12,9,13,52,52,17,7,6,4,33,23,17,5,3,9,19,29,2021-05-26T00:00:00+00:00,1.32,35.29,1.53,1.53
+2020,78,Bundesliga,167,1899 Hoffenheim,11,43,-2,Bundesliga,WDWDW,same,,34,11,10,13,52,54,17,8,3,6,32,24,17,3,7,7,20,30,2021-05-26T00:00:00+00:00,1.26,32.35,1.53,1.59
+2020,78,Bundesliga,164,FSV Mainz 05,12,39,-17,Bundesliga,WLDDW,same,,34,10,9,15,39,56,17,4,4,9,16,26,17,6,5,6,23,30,2021-05-26T00:00:00+00:00,1.15,29.41,1.15,1.65
+2020,78,Bundesliga,170,FC Augsburg,13,36,-18,Bundesliga,LWLLL,same,,34,10,6,18,36,54,17,6,4,7,21,25,17,4,2,11,15,29,2021-05-26T00:00:00+00:00,1.06,29.41,1.06,1.59
+2020,78,Bundesliga,159,Hertha Berlin,14,35,-11,Bundesliga,LDWDW,same,,34,8,11,15,41,52,17,5,5,7,21,26,17,3,6,8,20,26,2021-05-26T00:00:00+00:00,1.03,23.53,1.21,1.53
+2020,78,Bundesliga,188,Arminia Bielefeld,15,35,-26,Bundesliga,WDDLW,same,,34,9,8,17,26,52,17,6,2,9,13,23,17,3,6,8,13,29,2021-05-26T00:00:00+00:00,1.03,26.47,0.76,1.53
+2020,78,Bundesliga,192,FC Koln,16,33,-26,Bundesliga,WDLWW,same,Bundesliga (Relegation),34,8,9,17,34,60,17,3,5,9,20,31,17,5,4,8,14,29,2021-05-26T00:00:00+00:00,0.97,23.53,1.0,1.76
+2020,78,Bundesliga,162,Werder Bremen,17,31,-21,Bundesliga,LLDLL,same,Relegation - 2. Bundesliga,34,7,10,17,36,57,17,3,5,9,16,28,17,4,5,8,20,29,2021-05-26T00:00:00+00:00,0.91,20.59,1.06,1.68
+2020,78,Bundesliga,174,FC Schalke 04,18,16,-61,Bundesliga,LWLLL,same,Relegation - 2. Bundesliga,34,3,7,24,25,86,17,3,3,11,14,34,17,0,4,13,11,52,2021-05-26T00:00:00+00:00,0.47,8.82,0.74,2.53
+2021,78,Bundesliga,157,Bayern Munich,1,77,60,Bundesliga,DDLWW,same,Promotion - Champions League (Group Stage),34,24,5,5,97,37,17,13,2,2,48,15,17,11,3,3,49,22,2022-05-23T00:00:00+00:00,2.26,70.59,2.85,1.09
+2021,78,Bundesliga,165,Borussia Dortmund,2,69,33,Bundesliga,WWLLW,same,Promotion - Champions League (Group Stage),34,22,3,9,85,52,17,13,0,4,52,28,17,9,3,5,33,24,2022-05-23T00:00:00+00:00,2.03,64.71,2.5,1.53
+2021,78,Bundesliga,168,Bayer Leverkusen,3,64,33,Bundesliga,WWWWL,same,Promotion - Champions League (Group Stage),34,19,7,8,80,47,17,10,2,5,39,23,17,9,5,3,41,24,2022-05-23T00:00:00+00:00,1.88,55.88,2.35,1.38
+2021,78,Bundesliga,173,RB Leipzig,4,58,35,Bundesliga,DWLLW,same,Promotion - Champions League (Group Stage),34,17,7,10,72,37,17,11,2,4,43,17,17,6,5,6,29,20,2022-05-23T00:00:00+00:00,1.71,50.0,2.12,1.09
+2021,78,Bundesliga,182,Union Berlin,5,57,6,Bundesliga,WWDWW,same,Promotion - Europa League (Group Stage),34,16,9,9,50,44,17,10,5,2,25,17,17,6,4,7,25,27,2022-05-23T00:00:00+00:00,1.68,47.06,1.47,1.29
+2021,78,Bundesliga,160,SC Freiburg,6,55,12,Bundesliga,LLWDW,same,Promotion - Europa League (Group Stage),34,15,10,9,58,46,17,8,5,4,32,25,17,7,5,5,26,21,2022-05-23T00:00:00+00:00,1.62,44.12,1.71,1.35
+2021,78,Bundesliga,192,FC Koln,7,52,3,Bundesliga,LLWWW,same,Promotion - Europa Conference League (Qualification),34,14,10,10,52,49,17,9,4,4,27,21,17,5,6,6,25,28,2022-05-23T00:00:00+00:00,1.53,41.18,1.53,1.44
+2021,78,Bundesliga,164,FSV Mainz 05,8,46,5,Bundesliga,DWWLD,same,,34,13,7,14,50,45,17,10,5,2,33,11,17,3,2,12,17,34,2022-05-23T00:00:00+00:00,1.35,38.24,1.47,1.32
+2021,78,Bundesliga,167,1899 Hoffenheim,9,46,-2,Bundesliga,LLLDD,same,,34,13,7,14,58,60,17,8,4,5,34,24,17,5,3,9,24,36,2022-05-23T00:00:00+00:00,1.35,38.24,1.71,1.76
+2021,78,Bundesliga,163,Borussia Monchengladbach,10,45,-7,Bundesliga,WDWDL,same,,34,12,9,13,54,61,17,8,4,5,33,27,17,4,5,8,21,34,2022-05-23T00:00:00+00:00,1.32,35.29,1.59,1.79
+2021,78,Bundesliga,169,Eintracht Frankfurt,11,42,-4,Bundesliga,DDLDL,same,Promotion - Champions League (Group Stage),34,10,12,12,45,49,17,4,7,6,20,22,17,6,5,6,25,27,2022-05-23T00:00:00+00:00,1.24,29.41,1.32,1.44
+2021,78,Bundesliga,161,VfL Wolfsburg,12,42,-11,Bundesliga,DWDWL,same,,34,12,6,16,43,54,17,7,3,7,25,21,17,5,3,9,18,33,2022-05-23T00:00:00+00:00,1.24,35.29,1.26,1.59
+2021,78,Bundesliga,176,VfL BOCHUM,13,42,-14,Bundesliga,LWWLL,same,,34,12,6,16,38,52,17,8,4,5,21,17,17,4,2,11,17,35,2022-05-23T00:00:00+00:00,1.24,35.29,1.12,1.53
+2021,78,Bundesliga,170,FC Augsburg,14,38,-17,Bundesliga,WLLWL,same,,34,10,8,16,39,56,17,7,4,6,25,26,17,3,4,10,14,30,2022-05-23T00:00:00+00:00,1.12,29.41,1.15,1.65
+2021,78,Bundesliga,172,VfB Stuttgart,15,33,-18,Bundesliga,WDDLD,same,,34,7,12,15,41,59,17,6,4,7,28,32,17,1,8,8,13,27,2022-05-23T00:00:00+00:00,0.97,20.59,1.21,1.74
+2021,78,Bundesliga,159,Hertha Berlin,16,33,-34,Bundesliga,LLDWW,same,Bundesliga (Relegation),34,9,6,19,37,71,17,6,3,8,24,33,17,3,3,11,13,38,2022-05-23T00:00:00+00:00,0.97,26.47,1.09,2.09
+2021,78,Bundesliga,188,Arminia Bielefeld,17,28,-26,Bundesliga,DLDLL,same,Relegation - 2. Bundesliga,34,5,13,16,27,53,17,2,10,5,15,23,17,3,3,11,12,30,2022-05-23T00:00:00+00:00,0.82,14.71,0.79,1.56
+2021,78,Bundesliga,178,SpVgg Greuther Furth,18,18,-54,Bundesliga,LLDLD,same,Relegation - 2. Bundesliga,34,3,9,22,28,82,17,3,5,9,15,33,17,0,4,13,13,49,2022-05-23T00:00:00+00:00,0.53,8.82,0.82,2.41
+2022,78,Bundesliga,157,Bayern Munich,1,71,54,Bundesliga,WLWWW,same,Promotion - Champions League (Group Stage: ),34,21,8,5,92,38,17,11,5,1,53,17,17,10,3,4,39,21,2023-06-05T00:00:00+00:00,2.09,61.76,2.71,1.12
+2022,78,Bundesliga,165,Borussia Dortmund,2,71,39,Bundesliga,DWWWD,same,Promotion - Champions League (Group Stage: ),34,22,5,7,83,44,17,14,2,1,55,17,17,8,3,6,28,27,2023-06-05T00:00:00+00:00,2.09,64.71,2.44,1.29
+2022,78,Bundesliga,173,RB Leipzig,3,66,23,Bundesliga,WWWWW,same,Promotion - Champions League (Group Stage: ),34,20,6,8,64,41,17,13,2,2,38,18,17,7,4,6,26,23,2023-06-05T00:00:00+00:00,1.94,58.82,1.88,1.21
+2022,78,Bundesliga,182,Union Berlin,4,62,13,Bundesliga,WLWLD,same,Promotion - Champions League (Group Stage: ),34,18,8,8,51,38,17,11,6,0,30,11,17,7,2,8,21,27,2023-06-05T00:00:00+00:00,1.82,52.94,1.5,1.12
+2022,78,Bundesliga,160,SC Freiburg,5,59,7,Bundesliga,LWLLW,same,Promotion - Europa League (Group Stage: ),34,17,8,9,51,44,17,10,4,3,28,13,17,7,4,6,23,31,2023-06-05T00:00:00+00:00,1.74,50.0,1.5,1.29
+2022,78,Bundesliga,168,Bayer Leverkusen,6,50,8,Bundesliga,LDDLD,same,Promotion - Europa League (Group Stage: ),34,14,8,12,57,49,17,8,3,6,35,23,17,6,5,6,22,26,2023-06-05T00:00:00+00:00,1.47,41.18,1.68,1.44
+2022,78,Bundesliga,169,Eintracht Frankfurt,7,50,6,Bundesliga,WDWLD,same,Promotion - Europa Conference League (Qualification: ),34,13,11,10,58,52,17,9,5,3,35,18,17,4,6,7,23,34,2023-06-05T00:00:00+00:00,1.47,38.24,1.71,1.53
+2022,78,Bundesliga,161,VfL Wolfsburg,8,49,9,Bundesliga,LLWLW,same,,34,13,10,11,57,48,17,6,7,4,34,25,17,7,3,7,23,23,2023-06-05T00:00:00+00:00,1.44,38.24,1.68,1.41
+2022,78,Bundesliga,164,FSV Mainz 05,9,46,-1,Bundesliga,DLLLL,same,,34,12,10,12,54,55,17,6,6,5,31,25,17,6,4,7,23,30,2023-06-05T00:00:00+00:00,1.35,35.29,1.59,1.62
+2022,78,Bundesliga,163,Borussia Monchengladbach,10,43,-3,Bundesliga,WDLWL,same,,34,11,10,13,52,55,17,10,3,4,33,18,17,1,7,9,19,37,2023-06-05T00:00:00+00:00,1.26,32.35,1.53,1.62
+2022,78,Bundesliga,192,FC Koln,11,42,-5,Bundesliga,LDWWL,same,,34,10,12,12,49,54,17,6,5,6,28,20,17,4,7,6,21,34,2023-06-05T00:00:00+00:00,1.24,29.41,1.44,1.59
+2022,78,Bundesliga,167,1899 Hoffenheim,12,36,-9,Bundesliga,DWLWL,same,,34,10,6,18,48,57,17,7,2,8,28,29,17,3,4,10,20,28,2023-06-05T00:00:00+00:00,1.06,29.41,1.41,1.68
+2022,78,Bundesliga,162,Werder Bremen,13,36,-13,Bundesliga,LDLLL,same,,34,10,6,18,51,64,17,5,2,10,26,28,17,5,4,8,25,36,2023-06-05T00:00:00+00:00,1.06,29.41,1.5,1.88
+2022,78,Bundesliga,176,VfL BOCHUM,14,35,-32,Bundesliga,WDWLD,same,,34,10,5,19,40,72,17,8,2,7,28,32,17,2,3,12,12,40,2023-06-05T00:00:00+00:00,1.03,29.41,1.18,2.12
+2022,78,Bundesliga,170,FC Augsburg,15,34,-21,Bundesliga,LLLWD,same,,34,9,7,18,42,63,17,6,4,7,16,24,17,3,3,11,26,39,2023-06-05T00:00:00+00:00,1.0,26.47,1.24,1.85
+2022,78,Bundesliga,172,VfB Stuttgart,16,33,-12,Bundesliga,DWDLW,same,Bundesliga (Relegation),34,7,12,15,45,57,17,5,6,6,23,22,17,2,6,9,22,35,2023-06-05T00:00:00+00:00,0.97,20.59,1.32,1.68
+2022,78,Bundesliga,174,FC Schalke 04,17,31,-36,Bundesliga,LDLWW,same,Relegation - 2. Bundesliga,34,7,10,17,35,71,17,5,5,7,23,36,17,2,5,10,12,35,2023-06-05T00:00:00+00:00,0.91,20.59,1.03,2.09
+2022,78,Bundesliga,159,Hertha Berlin,18,29,-27,Bundesliga,WDLWL,same,Relegation - 2. Bundesliga,34,7,8,19,42,69,17,5,6,6,24,27,17,2,2,13,18,42,2023-06-05T00:00:00+00:00,0.85,20.59,1.24,2.03
+2023,78,Bundesliga,168,Bayer Leverkusen,1,90,65,Bundesliga,WWWDD,same,Promotion - Champions League (Group Stage: ),34,28,6,0,89,24,17,14,3,0,47,11,17,14,3,0,42,13,2024-05-24T00:00:00+00:00,2.65,82.35,2.62,0.71
+2023,78,Bundesliga,172,VfB Stuttgart,2,73,39,Bundesliga,WWWDL,same,Promotion - Champions League (Group Stage: ),34,23,4,7,78,39,17,13,3,1,50,15,17,10,1,6,28,24,2024-05-24T00:00:00+00:00,2.15,67.65,2.29,1.15
+2023,78,Bundesliga,157,Bayern Munich,3,72,49,Bundesliga,LWLWW,same,Promotion - Champions League (Group Stage: ),34,23,3,8,94,45,17,14,1,2,53,12,17,9,2,6,41,33,2024-05-24T00:00:00+00:00,2.12,67.65,2.76,1.32
+2023,78,Bundesliga,173,RB Leipzig,4,65,38,Bundesliga,DDDWW,same,Promotion - Champions League (Group Stage: ),34,19,8,7,77,39,17,11,4,2,40,12,17,8,4,5,37,27,2024-05-24T00:00:00+00:00,1.91,55.88,2.26,1.15
+2023,78,Bundesliga,165,Borussia Dortmund,5,63,25,Bundesliga,WLWLD,same,Promotion - Champions League (Group Stage: ),34,18,9,7,68,43,17,10,3,4,37,22,17,8,6,3,31,21,2024-05-24T00:00:00+00:00,1.85,52.94,2.0,1.26
+2023,78,Bundesliga,169,Eintracht Frankfurt,6,47,1,Bundesliga,DDLLW,same,Promotion - Europa League (Group Stage: ),34,11,14,9,51,50,17,7,8,2,29,21,17,4,6,7,22,29,2024-05-24T00:00:00+00:00,1.38,32.35,1.5,1.47
+2023,78,Bundesliga,167,1899 Hoffenheim,7,46,0,Bundesliga,WWDLW,same,Promotion - Europa Conference League (Qualification: ),34,13,7,14,66,66,17,6,5,6,31,31,17,7,2,8,35,35,2024-05-24T00:00:00+00:00,1.35,38.24,1.94,1.94
+2023,78,Bundesliga,180,FC Heidenheim,8,42,-5,Bundesliga,WDDWL,same,,34,10,12,12,50,55,17,7,5,5,30,26,17,3,7,7,20,29,2024-05-24T00:00:00+00:00,1.24,29.41,1.47,1.62
+2023,78,Bundesliga,162,Werder Bremen,9,42,-6,Bundesliga,WDDWW,same,,34,11,9,14,48,54,17,7,4,6,29,26,17,4,5,8,19,28,2024-05-24T00:00:00+00:00,1.24,32.35,1.41,1.59
+2023,78,Bundesliga,160,SC Freiburg,10,42,-13,Bundesliga,LDDLD,same,,34,11,9,14,45,58,17,5,7,5,28,30,17,6,2,9,17,28,2024-05-24T00:00:00+00:00,1.24,32.35,1.32,1.71
+2023,78,Bundesliga,170,FC Augsburg,11,39,-10,Bundesliga,LLLLL,same,,34,10,9,15,50,60,17,6,6,5,26,26,17,4,3,10,24,34,2024-05-24T00:00:00+00:00,1.15,29.41,1.47,1.76
+2023,78,Bundesliga,161,VfL Wolfsburg,12,37,-15,Bundesliga,LLWWW,same,,34,10,7,17,41,56,17,6,4,7,25,25,17,4,3,10,16,31,2024-05-24T00:00:00+00:00,1.09,29.41,1.21,1.65
+2023,78,Bundesliga,164,FSV Mainz 05,13,35,-12,Bundesliga,WWDDD,same,,34,7,14,13,39,51,17,6,5,6,23,18,17,1,9,7,16,33,2024-05-24T00:00:00+00:00,1.03,20.59,1.15,1.5
+2023,78,Bundesliga,163,Borussia Monchengladbach,14,34,-11,Bundesliga,LDDDL,same,,34,7,13,14,56,67,17,5,6,6,27,26,17,2,7,8,29,41,2024-05-24T00:00:00+00:00,1.0,20.59,1.65,1.97
+2023,78,Bundesliga,182,Union Berlin,15,33,-25,Bundesliga,WLLDL,same,,34,9,6,19,33,58,17,7,2,8,22,30,17,2,4,11,11,28,2024-05-24T00:00:00+00:00,0.97,26.47,0.97,1.71
+2023,78,Bundesliga,176,Vfl Bochum,16,33,-32,Bundesliga,LLWWL,same,Bundesliga (Relegation),34,7,12,15,42,74,17,5,8,4,26,29,17,2,4,11,16,45,2024-05-24T00:00:00+00:00,0.97,20.59,1.24,2.18
+2023,78,Bundesliga,192,1.FC Köln,17,27,-32,Bundesliga,LWDDL,same,Relegation - 2. Bundesliga,34,5,12,17,28,60,17,4,4,9,15,28,17,1,8,8,13,32,2024-05-24T00:00:00+00:00,0.79,14.71,0.82,1.76
+2023,78,Bundesliga,181,SV Darmstadt 98,18,17,-56,Bundesliga,LLLLW,same,Relegation - 2. Bundesliga,34,3,8,23,30,86,17,1,3,13,15,44,17,2,5,10,15,42,2024-05-24T00:00:00+00:00,0.5,8.82,0.88,2.53
+2018,61,Ligue 1,85,Paris Saint Germain,1,91,70,Ligue 1,LWWDL,,Promotion - Champions League (Group Stage),38,29,4,5,105,35,19,17,2,0,63,10,19,12,2,5,42,25,2019-06-13T00:00:00+00:00,2.39,76.32,2.76,0.92
+2018,61,Ligue 1,79,Lille,2,75,35,Ligue 1,LWWDW,,Promotion - Champions League (Group Stage),38,22,9,7,68,33,19,13,4,2,42,11,19,9,5,5,26,22,2019-06-13T00:00:00+00:00,1.97,57.89,1.79,0.87
+2018,61,Ligue 1,80,Lyon,3,72,23,Ligue 1,WWWDW,,Promotion - Champions League (Group Stage),38,21,9,8,70,47,19,12,4,3,38,19,19,9,5,5,32,28,2019-06-13T00:00:00+00:00,1.89,55.26,1.84,1.24
+2018,61,Ligue 1,1063,Saint Etienne,4,66,18,Ligue 1,DWLWW,,Promotion - Europa League (Group Stage),38,19,9,10,59,41,19,13,2,4,34,14,19,6,7,6,25,27,2019-06-13T00:00:00+00:00,1.74,50.0,1.55,1.08
+2018,61,Ligue 1,81,Marseille,5,61,8,Ligue 1,WWLDL,,,38,18,7,13,60,52,19,11,4,4,31,17,19,7,3,9,29,35,2019-06-13T00:00:00+00:00,1.61,47.37,1.58,1.37
+2018,61,Ligue 1,82,Montpellier,6,59,11,Ligue 1,LDWDW,,,38,15,14,9,53,42,19,8,8,3,31,20,19,7,6,6,22,22,2019-06-13T00:00:00+00:00,1.55,39.47,1.39,1.11
+2018,61,Ligue 1,84,Nice,7,56,-5,Ligue 1,WLDDW,,,38,15,11,12,30,35,19,10,4,5,19,14,19,5,7,7,11,21,2019-06-13T00:00:00+00:00,1.47,39.47,0.79,0.92
+2018,61,Ligue 1,93,Reims,8,55,-3,Ligue 1,WWLLD,,,38,13,16,9,39,42,19,8,7,4,21,18,19,5,9,5,18,24,2019-06-13T00:00:00+00:00,1.45,34.21,1.03,1.11
+2018,61,Ligue 1,92,Nimes,9,53,-1,Ligue 1,LDWWL,,,38,15,8,15,57,58,19,9,5,5,30,20,19,6,3,10,27,38,2019-06-13T00:00:00+00:00,1.39,39.47,1.5,1.53
+2018,61,Ligue 1,94,Rennes,10,52,3,Ligue 1,WWDDD,,Promotion - Europa League (Group Stage),38,13,13,12,55,52,19,8,7,4,27,18,19,5,6,8,28,34,2019-06-13T00:00:00+00:00,1.37,34.21,1.45,1.37
+2018,61,Ligue 1,95,Strasbourg,11,49,10,Ligue 1,WLLDD,,Promotion - Europa League (Qualification),38,11,16,11,58,48,19,6,8,5,31,25,19,5,8,6,27,23,2019-06-13T00:00:00+00:00,1.29,28.95,1.53,1.26
+2018,61,Ligue 1,83,Nantes,12,48,0,Ligue 1,LDDWW,,,38,13,9,16,48,48,19,9,4,6,35,24,19,4,5,10,13,24,2019-06-13T00:00:00+00:00,1.26,34.21,1.26,1.26
+2018,61,Ligue 1,77,Angers,13,46,-5,Ligue 1,DLLWD,,,38,10,16,12,44,49,19,5,9,5,24,22,19,5,7,7,20,27,2019-06-13T00:00:00+00:00,1.21,26.32,1.16,1.29
+2018,61,Ligue 1,78,Bordeaux,14,41,-8,Ligue 1,WLLLL,,,38,10,11,17,34,42,19,7,6,6,24,21,19,3,5,11,10,21,2019-06-13T00:00:00+00:00,1.08,26.32,0.89,1.11
+2018,61,Ligue 1,87,Amiens,15,38,-21,Ligue 1,WLDDD,,,38,9,11,18,31,52,19,7,5,7,20,22,19,2,6,11,11,30,2019-06-13T00:00:00+00:00,1.0,23.68,0.82,1.37
+2018,61,Ligue 1,96,Toulouse,16,38,-22,Ligue 1,LLDDL,,,38,8,14,16,35,57,19,4,9,6,20,26,19,4,5,10,15,31,2019-06-13T00:00:00+00:00,1.0,21.05,0.92,1.5
+2018,61,Ligue 1,91,Monaco,17,36,-19,Ligue 1,LWLLD,,,38,8,12,18,38,57,19,4,6,9,19,29,19,4,6,9,19,28,2019-06-13T00:00:00+00:00,0.95,21.05,1.0,1.5
+2018,61,Ligue 1,89,Dijon,18,34,-29,Ligue 1,WLWLL,,Ligue 1 (Relegation),38,9,7,22,31,60,19,6,4,9,18,29,19,3,3,13,13,31,2019-06-13T00:00:00+00:00,0.89,23.68,0.82,1.58
+2018,61,Ligue 1,88,Caen,19,33,-25,Ligue 1,LLWDW,,Relegation - Ligue 2,38,7,12,19,29,54,19,4,5,10,16,27,19,3,7,9,13,27,2019-06-13T00:00:00+00:00,0.87,18.42,0.76,1.42
+2018,61,Ligue 1,90,Guingamp,20,27,-40,Ligue 1,LDDDL,,Relegation - Ligue 2,38,5,12,21,28,68,19,3,7,9,16,27,19,2,5,12,12,41,2019-06-13T00:00:00+00:00,0.71,13.16,0.74,1.79
+2019,61,Ligue 1,85,Paris Saint Germain,1,68,51,Ligue 1,WWDWW,same,,27,22,2,3,75,24,14,12,1,1,44,11,13,10,1,2,31,13,2020-05-18T00:00:00+00:00,2.52,81.48,2.78,0.89
+2019,61,Ligue 1,81,Marseille,2,56,12,Ligue 1,DWLWW,same,,28,16,8,4,41,29,14,8,4,2,21,14,14,8,4,2,20,15,2020-05-18T00:00:00+00:00,2.0,57.14,1.46,1.04
+2019,61,Ligue 1,94,Rennes,3,50,14,Ligue 1,WWWLD,same,,28,15,5,8,38,24,14,9,2,3,25,14,14,6,3,5,13,10,2020-05-18T00:00:00+00:00,1.79,53.57,1.36,0.86
+2019,61,Ligue 1,79,Lille,4,49,8,Ligue 1,WWWLW,same,,28,15,4,9,35,27,15,11,2,2,24,9,13,4,2,7,11,18,2020-05-18T00:00:00+00:00,1.75,53.57,1.25,0.96
+2019,61,Ligue 1,93,Reims,5,41,5,Ligue 1,WDDWL,same,,28,10,11,7,26,21,14,5,7,2,12,7,14,5,4,5,14,14,2020-05-18T00:00:00+00:00,1.46,35.71,0.93,0.75
+2019,61,Ligue 1,84,Nice,6,41,3,Ligue 1,WDDWL,same,,28,11,8,9,41,38,15,8,4,3,28,20,13,3,4,6,13,18,2020-05-18T00:00:00+00:00,1.46,39.29,1.46,1.36
+2019,61,Ligue 1,80,Lyon,7,40,15,Ligue 1,LWWDL,same,,28,11,7,10,42,27,13,5,4,4,17,7,15,6,3,6,25,20,2020-05-18T00:00:00+00:00,1.43,39.29,1.5,0.96
+2019,61,Ligue 1,82,Montpellier,8,40,1,Ligue 1,LWLLW,same,,28,11,7,10,35,34,14,10,2,2,26,10,14,1,5,8,9,24,2020-05-18T00:00:00+00:00,1.43,39.29,1.25,1.21
+2019,61,Ligue 1,91,Monaco,9,40,0,Ligue 1,LDDWW,same,,28,11,7,10,44,44,14,8,2,4,29,22,14,3,5,6,15,22,2020-05-18T00:00:00+00:00,1.43,39.29,1.57,1.57
+2019,61,Ligue 1,77,Angers,10,39,-5,Ligue 1,WWWLL,same,,28,11,6,11,28,33,15,8,3,4,20,13,13,3,3,7,8,20,2020-05-18T00:00:00+00:00,1.39,39.29,1.0,1.18
+2019,61,Ligue 1,95,Strasbourg,11,38,0,Ligue 1,LDDWW,same,,27,11,5,11,32,32,13,7,3,3,22,14,14,4,2,8,10,18,2020-05-18T00:00:00+00:00,1.41,40.74,1.19,1.19
+2019,61,Ligue 1,78,Bordeaux,12,37,6,Ligue 1,DDLDW,same,,28,9,10,9,40,34,13,4,5,4,19,12,15,5,5,5,21,22,2020-05-18T00:00:00+00:00,1.32,32.14,1.43,1.21
+2019,61,Ligue 1,83,Nantes,13,37,-3,Ligue 1,LLWDD,same,,28,11,4,13,28,31,14,6,2,6,11,11,14,5,2,7,17,20,2020-05-18T00:00:00+00:00,1.32,39.29,1.0,1.11
+2019,61,Ligue 1,106,Stade Brestois 29,14,34,-3,Ligue 1,LLDWD,same,,28,8,10,10,34,37,14,6,6,2,21,11,14,2,4,8,13,26,2020-05-18T00:00:00+00:00,1.21,28.57,1.21,1.32
+2019,61,Ligue 1,112,Metz,15,34,-8,Ligue 1,WWLDL,same,,28,8,10,10,27,35,14,5,4,5,18,17,14,3,6,5,9,18,2020-05-18T00:00:00+00:00,1.21,28.57,0.96,1.25
+2019,61,Ligue 1,89,Dijon,16,30,-10,Ligue 1,WLDDD,same,,28,7,9,12,27,37,14,6,6,2,20,15,14,1,3,10,7,22,2020-05-18T00:00:00+00:00,1.07,25.0,0.96,1.32
+2019,61,Ligue 1,1063,Saint Etienne,17,30,-16,Ligue 1,DLDLL,same,,28,8,6,14,29,45,14,4,6,4,15,18,14,4,0,10,14,27,2020-05-18T00:00:00+00:00,1.07,28.57,1.04,1.61
+2019,61,Ligue 1,92,Nimes,18,27,-15,Ligue 1,LLLWW,same,,28,7,6,15,29,44,14,6,2,6,17,15,14,1,4,9,12,29,2020-05-18T00:00:00+00:00,0.96,25.0,1.04,1.57
+2019,61,Ligue 1,87,Amiens,19,23,-19,Ligue 1,DLDDL,same,,28,4,11,13,31,50,14,3,5,6,17,23,14,1,6,7,14,27,2020-05-18T00:00:00+00:00,0.82,14.29,1.11,1.79
+2019,61,Ligue 1,96,Toulouse,20,13,-36,Ligue 1,LLLLL,same,,28,3,4,21,22,58,13,3,0,10,11,24,15,0,4,11,11,34,2020-05-18T00:00:00+00:00,0.46,10.71,0.79,2.07
+2020,61,Ligue 1,79,Lille,1,83,41,Ligue 1,WDWWW,same,Promotion - Champions League (Group Stage),38,24,11,3,64,23,19,10,7,2,28,11,19,14,4,1,36,12,2021-05-26T00:00:00+00:00,2.18,63.16,1.68,0.61
+2020,61,Ligue 1,85,Paris Saint Germain,2,82,58,Ligue 1,WWDWW,same,Promotion - Champions League (Group Stage),38,26,4,8,86,28,19,13,1,5,44,14,19,13,3,3,42,14,2021-05-26T00:00:00+00:00,2.16,68.42,2.26,0.74
+2020,61,Ligue 1,91,Monaco,3,78,34,Ligue 1,DWWLW,same,Promotion - Champions League (Qualification),38,24,6,8,76,42,19,12,5,2,43,21,19,12,1,6,33,21,2021-05-26T00:00:00+00:00,2.05,63.16,2.0,1.11
+2020,61,Ligue 1,80,Lyon,4,76,38,Ligue 1,LWWWL,same,Promotion - Europa League (Group Stage),38,22,10,6,81,43,19,11,3,5,42,23,19,11,7,1,39,20,2021-05-26T00:00:00+00:00,2.0,57.89,2.13,1.13
+2020,61,Ligue 1,81,Marseille,5,60,7,Ligue 1,DWLDW,same,Promotion - Europa League (Group Stage),38,16,12,10,54,47,19,10,5,4,32,23,19,6,7,6,22,24,2021-05-26T00:00:00+00:00,1.58,42.11,1.42,1.24
+2020,61,Ligue 1,94,Rennes,6,58,12,Ligue 1,WLDLW,same,Promotion - Europa Conference League (Qualification),38,16,10,12,52,40,19,9,4,6,26,21,19,7,6,6,26,19,2021-05-26T00:00:00+00:00,1.53,42.11,1.37,1.05
+2020,61,Ligue 1,116,Lens,7,57,1,Ligue 1,DLLLW,same,,38,15,12,11,55,54,19,7,7,5,28,26,19,8,5,6,27,28,2021-05-26T00:00:00+00:00,1.5,39.47,1.45,1.42
+2020,61,Ligue 1,82,Montpellier,8,54,-2,Ligue 1,WDWLL,same,,38,14,12,12,60,62,19,7,4,8,34,35,19,7,8,4,26,27,2021-05-26T00:00:00+00:00,1.42,36.84,1.58,1.63
+2020,61,Ligue 1,84,Nice,9,52,-3,Ligue 1,WLWLW,same,,38,15,7,16,50,53,19,7,3,9,25,30,19,8,4,7,25,23,2021-05-26T00:00:00+00:00,1.37,39.47,1.32,1.39
+2020,61,Ligue 1,112,Metz,10,47,-4,Ligue 1,DLLWL,same,,38,12,11,15,44,48,19,5,5,9,19,26,19,7,6,6,25,22,2021-05-26T00:00:00+00:00,1.24,31.58,1.16,1.26
+2020,61,Ligue 1,1063,Saint Etienne,11,46,-12,Ligue 1,LDWWL,same,,38,12,10,16,42,54,19,5,6,8,20,29,19,7,4,8,22,25,2021-05-26T00:00:00+00:00,1.21,31.58,1.11,1.42
+2020,61,Ligue 1,78,Bordeaux,12,45,-14,Ligue 1,WWLWL,same,,38,13,6,19,42,56,19,7,4,8,19,21,19,6,2,11,23,35,2021-05-26T00:00:00+00:00,1.18,34.21,1.11,1.47
+2020,61,Ligue 1,77,Angers,13,44,-18,Ligue 1,LLWLL,same,,38,12,8,18,40,58,19,6,3,10,20,27,19,6,5,8,20,31,2021-05-26T00:00:00+00:00,1.16,31.58,1.05,1.53
+2020,61,Ligue 1,93,Reims,14,42,-8,Ligue 1,LLLDL,same,,38,9,15,14,42,50,19,4,8,7,16,21,19,5,7,7,26,29,2021-05-26T00:00:00+00:00,1.11,23.68,1.11,1.32
+2020,61,Ligue 1,95,Strasbourg,15,42,-9,Ligue 1,DWLDL,same,,38,11,9,18,49,58,19,4,5,10,21,29,19,7,4,8,28,29,2021-05-26T00:00:00+00:00,1.11,28.95,1.29,1.53
+2020,61,Ligue 1,97,Lorient,16,42,-18,Ligue 1,DWLWW,same,,38,11,9,18,50,68,19,10,2,7,31,29,19,1,7,11,19,39,2021-05-26T00:00:00+00:00,1.11,28.95,1.32,1.79
+2020,61,Ligue 1,106,Stade Brestois 29,17,41,-16,Ligue 1,LDLLW,same,,38,11,8,19,50,66,19,8,4,7,32,33,19,3,4,12,18,33,2021-05-26T00:00:00+00:00,1.08,28.95,1.32,1.74
+2020,61,Ligue 1,83,Nantes,18,40,-8,Ligue 1,LWWWW,same,Ligue 1 (Relegation),38,9,13,16,47,55,19,3,8,8,21,29,19,6,5,8,26,26,2021-05-26T00:00:00+00:00,1.05,23.68,1.24,1.45
+2020,61,Ligue 1,92,Nimes,19,35,-31,Ligue 1,LLWDL,same,Relegation - Ligue 2,38,9,8,21,40,71,19,3,5,11,22,39,19,6,3,10,18,32,2021-05-26T00:00:00+00:00,0.92,23.68,1.05,1.87
+2020,61,Ligue 1,89,Dijon,20,21,-48,Ligue 1,WLLLL,same,Relegation - Ligue 2,38,4,9,25,25,73,19,1,6,12,8,31,19,3,3,13,17,42,2021-05-26T00:00:00+00:00,0.55,10.53,0.66,1.92
+2021,61,Ligue 1,85,Paris Saint Germain,1,86,54,Ligue 1,WWDDD,same,Promotion - Champions League (Group Stage),38,26,8,4,90,36,19,16,3,0,49,12,19,10,5,4,41,24,2022-05-29T00:00:00+00:00,2.26,68.42,2.37,0.95
+2021,61,Ligue 1,81,Marseille,2,71,25,Ligue 1,WLWLW,same,Promotion - Champions League (Group Stage),38,21,8,9,63,38,19,9,5,5,33,22,19,12,3,4,30,16,2022-05-29T00:00:00+00:00,1.87,55.26,1.66,1.0
+2021,61,Ligue 1,91,Monaco,3,69,25,Ligue 1,DWWWW,same,Promotion - Champions League (Qualification),38,20,9,9,65,40,19,12,4,3,38,16,19,8,5,6,27,24,2022-05-29T00:00:00+00:00,1.82,52.63,1.71,1.05
+2021,61,Ligue 1,94,Rennes,4,66,42,Ligue 1,DWLWW,same,Promotion - Europa League (Group Stage),38,20,6,12,82,40,19,14,1,4,50,13,19,6,5,8,32,27,2022-05-29T00:00:00+00:00,1.74,52.63,2.16,1.05
+2021,61,Ligue 1,84,Nice,5,66,16,Ligue 1,WLWWW,same,Promotion - Europa Conference League (Qualification),38,20,7,11,52,36,19,10,4,5,27,21,19,10,3,6,25,15,2022-05-29T00:00:00+00:00,1.74,52.63,1.37,0.95
+2021,61,Ligue 1,95,Strasbourg,6,63,17,Ligue 1,LWWDL,same,,38,17,12,9,60,43,19,11,5,3,36,18,19,6,7,6,24,25,2022-05-29T00:00:00+00:00,1.66,44.74,1.58,1.13
+2021,61,Ligue 1,116,Lens,7,62,14,Ligue 1,DWWDD,same,,38,17,11,10,62,48,19,9,7,3,35,20,19,8,4,7,27,28,2022-05-29T00:00:00+00:00,1.63,44.74,1.63,1.26
+2021,61,Ligue 1,80,Lyon,8,61,15,Ligue 1,WWLWW,same,,38,17,11,10,66,51,19,11,5,3,42,25,19,6,6,7,24,26,2022-05-29T00:00:00+00:00,1.61,44.74,1.74,1.34
+2021,61,Ligue 1,83,Nantes,9,55,7,Ligue 1,DLWDW,same,Promotion - Europa League (Group Stage),38,15,10,13,55,48,19,11,4,4,33,20,19,4,6,9,22,28,2022-05-29T00:00:00+00:00,1.45,39.47,1.45,1.26
+2021,61,Ligue 1,79,Lille,10,55,0,Ligue 1,DWLLW,same,,38,14,13,11,48,48,19,7,8,4,24,22,19,7,5,7,24,26,2022-05-29T00:00:00+00:00,1.45,36.84,1.26,1.26
+2021,61,Ligue 1,106,Stade Brestois 29,11,48,-8,Ligue 1,LLLWW,same,,38,13,9,16,49,57,19,7,4,8,28,29,19,6,5,8,21,28,2022-05-29T00:00:00+00:00,1.26,34.21,1.29,1.5
+2021,61,Ligue 1,93,Reims,12,46,-1,Ligue 1,LWLWL,same,,38,11,13,14,43,44,19,5,6,8,25,23,19,6,7,6,18,21,2022-05-29T00:00:00+00:00,1.21,28.95,1.13,1.16
+2021,61,Ligue 1,82,Montpellier,13,43,-12,Ligue 1,LLLDL,same,,38,12,7,19,49,61,19,7,5,7,27,26,19,5,2,12,22,35,2022-05-29T00:00:00+00:00,1.13,31.58,1.29,1.61
+2021,61,Ligue 1,77,Angers,14,41,-11,Ligue 1,WLWLD,same,,38,10,11,17,44,55,19,8,2,9,23,23,19,2,9,8,21,32,2022-05-29T00:00:00+00:00,1.08,26.32,1.16,1.45
+2021,61,Ligue 1,110,Estac Troyes,15,38,-16,Ligue 1,DLDWL,same,,38,9,11,18,37,53,19,5,7,7,19,19,19,4,4,11,18,34,2022-05-29T00:00:00+00:00,1.0,23.68,0.97,1.39
+2021,61,Ligue 1,97,Lorient,16,36,-28,Ligue 1,DDLLL,same,,38,8,12,18,35,63,19,6,6,7,20,22,19,2,6,11,15,41,2022-05-29T00:00:00+00:00,0.95,21.05,0.92,1.66
+2021,61,Ligue 1,99,Clermont Foot,17,36,-31,Ligue 1,LLWLD,same,,38,9,9,20,38,69,19,4,6,9,22,33,19,5,3,11,16,36,2022-05-29T00:00:00+00:00,0.95,23.68,1.0,1.82
+2021,61,Ligue 1,1063,Saint Etienne,18,32,-35,Ligue 1,DLLLL,same,Ligue 1 (Relegation),38,7,11,20,42,77,19,4,6,9,24,38,19,3,5,11,18,39,2022-05-29T00:00:00+00:00,0.84,18.42,1.11,2.03
+2021,61,Ligue 1,112,Metz,19,31,-34,Ligue 1,LWWDL,same,Relegation - Ligue 2,38,6,13,19,35,69,19,3,7,9,21,31,19,3,6,10,14,38,2022-05-29T00:00:00+00:00,0.82,15.79,0.92,1.82
+2021,61,Ligue 1,78,Bordeaux,20,31,-39,Ligue 1,WDLLL,same,Relegation - Ligue 2,38,6,13,19,52,91,19,3,7,9,25,33,19,3,6,10,27,58,2022-05-29T00:00:00+00:00,0.82,15.79,1.37,2.39
+2022,61,Ligue 1,85,Paris Saint Germain,1,85,49,Ligue 1,LDWWW,same,Promotion - Champions League (Group Stage: ),38,27,4,7,89,40,19,13,2,4,45,25,19,14,2,3,44,15,2023-06-03T00:00:00+00:00,2.24,71.05,2.34,1.05
+2022,61,Ligue 1,116,Lens,2,84,39,Ligue 1,WWWWW,same,Promotion - Champions League (Group Stage: ),38,25,9,4,68,29,19,17,1,1,41,13,19,8,8,3,27,16,2023-06-03T00:00:00+00:00,2.21,65.79,1.79,0.76
+2022,61,Ligue 1,81,Marseille,3,73,27,Ligue 1,LLLWL,same,Promotion - Champions League (Qualification: ),38,22,7,9,67,40,19,10,4,5,35,24,19,12,3,4,32,16,2023-06-03T00:00:00+00:00,1.92,57.89,1.76,1.05
+2022,61,Ligue 1,94,Rennes,4,68,30,Ligue 1,WWWWL,same,Promotion - Europa League (Group Stage: ),38,21,5,12,69,39,19,15,0,4,43,14,19,6,5,8,26,25,2023-06-03T00:00:00+00:00,1.79,55.26,1.82,1.03
+2022,61,Ligue 1,79,Lille,5,67,21,Ligue 1,DWWDL,same,Promotion - Europa Conference League (Qualification: ),38,19,10,9,65,44,19,13,4,2,40,25,19,6,6,7,25,19,2023-06-03T00:00:00+00:00,1.76,50.0,1.71,1.16
+2022,61,Ligue 1,91,Monaco,6,65,12,Ligue 1,LLLDW,same,,38,19,8,11,70,58,19,9,3,7,37,33,19,10,5,4,33,25,2023-06-03T00:00:00+00:00,1.71,50.0,1.84,1.53
+2022,61,Ligue 1,80,Lyon,7,62,18,Ligue 1,LWWLW,same,,38,18,8,12,65,47,19,10,5,4,35,19,19,8,3,8,30,28,2023-06-03T00:00:00+00:00,1.63,47.37,1.71,1.24
+2022,61,Ligue 1,99,Clermont Foot,8,59,-4,Ligue 1,WWLWD,same,,38,17,8,13,45,49,19,9,3,7,20,28,19,8,5,6,25,21,2023-06-03T00:00:00+00:00,1.55,44.74,1.18,1.29
+2022,61,Ligue 1,84,Nice,9,58,11,Ligue 1,WWDLW,same,,38,15,13,10,48,37,19,7,7,5,24,18,19,8,6,5,24,19,2023-06-03T00:00:00+00:00,1.53,39.47,1.26,0.97
+2022,61,Ligue 1,97,Lorient,10,55,-1,Ligue 1,WLLDW,same,,38,15,10,13,52,53,19,9,4,6,26,21,19,6,6,7,26,32,2023-06-03T00:00:00+00:00,1.45,39.47,1.37,1.39
+2022,61,Ligue 1,93,Reims,11,51,0,Ligue 1,LLDLW,same,,38,12,15,11,45,45,19,8,6,5,28,23,19,4,9,6,17,22,2023-06-03T00:00:00+00:00,1.34,31.58,1.18,1.18
+2022,61,Ligue 1,82,Montpellier,12,50,3,Ligue 1,WLWDL,same,,38,15,5,18,65,62,19,7,3,9,29,29,19,8,2,9,36,33,2023-06-03T00:00:00+00:00,1.32,39.47,1.71,1.63
+2022,61,Ligue 1,96,Toulouse,13,48,-6,Ligue 1,WDDDD,same,Promotion - Europa League (Group Stage: ),38,13,9,16,51,57,19,6,6,7,27,27,19,7,3,9,24,30,2023-06-03T00:00:00+00:00,1.26,34.21,1.34,1.5
+2022,61,Ligue 1,106,Stade Brestois 29,14,44,-10,Ligue 1,LWWWL,same,,38,11,11,16,44,54,19,7,5,7,24,26,19,4,6,9,20,28,2023-06-03T00:00:00+00:00,1.16,28.95,1.16,1.42
+2022,61,Ligue 1,95,Strasbourg,15,40,-8,Ligue 1,LDDWW,same,,38,9,13,16,51,59,19,5,7,7,25,26,19,4,6,9,26,33,2023-06-03T00:00:00+00:00,1.05,23.68,1.34,1.55
+2022,61,Ligue 1,83,Nantes,16,36,-18,Ligue 1,WLLDL,same,,38,7,15,16,37,55,19,5,8,6,20,26,19,2,7,10,17,29,2023-06-03T00:00:00+00:00,0.95,18.42,0.97,1.45
+2022,61,Ligue 1,108,Auxerre,17,35,-28,Ligue 1,LDLLD,same,Relegation - Ligue 2,38,8,11,19,35,63,19,5,7,7,18,28,19,3,4,12,17,35,2023-06-03T00:00:00+00:00,0.92,21.05,0.92,1.66
+2022,61,Ligue 1,98,Ajaccio,18,26,-51,Ligue 1,WLLLD,same,Relegation - Ligue 2,38,7,5,26,23,74,19,4,3,12,10,30,19,3,2,14,13,44,2023-06-03T00:00:00+00:00,0.68,18.42,0.61,1.95
+2022,61,Ligue 1,110,Estac Troyes,19,24,-36,Ligue 1,DLDLL,same,Relegation - Ligue 2,38,4,12,22,45,81,19,1,11,7,19,30,19,3,1,15,26,51,2023-06-03T00:00:00+00:00,0.63,10.53,1.18,2.13
+2022,61,Ligue 1,77,Angers,20,18,-48,Ligue 1,LWDLL,same,Relegation - Ligue 2,38,4,6,28,33,81,19,3,3,13,20,36,19,1,3,15,13,45,2023-06-03T00:00:00+00:00,0.47,10.53,0.87,2.13
+2023,61,Ligue 1,85,Paris Saint Germain,1,76,48,Ligue 1,WWLDW,same,Promotion - Champions League (League phase: ),34,22,10,2,81,33,17,9,6,2,42,22,17,13,4,0,39,11,2024-06-05T00:00:00+00:00,2.24,64.71,2.38,0.97
+2023,61,Ligue 1,91,Monaco,2,67,26,Ligue 1,WWWLW,same,Promotion - Champions League (League phase: ),34,20,7,7,68,42,17,10,3,4,30,14,17,10,4,3,38,28,2024-06-05T00:00:00+00:00,1.97,58.82,2.0,1.24
+2023,61,Ligue 1,106,Stade Brestois 29,3,61,19,Ligue 1,WDDWL,same,Promotion - Champions League (League phase: ),34,17,10,7,53,34,17,8,7,2,25,14,17,9,3,5,28,20,2024-06-05T00:00:00+00:00,1.79,50.0,1.56,1.0
+2023,61,Ligue 1,79,Lille,4,59,18,Ligue 1,DWLWL,same,Promotion - Champions League (Qualification: ),34,16,11,7,52,34,17,11,4,2,34,14,17,5,7,5,18,20,2024-06-05T00:00:00+00:00,1.74,47.06,1.53,1.0
+2023,61,Ligue 1,84,Nice,5,55,11,Ligue 1,DLWWD,same,Promotion - Europa League (League phase: ),34,15,10,9,40,29,17,9,4,4,21,11,17,6,6,5,19,18,2024-06-05T00:00:00+00:00,1.62,44.12,1.18,0.85
+2023,61,Ligue 1,80,Lyon,6,53,-6,Ligue 1,WWWWL,same,Promotion - Europa League (League phase: ),34,16,5,13,49,55,17,7,4,6,25,29,17,9,1,7,24,26,2024-06-05T00:00:00+00:00,1.56,47.06,1.44,1.62
+2023,61,Ligue 1,116,Lens,7,51,8,Ligue 1,DDWLW,same,Promotion - Conference League (Qualification: ),34,14,9,11,45,37,17,9,4,4,27,18,17,5,5,7,18,19,2024-06-05T00:00:00+00:00,1.5,41.18,1.32,1.09
+2023,61,Ligue 1,81,Marseille,8,50,11,Ligue 1,WLWWD,same,,34,13,11,10,52,41,17,10,6,1,31,13,17,3,5,9,21,28,2024-06-05T00:00:00+00:00,1.47,38.24,1.53,1.21
+2023,61,Ligue 1,93,Reims,9,47,-5,Ligue 1,WWDLL,same,,34,13,8,13,42,47,17,8,3,6,19,18,17,5,5,7,23,29,2024-06-05T00:00:00+00:00,1.38,38.24,1.24,1.38
+2023,61,Ligue 1,94,Rennes,10,46,7,Ligue 1,LDWLW,same,,34,12,10,12,53,46,17,7,4,6,34,26,17,5,6,6,19,20,2024-06-05T00:00:00+00:00,1.35,35.29,1.56,1.35
+2023,61,Ligue 1,96,Toulouse,11,43,-4,Ligue 1,LWLWD,same,,34,11,10,13,42,46,17,3,7,7,21,25,17,8,3,6,21,21,2024-06-05T00:00:00+00:00,1.26,32.35,1.24,1.35
+2023,61,Ligue 1,82,Montpellier,12,41,-5,Ligue 1,DLWDW,same,,34,10,12,12,43,48,17,3,9,5,20,23,17,7,3,7,23,25,2024-06-05T00:00:00+00:00,1.21,29.41,1.26,1.41
+2023,61,Ligue 1,95,Strasbourg,13,39,-12,Ligue 1,LWLLL,same,,34,10,9,15,38,50,17,7,3,7,22,23,17,3,6,8,16,27,2024-06-05T00:00:00+00:00,1.15,29.41,1.12,1.47
+2023,61,Ligue 1,83,Nantes,14,33,-25,Ligue 1,LLDDL,same,,34,9,6,19,30,55,17,3,3,11,17,30,17,6,3,8,13,25,2024-06-05T00:00:00+00:00,0.97,26.47,0.88,1.62
+2023,61,Ligue 1,111,LE Havre,15,32,-11,Ligue 1,LLWDL,same,,34,7,11,16,34,45,17,6,2,9,18,19,17,1,9,7,16,26,2024-06-05T00:00:00+00:00,0.94,20.59,1.0,1.32
+2023,61,Ligue 1,112,Metz,16,29,-23,Ligue 1,LLLLW,same,Ligue 1 (Promotion - Play Offs: ),34,8,5,21,35,58,17,3,3,11,17,27,17,5,2,10,18,31,2024-06-05T00:00:00+00:00,0.85,23.53,1.03,1.71
+2023,61,Ligue 1,97,Lorient,17,29,-23,Ligue 1,WLLLL,same,Relegation - Ligue 2,34,7,8,19,43,66,17,4,4,9,26,30,17,3,4,10,17,36,2024-06-05T00:00:00+00:00,0.85,20.59,1.26,1.94
+2023,61,Ligue 1,99,Clermont Foot,18,25,-34,Ligue 1,LLLWL,same,Relegation - Ligue 2,34,5,10,19,26,60,17,3,5,9,14,27,17,2,5,10,12,33,2024-06-05T00:00:00+00:00,0.74,14.71,0.76,1.76
+2018,2,UEFA Champions League,165,Borussia Dortmund,1,13,8,UEFA Champions League: Group A,WDLWW,,Promotion - Champions League (Play Offs),6,4,1,1,10,2,3,2,1,0,7,0,3,2,0,1,3,2,2019-01-19T00:00:00+00:00,2.17,66.67,1.67,0.33
+2018,2,UEFA Champions League,530,Atletico Madrid,2,13,3,UEFA Champions League: Group A,DWWLW,,Promotion - Champions League (Play Offs),6,4,1,1,9,6,3,3,0,0,7,1,3,1,1,1,2,5,2019-01-19T00:00:00+00:00,2.17,66.67,1.5,1.0
+2018,2,UEFA Champions League,569,Club Brugge KV,3,6,1,UEFA Champions League: Group A,DDWDL,,Promotion - Europa League (Play Offs),6,1,3,2,6,5,3,0,2,1,1,2,3,1,1,1,5,3,2019-01-19T00:00:00+00:00,1.0,16.67,1.0,0.83
+2018,2,UEFA Champions League,91,Monaco,4,1,-12,UEFA Champions League: Group A,LLLDL,,,6,0,1,5,2,14,3,0,0,3,1,8,3,0,1,2,1,6,2019-01-19T00:00:00+00:00,0.17,0.0,0.33,2.33
+2019,2,UEFA Champions League,85,Paris Saint Germain,1,16,15,UEFA Champions League: Group A,WDWWW,same,8th Finals,6,5,1,0,17,2,3,3,0,0,9,0,3,2,1,0,8,2,2020-06-18T00:00:00+00:00,2.67,83.33,2.83,0.33
+2019,2,UEFA Champions League,541,Real Madrid,2,11,6,UEFA Champions League: Group A,WDWWD,same,8th Finals,6,3,2,1,14,8,3,1,2,0,10,4,3,2,0,1,4,4,2020-06-18T00:00:00+00:00,1.83,50.0,2.33,1.33
+2019,2,UEFA Champions League,569,Club Brugge KV,3,3,-8,UEFA Champions League: Group A,LDLLD,same,UEFA Europa League,6,0,3,3,4,12,3,0,1,2,1,8,3,0,2,1,3,4,2020-06-18T00:00:00+00:00,0.5,0.0,0.67,2.0
+2019,2,UEFA Champions League,645,Galatasaray,4,2,-13,UEFA Champions League: Group A,LDLLL,same,,6,0,2,4,1,14,3,0,1,2,1,3,3,0,1,2,0,11,2020-06-18T00:00:00+00:00,0.33,0.0,0.17,2.33
+2020,2,UEFA Champions League,157,Bayern Munich,1,16,13,UEFA Champions League: Group A,WDWWW,same,Promotion - Champions League (Round of 16),6,5,1,0,18,5,3,3,0,0,9,1,3,2,1,0,9,4,2021-04-13T00:00:00+00:00,2.67,83.33,3.0,0.83
+2020,2,UEFA Champions League,530,Atletico Madrid,2,9,-1,UEFA Champions League: Group A,WDDDW,same,Promotion - Champions League (Round of 16),6,2,3,1,7,8,3,1,2,0,4,3,3,1,1,1,3,5,2021-04-13T00:00:00+00:00,1.5,33.33,1.17,1.33
+2020,2,UEFA Champions League,571,Red Bull Salzburg,3,4,-7,UEFA Champions League: Group A,LWLLL,same,Promotion - Europa League (Round of 32),6,1,1,4,10,17,3,0,1,2,4,10,3,1,0,2,6,7,2021-04-13T00:00:00+00:00,0.67,16.67,1.67,2.83
+2020,2,UEFA Champions League,597,Lokomotiv Moscow,4,3,-5,UEFA Champions League: Group A,LLDDL,same,,6,0,3,3,5,10,3,0,1,2,3,6,3,0,2,1,2,4,2021-04-13T00:00:00+00:00,0.5,0.0,0.83,1.67
+2021,2,UEFA Champions League,50,Manchester City,1,12,8,Group A,LWWWL,same,,6,4,0,2,18,10,3,3,0,0,12,5,3,1,0,2,6,5,2022-01-21T00:00:00+00:00,2.0,66.67,3.0,1.67
+2021,2,UEFA Champions League,85,Paris Saint Germain,2,11,5,Group A,WLDWW,same,,6,3,2,1,13,8,3,3,0,0,9,3,3,0,2,1,4,5,2022-01-21T00:00:00+00:00,1.83,50.0,2.17,1.33
+2021,2,UEFA Champions League,173,RB Leipzig,3,7,1,Group A,WWDLL,same,,6,2,1,3,15,14,3,1,1,1,5,5,3,1,0,2,10,9,2022-01-21T00:00:00+00:00,1.17,33.33,2.5,2.33
+2021,2,UEFA Champions League,569,Club Brugge KV,4,4,-14,Group A,LLLLW,same,,6,1,1,4,6,20,3,0,1,2,2,11,3,1,0,2,4,9,2022-01-21T00:00:00+00:00,0.67,16.67,1.0,3.33
+2022,2,UEFA Champions League,492,Napoli,1,15,14,Group A,LWWWW,same,Promotion - Champions League (Play Offs: 1/8-finals),6,5,0,1,20,6,3,3,0,0,11,3,3,2,0,1,9,3,2022-12-12T00:00:00+00:00,2.5,83.33,3.33,1.0
+2022,2,UEFA Champions League,40,Liverpool,2,15,11,Group A,WWWWW,same,Promotion - Champions League (Play Offs: 1/8-finals),6,5,0,1,17,6,3,3,0,0,6,1,3,2,0,1,11,5,2022-12-12T00:00:00+00:00,2.5,83.33,2.83,1.0
+2022,2,UEFA Champions League,194,Ajax,3,6,-5,Group A,WLLLL,same,Promotion - Europa League (Play Offs: 1/16-finals),6,2,0,4,11,16,3,1,0,2,5,9,3,1,0,2,6,7,2022-12-12T00:00:00+00:00,1.0,33.33,1.83,2.67
+2022,2,UEFA Champions League,257,Rangers,4,0,-20,Group A,LLLLL,same,,6,0,0,6,2,22,3,0,0,3,2,13,3,0,0,3,0,9,2022-12-12T00:00:00+00:00,0.0,0.0,0.33,3.67
+2023,2,UEFA Champions League,157,Bayern Munich,1,16,6,Group A,WDWWW,same,Promotion - Champions League (Play Offs: 1/8-finals),6,5,1,0,12,6,3,2,1,0,6,4,3,3,0,0,6,2,2024-05-24T00:00:00+00:00,2.67,83.33,2.0,1.0
+2023,2,UEFA Champions League,400,FC Copenhagen,2,8,0,Group A,WDWLL,same,Promotion - Champions League (Play Offs: 1/8-finals),6,2,2,2,8,8,3,2,0,1,6,5,3,0,2,1,2,3,2024-05-24T00:00:00+00:00,1.33,33.33,1.33,1.33
+2023,2,UEFA Champions League,645,Galatasaray,3,5,-3,Group A,LDLLW,same,Promotion - Europa League (Play Offs: 1/16-finals),6,1,2,3,10,13,3,0,2,1,6,8,3,1,0,2,4,5,2024-05-24T00:00:00+00:00,0.83,16.67,1.67,2.17
+2023,2,UEFA Champions League,33,Manchester United,4,4,-3,Group A,LDLWL,same,,6,1,1,4,12,15,3,1,0,2,3,4,3,0,1,2,9,11,2024-05-24T00:00:00+00:00,0.67,16.67,2.0,2.5
+2018,3,UEFA Europa League,168,Bayer Leverkusen,1,13,7,UEFA Europa League: Group A,WDWLW,,Promotion - Europa League (Play Offs),6,4,1,1,16,9,3,2,1,0,6,3,3,2,0,1,10,6,2019-01-19T00:00:00+00:00,2.17,66.67,2.67,1.5
+2018,3,UEFA Europa League,783,FC Zurich,2,10,1,UEFA Europa League: Group A,DLLWW,,Promotion - Europa League (Play Offs),6,3,1,2,7,6,3,2,0,1,5,4,3,1,1,1,2,2,2019-01-19T00:00:00+00:00,1.67,50.0,1.17,1.0
+2018,3,UEFA Europa League,614,AEK Larnaca,3,5,-6,UEFA Europa League: Group A,LWDDL,,,6,1,2,3,6,12,3,0,1,2,2,7,3,1,1,1,4,5,2019-01-19T00:00:00+00:00,0.83,16.67,1.0,2.0
+2018,3,UEFA Europa League,566,Ludogorets,4,4,-2,UEFA Europa League: Group A,DDDDL,,,6,0,4,2,5,7,3,0,2,1,3,4,3,0,2,1,2,3,2019-01-19T00:00:00+00:00,0.67,0.0,0.83,1.17
+2019,3,UEFA Europa League,536,Sevilla,1,15,11,UEFA Europa League: Group A,LWWWW,same,16th Finals,6,5,0,1,14,3,3,3,0,0,6,0,3,2,0,1,8,3,2020-06-18T00:00:00+00:00,2.5,83.33,2.33,0.5
+2019,3,UEFA Europa League,2247,Apoel Nicosia,2,10,2,UEFA Europa League: Group A,WWWDL,same,16th Finals,6,3,1,2,10,8,3,2,0,1,6,5,3,1,1,1,4,3,2020-06-18T00:00:00+00:00,1.67,50.0,1.67,1.33
+2019,3,UEFA Europa League,556,Qarabag,3,5,-3,UEFA Europa League: Group A,DLLDW,same,,6,1,2,3,8,11,3,0,2,1,3,6,3,1,0,2,5,5,2020-06-18T00:00:00+00:00,0.83,16.67,1.33,1.83
+2019,3,UEFA Europa League,578,F91 Dudelange,4,4,-10,UEFA Europa League: Group A,DLLLL,same,,6,1,1,4,8,18,3,0,0,3,3,11,3,1,1,1,5,7,2020-06-18T00:00:00+00:00,0.67,16.67,1.33,3.0
+2020,3,UEFA Europa League,497,AS Roma,1,13,8,UEFA Europa League: Group A,LWWWD,same,Promotion - Europa League (Play Offs),6,4,1,1,13,5,3,2,1,0,8,1,3,2,0,1,5,4,2021-04-13T00:00:00+00:00,2.17,66.67,2.17,0.83
+2020,3,UEFA Europa League,565,BSC Young Boys,2,10,2,UEFA Europa League: Group A,WLWWD,same,Promotion - Europa League (Play Offs),6,3,1,2,9,7,3,2,0,1,6,3,3,1,1,1,3,4,2021-04-13T00:00:00+00:00,1.67,50.0,1.5,1.17
+2020,3,UEFA Europa League,2246,CFR 1907 Cluj,3,5,-6,UEFA Europa League: Group A,LDLLD,same,,6,1,2,3,4,10,3,0,2,1,1,3,3,1,0,2,3,7,2021-04-13T00:00:00+00:00,0.83,16.67,0.67,1.67
+2020,3,UEFA Europa League,853,CSKA Sofia,4,5,-4,UEFA Europa League: Group A,WDLLD,same,,6,1,2,3,3,7,3,1,0,2,3,4,3,0,2,1,0,3,2021-04-13T00:00:00+00:00,0.83,16.67,0.5,1.17
+2021,3,UEFA Europa League,80,Lyon,1,16,11,Group A,DWWWW,same,,6,5,1,0,16,5,3,2,1,0,7,1,3,3,0,0,9,4,2022-01-21T00:00:00+00:00,2.67,83.33,2.67,0.83
+2021,3,UEFA Europa League,257,Rangers,2,8,1,Group A,DWDWL,same,,6,2,2,2,6,5,3,2,0,1,4,2,3,0,2,1,2,3,2022-01-21T00:00:00+00:00,1.33,33.33,1.0,0.83
+2021,3,UEFA Europa League,628,Sparta Praha,3,7,-3,Group A,WLLLW,same,,6,2,1,3,6,9,3,2,0,1,6,4,3,0,1,2,0,5,2022-01-21T00:00:00+00:00,1.17,33.33,1.0,1.5
+2021,3,UEFA Europa League,407,Brondby,4,2,-9,Group A,LLDLL,same,,6,0,2,4,2,11,3,0,2,1,2,4,3,0,0,3,0,7,2022-01-21T00:00:00+00:00,0.33,0.0,0.33,1.83
+2022,3,UEFA Europa League,42,Arsenal,1,15,5,Group A,WLWWW,same,Promotion - Europa League (Play Offs: 1/8-finals),6,5,0,1,8,3,3,3,0,0,5,0,3,2,0,1,3,3,2022-12-12T00:00:00+00:00,2.5,83.33,1.33,0.5
+2022,3,UEFA Europa League,197,PSV Eindhoven,2,13,11,Group A,WWLWW,same,Promotion - Europa League (Play Offs: 1/16-finals),6,4,1,1,15,4,3,2,1,0,8,1,3,2,0,1,7,3,2022-12-12T00:00:00+00:00,2.17,66.67,2.5,0.67
+2022,3,UEFA Europa League,327,Bodo/Glimt,3,4,-5,Group A,LLLLW,same,Promotion - Europa Conference League (Play Offs: 1/16-finals),6,1,1,4,5,10,3,1,0,2,3,4,3,0,1,2,2,6,2022-12-12T00:00:00+00:00,0.67,16.67,0.83,1.67
+2022,3,UEFA Europa League,783,FC Zurich,4,3,-11,Group A,LWLLL,same,,6,1,0,5,5,16,3,1,0,2,4,8,3,0,0,3,1,8,2022-12-12T00:00:00+00:00,0.5,16.67,0.83,2.67
+2023,3,UEFA Europa League,48,West Ham,1,15,6,Group A,WWWLW,same,Promotion - Europa League (Play Offs: 1/8-finals),6,5,0,1,10,4,3,3,0,0,6,1,3,2,0,1,4,3,2024-05-24T00:00:00+00:00,2.5,83.33,1.67,0.67
+2023,3,UEFA Europa League,160,SC Freiburg,2,12,10,Group A,LWWWL,same,Promotion - Europa League (Play Offs: 1/16-finals),6,4,0,2,17,7,3,2,0,1,11,2,3,2,0,1,6,5,2024-05-24T00:00:00+00:00,2.0,66.67,2.83,1.17
+2023,3,UEFA Europa League,553,Olympiakos Piraeus,3,7,-3,Group A,WLLWD,same,Promotion - Europa Conference League (Play Offs: 1/16-finals),6,2,1,3,11,14,3,2,0,1,9,6,3,0,1,2,2,8,2024-05-24T00:00:00+00:00,1.17,33.33,1.83,2.33
+2023,3,UEFA Europa League,2646,TSC Backa Topola,4,1,-13,Group A,LLLLD,same,,6,0,1,5,6,19,3,0,1,2,3,6,3,0,0,3,3,13,2024-05-24T00:00:00+00:00,0.17,0.0,1.0,3.17
+2021,848,UEFA Europa Conference League,1026,Lask Linz,1,16,11,Group A,WWWWD,same,Promotion - Europa Conference League (Play Offs: 1/8-finals),6,5,1,0,12,1,3,2,1,0,6,1,3,3,0,0,6,0,2022-05-25T00:00:00+00:00,2.67,83.33,2.0,0.17
+2021,848,UEFA Europa Conference League,604,Maccabi Tel Aviv,2,11,10,Group A,DLWWD,same,Promotion - Europa Conference League (Play Offs: 1/16-finals),6,3,2,1,14,4,3,2,0,1,7,2,3,1,2,0,7,2,2022-05-25T00:00:00+00:00,1.83,50.0,2.33,0.67
+2021,848,UEFA Europa Conference League,649,HJK helsinki,3,6,-10,Group A,LWLLW,same,,6,2,0,4,5,15,3,1,0,2,1,7,3,1,0,2,4,8,2022-05-25T00:00:00+00:00,1.0,33.33,0.83,2.5
+2021,848,UEFA Europa Conference League,582,Alashkert,4,1,-11,Group A,DLLLL,same,,6,0,1,5,4,15,3,0,1,2,3,8,3,0,0,3,1,7,2022-05-25T00:00:00+00:00,0.17,0.0,0.67,2.5
+2022,848,UEFA Europa Conference League,564,Istanbul Basaksehir,1,13,11,Group A,WLWDW,same,Promotion - Europa Conference League (Play Offs: 1/8-finals),6,4,1,1,14,3,3,3,0,0,9,1,3,1,1,1,5,2,2023-06-07T00:00:00+00:00,2.17,66.67,2.33,0.5
+2022,848,UEFA Europa Conference League,502,Fiorentina,2,13,8,Group A,WWWWL,same,Promotion - Europa Conference League (Play Offs: 1/16-finals),6,4,1,1,14,6,3,2,1,0,8,3,3,2,0,1,6,3,2023-06-07T00:00:00+00:00,2.17,66.67,2.33,1.0
+2022,848,UEFA Europa Conference League,254,Heart OF Midlothian,3,6,-10,Group A,LWLLW,same,,6,2,0,4,6,16,3,1,0,2,2,8,3,1,0,2,4,8,2023-06-07T00:00:00+00:00,1.0,33.33,1.0,2.67
+2022,848,UEFA Europa Conference League,4160,Rīgas FS,4,2,-9,Group A,LLLDL,same,,6,0,2,4,2,11,3,0,1,2,0,5,3,0,1,2,2,6,2023-06-07T00:00:00+00:00,0.33,0.0,0.33,1.83
+2023,848,UEFA Europa Conference League,79,Lille,1,14,8,Group A,WWDWD,same,Promotion - Europa Conference League (Play Offs: 1/8-finals),6,4,2,0,10,2,3,3,0,0,7,1,3,1,2,0,3,1,2024-05-24T00:00:00+00:00,2.33,66.67,1.67,0.33
+2023,848,UEFA Europa Conference League,656,Slovan Bratislava,2,10,1,Group A,LWDLW,same,Promotion - Europa Conference League (Play Offs: 1/16-finals),6,3,1,2,8,7,3,1,1,1,4,4,3,2,0,1,4,3,2024-05-24T00:00:00+00:00,1.67,50.0,1.33,1.17
+2023,848,UEFA Europa Conference League,677,Olimpija Ljubljana,3,6,-5,Group A,WLWLL,same,,6,2,0,4,4,9,3,1,0,2,2,3,3,1,0,2,2,6,2024-05-24T00:00:00+00:00,1.0,33.33,0.67,1.5
+2023,848,UEFA Europa Conference League,701,KI Klaksvik,4,4,-4,Group A,LLLWD,same,,6,1,1,4,5,9,3,1,1,1,4,2,3,0,0,3,1,7,2024-05-24T00:00:00+00:00,0.67,16.67,0.83,1.5
+2018,88,Eredivisie,194,Ajax,1,86,87,Eredivisie,WWWWW,,Promotion - Champions League (Group Stage),34,28,2,4,119,32,17,15,2,0,70,13,17,13,0,4,49,19,2019-05-15T00:00:00+00:00,2.53,82.35,3.5,0.94
+2018,88,Eredivisie,197,PSV Eindhoven,2,83,72,Eredivisie,WLWWW,,Promotion - Champions League (Qualification),34,26,5,3,98,26,17,16,1,0,58,7,17,10,4,3,40,19,2019-05-15T00:00:00+00:00,2.44,76.47,2.88,0.76
+2018,88,Eredivisie,209,Feyenoord,3,65,34,Eredivisie,WLWWW,,Promotion - Europa League (Group Stage),34,20,5,9,75,41,17,14,0,3,43,16,17,6,5,6,32,25,2019-05-15T00:00:00+00:00,1.91,58.82,2.21,1.21
+2018,88,Eredivisie,201,AZ Alkmaar,4,58,21,Eredivisie,LWWLL,,Promotion - Eredivisie (Europa League - Play Offs),34,17,7,10,64,43,17,11,3,3,35,15,17,6,4,7,29,28,2019-05-15T00:00:00+00:00,1.71,50.0,1.88,1.26
+2018,88,Eredivisie,200,Vitesse,5,53,19,Eredivisie,WWLWD,,Promotion - Eredivisie (Europa League - Play Offs),34,14,11,9,70,51,17,10,6,1,45,25,17,4,5,8,25,26,2019-05-15T00:00:00+00:00,1.56,41.18,2.06,1.5
+2018,88,Eredivisie,207,Utrecht,6,53,9,Eredivisie,WLWLD,,Promotion - Eredivisie (Europa League - Play Offs),34,15,8,11,60,51,17,9,5,3,30,16,17,6,3,8,30,35,2019-05-15T00:00:00+00:00,1.56,44.12,1.76,1.5
+2018,88,Eredivisie,206,Heracles,7,48,-7,Eredivisie,LLLWL,,Promotion - Eredivisie (Europa League - Play Offs),34,15,3,16,61,68,17,11,0,6,42,32,17,4,3,10,19,36,2019-05-15T00:00:00+00:00,1.41,44.12,1.79,2.0
+2018,88,Eredivisie,202,Groningen,8,45,-2,Eredivisie,LWLLD,,,34,13,6,15,39,41,17,10,1,6,26,16,17,3,5,9,13,25,2019-05-15T00:00:00+00:00,1.32,38.24,1.15,1.21
+2018,88,Eredivisie,198,ADO Den Haag,9,45,-5,Eredivisie,WWWLW,,,34,12,9,13,58,63,17,7,4,6,33,32,17,5,5,7,25,31,2019-05-15T00:00:00+00:00,1.32,35.29,1.71,1.85
+2018,88,Eredivisie,195,Willem II,10,44,-14,Eredivisie,LLLDW,,,34,13,5,16,58,72,17,6,2,9,26,33,17,7,3,7,32,39,2019-05-15T00:00:00+00:00,1.29,38.24,1.71,2.12
+2018,88,Eredivisie,210,Heerenveen,11,41,-9,Eredivisie,LWDLD,,,34,10,11,13,64,73,17,4,7,6,27,35,17,6,4,7,37,38,2019-05-15T00:00:00+00:00,1.21,29.41,1.88,2.15
+2018,88,Eredivisie,204,VVV Venlo,12,41,-16,Eredivisie,LWDWD,,,34,11,8,15,47,63,17,7,3,7,25,25,17,4,5,8,22,38,2019-05-15T00:00:00+00:00,1.21,32.35,1.38,1.85
+2018,88,Eredivisie,193,PEC Zwolle,13,39,-13,Eredivisie,DLWLL,,,34,11,6,17,44,57,17,6,3,8,31,31,17,5,3,9,13,26,2019-05-15T00:00:00+00:00,1.15,32.35,1.29,1.68
+2018,88,Eredivisie,208,Emmen,14,38,-31,Eredivisie,WWLWD,,,34,10,8,16,41,72,17,5,5,7,23,31,17,5,3,9,18,41,2019-05-15T00:00:00+00:00,1.12,29.41,1.21,2.12
+2018,88,Eredivisie,205,Fortuna Sittard,15,34,-30,Eredivisie,LLLWD,,,34,9,7,18,50,80,17,7,5,5,30,26,17,2,2,13,20,54,2019-05-15T00:00:00+00:00,1.0,26.47,1.47,2.35
+2018,88,Eredivisie,196,Excelsior,16,33,-33,Eredivisie,WWLDL,,Eredivisie (Relegation),34,9,6,19,46,79,17,6,4,7,27,36,17,3,2,12,19,43,2019-05-15T00:00:00+00:00,0.97,26.47,1.35,2.32
+2018,88,Eredivisie,199,De Graafschap,17,29,-37,Eredivisie,LLWLL,,Eredivisie (Relegation),34,8,5,21,38,75,17,6,3,8,25,28,17,2,2,13,13,47,2019-05-15T00:00:00+00:00,0.85,23.53,1.12,2.21
+2018,88,Eredivisie,203,NAC Breda,18,23,-45,Eredivisie,DLLLD,,Relegation - Eerste Divisie,34,5,8,21,29,74,17,4,6,7,18,30,17,1,2,14,11,44,2019-05-15T00:00:00+00:00,0.68,14.71,0.85,2.18
+2019,88,Eredivisie,194,Ajax,1,56,45,Eredivisie,WLLWW,same,Promotion - Champions League (Group Stage),25,18,2,5,68,23,13,11,0,2,40,8,12,7,2,3,28,15,2020-03-23T00:00:00+00:00,2.24,72.0,2.72,0.92
+2019,88,Eredivisie,201,AZ Alkmaar,2,56,37,Eredivisie,WWWLW,same,Promotion - Champions League (Qualification),25,18,2,5,54,17,13,10,1,2,32,8,12,8,1,3,22,9,2020-03-23T00:00:00+00:00,2.24,72.0,2.16,0.68
+2019,88,Eredivisie,209,Feyenoord,3,50,15,Eredivisie,WDWWW,same,Promotion - Europa League (Qualification),25,14,8,3,50,35,13,9,3,1,29,15,12,5,5,2,21,20,2020-03-23T00:00:00+00:00,2.0,56.0,2.0,1.4
+2019,88,Eredivisie,197,PSV Eindhoven,4,49,26,Eredivisie,WDWWW,same,Promotion - Eredivisie (Europa League - Play Offs),26,14,7,5,54,28,12,8,3,1,32,12,14,6,4,4,22,16,2020-03-23T00:00:00+00:00,1.88,53.85,2.08,1.08
+2019,88,Eredivisie,195,Willem II,5,44,3,Eredivisie,LWLDL,same,Promotion - Eredivisie (Europa League - Play Offs),26,13,5,8,37,34,13,7,4,2,17,9,13,6,1,6,20,25,2020-03-23T00:00:00+00:00,1.69,50.0,1.42,1.31
+2019,88,Eredivisie,207,Utrecht,6,41,16,Eredivisie,WLWDD,same,Promotion - Eredivisie (Europa League - Play Offs),25,12,5,8,50,34,12,8,0,4,30,12,13,4,5,4,20,22,2020-03-23T00:00:00+00:00,1.64,48.0,2.0,1.36
+2019,88,Eredivisie,200,Vitesse,7,41,10,Eredivisie,WLLWL,same,Promotion - Eredivisie (Europa League - Play Offs),26,12,5,9,45,35,13,7,3,3,24,15,13,5,2,6,21,20,2020-03-23T00:00:00+00:00,1.58,46.15,1.73,1.35
+2019,88,Eredivisie,206,Heracles,8,36,6,Eredivisie,WDWLW,same,,26,10,6,10,40,34,13,8,1,4,31,17,13,2,5,6,9,17,2020-03-23T00:00:00+00:00,1.38,38.46,1.54,1.31
+2019,88,Eredivisie,202,Groningen,9,35,1,Eredivisie,LLLWW,same,,26,10,5,11,27,26,13,7,1,5,17,10,13,3,4,6,10,16,2020-03-23T00:00:00+00:00,1.35,38.46,1.04,1.0
+2019,88,Eredivisie,210,Heerenveen,10,33,0,Eredivisie,LWDLD,same,,26,8,9,9,41,41,14,3,8,3,17,18,12,5,1,6,24,23,2020-03-23T00:00:00+00:00,1.27,30.77,1.58,1.58
+2019,88,Eredivisie,426,Sparta Rotterdam,11,33,-4,Eredivisie,LWWLW,same,,26,9,6,11,41,45,13,7,3,3,30,16,13,2,3,8,11,29,2020-03-23T00:00:00+00:00,1.27,34.62,1.58,1.73
+2019,88,Eredivisie,208,Emmen,12,32,-13,Eredivisie,WLWDW,same,,26,9,5,12,32,45,13,9,2,2,26,12,13,0,3,10,6,33,2020-03-23T00:00:00+00:00,1.23,34.62,1.23,1.73
+2019,88,Eredivisie,204,VVV Venlo,13,28,-27,Eredivisie,LDWWD,same,,26,8,4,14,24,51,13,5,3,5,14,21,13,3,1,9,10,30,2020-03-23T00:00:00+00:00,1.08,30.77,0.92,1.96
+2019,88,Eredivisie,415,Twente,14,27,-12,Eredivisie,LLLWL,same,,26,7,6,13,34,46,13,5,3,5,23,22,13,2,3,8,11,24,2020-03-23T00:00:00+00:00,1.04,26.92,1.31,1.77
+2019,88,Eredivisie,193,PEC Zwolle,15,26,-18,Eredivisie,DWLLD,same,,26,7,5,14,37,55,12,5,2,5,28,30,14,2,3,9,9,25,2020-03-23T00:00:00+00:00,1.0,26.92,1.42,2.12
+2019,88,Eredivisie,205,Fortuna Sittard,16,26,-23,Eredivisie,DDLDL,same,Eredivisie (Relegation),26,6,8,12,29,52,13,6,4,3,22,17,13,0,4,9,7,35,2020-03-23T00:00:00+00:00,1.0,23.08,1.12,2.0
+2019,88,Eredivisie,198,ADO Den Haag,17,19,-29,Eredivisie,LDDLL,same,Relegation - Eerste Divisie,26,4,7,15,25,54,13,2,6,5,11,17,13,2,1,10,14,37,2020-03-23T00:00:00+00:00,0.73,15.38,0.96,2.08
+2019,88,Eredivisie,417,Waalwijk,18,15,-33,Eredivisie,LWLLD,same,Relegation - Eerste Divisie,26,4,3,19,27,60,13,3,2,8,13,20,13,1,1,11,14,40,2020-03-23T00:00:00+00:00,0.58,15.38,1.04,2.31
+2020,88,Eredivisie,194,Ajax,1,88,79,Eredivisie,WWWWW,same,Promotion - Champions League (Group Stage),34,28,4,2,102,23,17,14,2,1,53,14,17,14,2,1,49,9,2021-05-23T00:00:00+00:00,2.59,82.35,3.0,0.68
+2020,88,Eredivisie,197,PSV Eindhoven,2,72,39,Eredivisie,DWWDW,same,Promotion - Champions League (Qualification),34,21,9,4,74,35,17,13,3,1,39,13,17,8,6,3,35,22,2021-05-23T00:00:00+00:00,2.12,61.76,2.18,1.03
+2020,88,Eredivisie,201,AZ Alkmaar,3,71,34,Eredivisie,WDWWL,same,Promotion - Europa League (Qualification),34,21,8,5,75,41,17,12,2,3,39,18,17,9,6,2,36,23,2021-05-23T00:00:00+00:00,2.09,61.76,2.21,1.21
+2020,88,Eredivisie,200,Vitesse,4,61,14,Eredivisie,LDLWD,same,Promotion - Europa Conference League (Qualification),34,18,7,9,52,38,17,11,4,2,26,12,17,7,3,7,26,26,2021-05-23T00:00:00+00:00,1.79,52.94,1.53,1.12
+2020,88,Eredivisie,209,Feyenoord,5,59,28,Eredivisie,WDLLD,same,Promotion - Eredivisie (Conference League - Play Offs),34,16,11,7,64,36,17,9,6,2,35,13,17,7,5,5,29,23,2021-05-23T00:00:00+00:00,1.74,47.06,1.88,1.06
+2020,88,Eredivisie,207,Utrecht,6,53,11,Eredivisie,DDDWW,same,Promotion - Eredivisie (Conference League - Play Offs),34,13,14,7,52,41,17,6,7,4,27,25,17,7,7,3,25,16,2021-05-23T00:00:00+00:00,1.56,38.24,1.53,1.21
+2020,88,Eredivisie,202,Groningen,7,50,3,Eredivisie,LDWLL,same,Promotion - Eredivisie (Conference League - Play Offs),34,14,8,12,40,37,17,7,6,4,17,13,17,7,2,8,23,24,2021-05-23T00:00:00+00:00,1.47,41.18,1.18,1.09
+2020,88,Eredivisie,426,Sparta Rotterdam,8,47,1,Eredivisie,WDWWW,same,Promotion - Eredivisie (Conference League - Play Offs),34,13,8,13,49,48,17,6,4,7,30,27,17,7,4,6,19,21,2021-05-23T00:00:00+00:00,1.38,38.24,1.44,1.41
+2020,88,Eredivisie,206,Heracles,9,44,-11,Eredivisie,LDDWL,same,,34,12,8,14,42,53,17,8,4,5,29,16,17,4,4,9,13,37,2021-05-23T00:00:00+00:00,1.29,35.29,1.24,1.56
+2020,88,Eredivisie,415,Twente,10,41,-2,Eredivisie,WLDLL,same,,34,10,11,13,48,50,17,4,6,7,23,25,17,6,5,6,25,25,2021-05-23T00:00:00+00:00,1.21,29.41,1.41,1.47
+2020,88,Eredivisie,205,Fortuna Sittard,11,41,-8,Eredivisie,LDLWW,same,,34,12,5,17,50,58,17,5,3,9,27,33,17,7,2,8,23,25,2021-05-23T00:00:00+00:00,1.21,35.29,1.47,1.71
+2020,88,Eredivisie,210,Heerenveen,12,39,-6,Eredivisie,LLDDL,same,,34,9,12,13,43,49,17,6,5,6,22,18,17,3,7,7,21,31,2021-05-23T00:00:00+00:00,1.15,26.47,1.26,1.44
+2020,88,Eredivisie,193,PEC Zwolle,13,38,-9,Eredivisie,WLLLW,same,,34,9,11,14,44,53,17,6,6,5,19,18,17,3,5,9,25,35,2021-05-23T00:00:00+00:00,1.12,26.47,1.29,1.56
+2020,88,Eredivisie,195,Willem II,14,31,-28,Eredivisie,WWLLW,same,,34,8,7,19,40,68,17,6,2,9,22,33,17,2,5,10,18,35,2021-05-23T00:00:00+00:00,0.91,23.53,1.18,2.0
+2020,88,Eredivisie,417,Waalwijk,15,30,-22,Eredivisie,LWDLL,same,,34,7,9,18,33,55,17,5,4,8,21,25,17,2,5,10,12,30,2021-05-23T00:00:00+00:00,0.88,20.59,0.97,1.62
+2020,88,Eredivisie,208,Emmen,16,30,-28,Eredivisie,WWLLW,same,Eredivisie (Relegation),34,7,9,18,40,68,17,4,4,9,26,41,17,3,5,9,14,27,2021-05-23T00:00:00+00:00,0.88,20.59,1.18,2.0
+2020,88,Eredivisie,204,VVV Venlo,17,23,-48,Eredivisie,LLDLL,same,Relegation - Eerste Divisie,34,6,5,23,43,91,17,3,4,10,20,46,17,3,1,13,23,45,2021-05-23T00:00:00+00:00,0.68,17.65,1.26,2.68
+2020,88,Eredivisie,198,ADO Den Haag,18,22,-47,Eredivisie,LLWWL,same,Relegation - Eerste Divisie,34,4,10,20,29,76,17,1,6,10,17,38,17,3,4,10,12,38,2021-05-23T00:00:00+00:00,0.65,11.76,0.85,2.24
+2021,88,Eredivisie,194,Ajax,1,83,79,Eredivisie,DWDWW,same,Promotion - Champions League (Group Stage),34,26,5,3,98,19,17,14,1,2,62,8,17,12,4,1,36,11,2022-05-29T00:00:00+00:00,2.44,76.47,2.88,0.56
+2021,88,Eredivisie,197,PSV Eindhoven,2,81,44,Eredivisie,WWDWW,same,Promotion - Champions League (Qualification),34,26,3,5,86,42,17,14,0,3,49,22,17,12,3,2,37,20,2022-05-29T00:00:00+00:00,2.38,76.47,2.53,1.24
+2021,88,Eredivisie,209,Feyenoord,3,71,42,Eredivisie,LWDWW,same,Promotion - Europa League (Qualification),34,22,5,7,76,34,17,11,3,3,39,17,17,11,2,4,37,17,2022-05-29T00:00:00+00:00,2.09,64.71,2.24,1.0
+2021,88,Eredivisie,415,Twente,4,68,18,Eredivisie,WWLDW,same,Promotion - Europa Conference League (Qualification),34,20,8,6,55,37,17,10,5,2,28,13,17,10,3,4,27,24,2022-05-29T00:00:00+00:00,2.0,58.82,1.62,1.09
+2021,88,Eredivisie,201,AZ Alkmaar,5,61,20,Eredivisie,LDDDW,same,Promotion - Eredivisie (Conference League - Play Offs),34,18,7,9,64,44,17,11,3,3,36,20,17,7,4,6,28,24,2022-05-29T00:00:00+00:00,1.79,52.94,1.88,1.29
+2021,88,Eredivisie,200,Vitesse,6,51,-9,Eredivisie,DWLWL,same,Promotion - Eredivisie (Conference League - Play Offs),34,15,6,13,42,51,17,6,3,8,20,29,17,9,3,5,22,22,2022-05-29T00:00:00+00:00,1.5,44.12,1.24,1.5
+2021,88,Eredivisie,207,Utrecht,7,47,5,Eredivisie,LDDWL,same,Promotion - Eredivisie (Conference League - Play Offs),34,12,11,11,51,46,17,8,6,3,32,20,17,4,5,8,19,26,2022-05-29T00:00:00+00:00,1.38,35.29,1.5,1.35
+2021,88,Eredivisie,210,Heerenveen,8,41,-13,Eredivisie,WLWDL,same,Promotion - Eredivisie (Conference League - Play Offs),34,11,8,15,37,50,17,6,3,8,23,26,17,5,5,7,14,24,2022-05-29T00:00:00+00:00,1.21,32.35,1.09,1.47
+2021,88,Eredivisie,420,Cambuur,9,39,-17,Eredivisie,WDDDL,same,,34,11,6,17,53,70,17,5,3,9,29,35,17,6,3,8,24,35,2022-05-29T00:00:00+00:00,1.15,32.35,1.56,2.06
+2021,88,Eredivisie,417,Waalwijk,10,38,-11,Eredivisie,WWDWL,same,,34,9,11,14,40,51,17,6,3,8,17,25,17,3,8,6,23,26,2022-05-29T00:00:00+00:00,1.12,26.47,1.18,1.5
+2021,88,Eredivisie,413,NEC Nijmegen,11,38,-14,Eredivisie,LLWLL,same,,34,10,8,16,38,52,17,3,5,9,13,22,17,7,3,7,25,30,2022-05-29T00:00:00+00:00,1.12,29.41,1.12,1.53
+2021,88,Eredivisie,202,Groningen,12,36,-14,Eredivisie,LLLLL,same,,34,9,9,16,41,55,17,4,6,7,18,21,17,5,3,9,23,34,2022-05-29T00:00:00+00:00,1.06,26.47,1.21,1.62
+2021,88,Eredivisie,410,GO Ahead Eagles,13,36,-14,Eredivisie,LLLLL,same,,34,10,6,18,37,51,17,7,1,9,25,24,17,3,5,9,12,27,2022-05-29T00:00:00+00:00,1.06,29.41,1.09,1.5
+2021,88,Eredivisie,426,Sparta Rotterdam,14,35,-18,Eredivisie,WWWDL,same,,34,8,11,15,30,48,17,4,7,6,16,21,17,4,4,9,14,27,2022-05-29T00:00:00+00:00,1.03,23.53,0.88,1.41
+2021,88,Eredivisie,205,Fortuna Sittard,15,35,-31,Eredivisie,WLWLW,same,,34,10,5,19,36,67,17,6,2,9,20,31,17,4,3,10,16,36,2022-05-29T00:00:00+00:00,1.03,29.41,1.06,1.97
+2021,88,Eredivisie,206,Heracles,16,34,-16,Eredivisie,LLLDW,same,Eredivisie (Relegation),34,9,7,18,33,49,17,7,5,5,22,21,17,2,2,13,11,28,2022-05-29T00:00:00+00:00,1.0,26.47,0.97,1.44
+2021,88,Eredivisie,195,Willem II,17,33,-25,Eredivisie,WDWLW,same,Relegation - Eerste Divisie,34,9,6,19,32,57,17,7,3,7,18,20,17,2,3,12,14,37,2022-05-29T00:00:00+00:00,0.97,26.47,0.94,1.68
+2021,88,Eredivisie,193,PEC Zwolle,18,27,-26,Eredivisie,LLDLW,same,Relegation - Eerste Divisie,34,7,6,21,26,52,17,3,5,9,13,20,17,4,1,12,13,32,2022-05-29T00:00:00+00:00,0.79,20.59,0.76,1.53
+2022,88,Eredivisie,209,Feyenoord,1,82,51,Eredivisie,LWWWW,same,Promotion - Champions League (Group Stage: ),34,25,7,2,81,30,17,12,4,1,37,10,17,13,3,1,44,20,2023-06-14T00:00:00+00:00,2.41,73.53,2.38,0.88
+2022,88,Eredivisie,197,PSV Eindhoven,2,75,49,Eredivisie,WDWWW,same,Promotion - Champions League (Qualification: ),34,23,6,5,89,40,17,14,2,1,54,14,17,9,4,4,35,26,2023-06-14T00:00:00+00:00,2.21,67.65,2.62,1.18
+2022,88,Eredivisie,194,Ajax,3,69,48,Eredivisie,LWWDL,same,Promotion - Europa League (Qualification: ),34,20,9,5,86,38,17,10,5,2,47,14,17,10,4,3,39,24,2023-06-14T00:00:00+00:00,2.03,58.82,2.53,1.12
+2022,88,Eredivisie,201,AZ Alkmaar,4,67,33,Eredivisie,LWWDW,same,Promotion - Europa Conference League (Qualification: ),34,20,7,7,68,35,17,9,5,3,36,20,17,11,2,4,32,15,2023-06-14T00:00:00+00:00,1.97,58.82,2.0,1.03
+2022,88,Eredivisie,415,Twente,5,64,39,Eredivisie,WWWWD,same,Promotion - Eredivisie (Conference League - Play Offs: ),34,18,10,6,66,27,17,13,4,0,46,11,17,5,6,6,20,16,2023-06-14T00:00:00+00:00,1.88,52.94,1.94,0.79
+2022,88,Eredivisie,426,Sparta Rotterdam,6,59,23,Eredivisie,WWLLD,same,Promotion - Eredivisie (Conference League - Play Offs: ),34,17,8,9,60,37,17,10,2,5,32,18,17,7,6,4,28,19,2023-06-14T00:00:00+00:00,1.74,50.0,1.76,1.09
+2022,88,Eredivisie,207,Utrecht,7,54,5,Eredivisie,WLWWL,same,Promotion - Eredivisie (Conference League - Play Offs: ),34,15,9,10,55,50,17,8,5,4,20,15,17,7,4,6,35,35,2023-06-14T00:00:00+00:00,1.59,44.12,1.62,1.47
+2022,88,Eredivisie,210,Heerenveen,8,46,-6,Eredivisie,WDDWL,same,Promotion - Eredivisie (Conference League - Play Offs: ),34,12,10,12,44,50,17,6,3,8,21,26,17,6,7,4,23,24,2023-06-14T00:00:00+00:00,1.35,35.29,1.29,1.47
+2022,88,Eredivisie,417,Waalwijk,9,41,-14,Eredivisie,LLLWL,same,,34,11,8,15,50,64,17,9,3,5,34,26,17,2,5,10,16,38,2023-06-14T00:00:00+00:00,1.21,32.35,1.47,1.88
+2022,88,Eredivisie,200,Vitesse,10,40,-5,Eredivisie,WWWLD,same,,34,10,10,14,45,50,17,5,6,6,24,25,17,5,4,8,21,25,2023-06-14T00:00:00+00:00,1.18,29.41,1.32,1.47
+2022,88,Eredivisie,410,GO Ahead Eagles,11,40,-10,Eredivisie,LWLDW,same,,34,10,10,14,46,56,17,7,6,4,28,23,17,3,4,10,18,33,2023-06-14T00:00:00+00:00,1.18,29.41,1.35,1.65
+2022,88,Eredivisie,413,NEC Nijmegen,12,39,-3,Eredivisie,DLLLW,same,,34,8,15,11,42,45,17,3,9,5,28,28,17,5,6,6,14,17,2023-06-14T00:00:00+00:00,1.15,23.53,1.24,1.32
+2022,88,Eredivisie,205,Fortuna Sittard,13,36,-23,Eredivisie,DLLWL,same,,34,10,6,18,39,62,17,5,4,8,21,28,17,5,2,10,18,34,2023-06-14T00:00:00+00:00,1.06,29.41,1.15,1.82
+2022,88,Eredivisie,416,FC Volendam,14,36,-29,Eredivisie,WLWLW,same,,34,10,6,18,42,71,17,9,1,7,29,32,17,1,5,11,13,39,2023-06-14T00:00:00+00:00,1.06,29.41,1.24,2.09
+2022,88,Eredivisie,196,Excelsior,15,32,-39,Eredivisie,LWDLD,same,,34,9,5,20,32,71,17,8,2,7,22,26,17,1,3,13,10,45,2023-06-14T00:00:00+00:00,0.94,26.47,0.94,2.09
+2022,88,Eredivisie,208,Emmen,16,28,-32,Eredivisie,LLLLW,same,Eredivisie (Relegation),34,6,10,18,33,65,17,3,9,5,16,23,17,3,1,13,17,42,2023-06-14T00:00:00+00:00,0.82,17.65,0.97,1.91
+2022,88,Eredivisie,420,Cambuur,17,19,-43,Eredivisie,WLLLL,same,Relegation - Eerste Divisie,34,5,4,25,26,69,17,3,0,14,14,33,17,2,4,11,12,36,2023-06-14T00:00:00+00:00,0.56,14.71,0.76,2.03
+2022,88,Eredivisie,202,Groningen,18,18,-44,Eredivisie,LLLDL,same,Relegation - Eerste Divisie,34,4,6,24,31,75,17,3,3,11,20,34,17,1,3,13,11,41,2023-06-14T00:00:00+00:00,0.53,11.76,0.91,2.21
+2023,88,Eredivisie,197,PSV Eindhoven,1,91,90,Eredivisie,WDWWW,same,Promotion - Champions League (League phase: ),34,29,4,1,111,21,17,16,1,0,54,11,17,13,3,1,57,10,2024-06-05T00:00:00+00:00,2.68,85.29,3.26,0.62
+2023,88,Eredivisie,209,Feyenoord,2,84,66,Eredivisie,WWWWW,same,Promotion - Champions League (League phase: ),34,26,6,2,92,26,17,13,3,1,51,10,17,13,3,1,41,16,2024-06-05T00:00:00+00:00,2.47,76.47,2.71,0.76
+2023,88,Eredivisie,415,Twente,3,69,33,Eredivisie,WWLWL,same,Promotion - Champions League (Qualification: ),34,21,6,7,69,36,17,14,1,2,40,17,17,7,5,5,29,19,2024-06-05T00:00:00+00:00,2.03,61.76,2.03,1.06
+2023,88,Eredivisie,201,AZ Alkmaar,4,65,31,Eredivisie,DWWWW,same,Promotion - Europa League (League phase: ),34,19,8,7,70,39,17,11,3,3,41,18,17,8,5,4,29,21,2024-06-05T00:00:00+00:00,1.91,55.88,2.06,1.15
+2023,88,Eredivisie,194,Ajax,5,56,13,Eredivisie,DWWDW,same,Promotion - Europa League (Qualification: ),34,15,11,8,74,61,17,9,6,2,39,21,17,6,5,6,35,40,2024-06-05T00:00:00+00:00,1.65,44.12,2.18,1.79
+2023,88,Eredivisie,413,NEC Nijmegen,6,53,17,Eredivisie,WLWLD,same,Promotion - Eredivisie (Conference League - Play Offs: ),34,14,11,9,68,51,17,8,4,5,35,25,17,6,7,4,33,26,2024-06-05T00:00:00+00:00,1.56,41.18,2.0,1.5
+2023,88,Eredivisie,207,Utrecht,7,50,2,Eredivisie,DLWDW,same,Promotion - Eredivisie (Conference League - Play Offs: ),34,13,11,10,49,47,17,8,5,4,29,23,17,5,6,6,20,24,2024-06-05T00:00:00+00:00,1.47,38.24,1.44,1.38
+2023,88,Eredivisie,426,Sparta Rotterdam,8,49,3,Eredivisie,WWLWW,same,Promotion - Eredivisie (Conference League - Play Offs: ),34,14,7,13,51,48,17,6,5,6,25,25,17,8,2,7,26,23,2024-06-05T00:00:00+00:00,1.44,41.18,1.5,1.41
+2023,88,Eredivisie,410,GO Ahead Eagles,9,46,1,Eredivisie,WLDLL,same,Promotion - Eredivisie (Conference League - Play Offs: ),34,12,10,12,47,46,17,7,4,6,31,23,17,5,6,6,16,23,2024-06-05T00:00:00+00:00,1.35,35.29,1.38,1.35
+2023,88,Eredivisie,205,Fortuna Sittard,10,38,-19,Eredivisie,DDDLL,same,,34,9,11,14,37,56,17,7,6,4,27,20,17,2,5,10,10,36,2024-06-05T00:00:00+00:00,1.12,26.47,1.09,1.65
+2023,88,Eredivisie,210,Heerenveen,11,37,-17,Eredivisie,LLDLW,same,,34,10,7,17,53,70,17,6,3,8,30,36,17,4,4,9,23,34,2024-06-05T00:00:00+00:00,1.09,29.41,1.56,2.06
+2023,88,Eredivisie,193,PEC Zwolle,12,36,-22,Eredivisie,LDLWD,same,,34,9,9,16,45,67,17,5,3,9,19,31,17,4,6,7,26,36,2024-06-05T00:00:00+00:00,1.06,26.47,1.32,1.97
+2023,88,Eredivisie,419,Almere City FC,13,34,-26,Eredivisie,LLDLL,same,,34,7,13,14,33,59,17,3,7,7,18,30,17,4,6,7,15,29,2024-06-05T00:00:00+00:00,1.0,20.59,0.97,1.74
+2023,88,Eredivisie,206,Heracles,14,33,-33,Eredivisie,DLLLL,same,,34,9,6,19,41,74,17,6,4,7,25,35,17,3,2,12,16,39,2024-06-05T00:00:00+00:00,0.97,26.47,1.21,2.18
+2023,88,Eredivisie,417,Waalwijk,15,29,-18,Eredivisie,LDWDL,same,,34,7,8,19,38,56,17,4,6,7,20,25,17,3,2,12,18,31,2024-06-05T00:00:00+00:00,0.85,20.59,1.12,1.65
+2023,88,Eredivisie,196,Excelsior,16,29,-23,Eredivisie,LWLDW,same,Eredivisie (Relegation - Play Offs: ),34,6,11,17,50,73,17,4,7,6,26,27,17,2,4,11,24,46,2024-06-05T00:00:00+00:00,0.85,17.65,1.47,2.15
+2023,88,Eredivisie,416,FC Volendam,17,19,-54,Eredivisie,LLLLL,same,Relegation - Eerste Divisie,34,4,7,23,34,88,17,3,2,12,16,44,17,1,5,11,18,44,2024-06-05T00:00:00+00:00,0.56,11.76,1.0,2.59
+2023,88,Eredivisie,200,Vitesse,18,6,-44,Eredivisie,DWLWL,same,Relegation - Eerste Divisie,34,6,6,22,30,74,17,2,6,9,15,30,17,4,0,13,15,44,2024-06-05T00:00:00+00:00,0.18,17.65,0.88,2.18
+2018,94,Primeira Liga,211,Benfica,1,87,72,Primeira Liga,WWWWW,,Promotion - Champions League (Group Stage),34,28,3,3,103,31,17,14,2,1,63,17,17,14,1,2,40,14,2019-05-19T00:00:00+00:00,2.56,82.35,3.03,0.91
+2018,94,Primeira Liga,212,FC Porto,2,85,54,Primeira Liga,WWWDW,,Promotion - Champions League (Qualification),34,27,4,3,74,20,17,15,0,2,41,9,17,12,4,1,33,11,2019-05-19T00:00:00+00:00,2.5,79.41,2.18,0.59
+2018,94,Primeira Liga,228,Sporting CP,3,74,39,Primeira Liga,LDWWW,,Promotion - Europa League (Group Stage),34,23,5,6,72,33,17,14,2,1,38,13,17,9,3,5,34,20,2019-05-19T00:00:00+00:00,2.18,67.65,2.12,0.97
+2018,94,Primeira Liga,217,SC Braga,4,67,19,Primeira Liga,WLLLW,,Promotion - Europa League (Qualification),34,21,4,9,56,37,17,13,1,3,32,15,17,8,3,6,24,22,2019-05-19T00:00:00+00:00,1.97,61.76,1.65,1.09
+2018,94,Primeira Liga,224,Guimaraes,5,52,12,Primeira Liga,WWDLL,,Promotion - Europa League (Qualification),34,15,7,12,46,34,17,10,4,3,27,12,17,5,3,9,19,22,2019-05-19T00:00:00+00:00,1.53,44.12,1.35,1.0
+2018,94,Primeira Liga,215,Moreirense,6,52,-5,Primeira Liga,LWLLL,,,34,16,4,14,39,44,17,8,3,6,18,19,17,8,1,8,21,25,2019-05-19T00:00:00+00:00,1.53,47.06,1.15,1.29
+2018,94,Primeira Liga,226,Rio Ave,7,45,-2,Primeira Liga,WLWDW,,,34,12,9,13,50,52,17,5,6,6,26,28,17,7,3,7,24,24,2019-05-19T00:00:00+00:00,1.32,35.29,1.47,1.53
+2018,94,Primeira Liga,222,Boavista,8,44,-6,Primeira Liga,WWWWL,,,34,13,5,16,34,40,17,10,1,6,20,13,17,3,4,10,14,27,2019-05-19T00:00:00+00:00,1.29,38.24,1.0,1.18
+2018,94,Primeira Liga,221,Belenenses,9,43,-9,Primeira Liga,WLLLL,,,34,10,13,11,42,51,17,6,5,6,25,26,17,4,8,5,17,25,2019-05-19T00:00:00+00:00,1.26,29.41,1.24,1.5
+2018,94,Primeira Liga,227,Santa Clara,10,42,-2,Primeira Liga,LDWDL,,,34,11,9,14,43,45,17,5,5,7,24,26,17,6,4,7,19,19,2019-05-19T00:00:00+00:00,1.24,32.35,1.26,1.32
+2018,94,Primeira Liga,216,Portimonense,11,39,-15,Primeira Liga,LWLWD,,,34,11,6,17,44,59,17,8,4,5,29,24,17,3,2,12,15,35,2019-05-19T00:00:00+00:00,1.15,32.35,1.29,1.74
+2018,94,Primeira Liga,214,Maritimo,12,39,-18,Primeira Liga,LLWWL,,,34,12,3,19,26,44,17,8,2,7,17,17,17,4,1,12,9,27,2019-05-19T00:00:00+00:00,1.15,35.29,0.76,1.29
+2018,94,Primeira Liga,219,Vitoria Setubal,13,36,-11,Primeira Liga,LWLDD,,,34,8,12,14,28,39,17,4,6,7,13,18,17,4,6,7,15,21,2019-05-19T00:00:00+00:00,1.06,23.53,0.82,1.15
+2018,94,Primeira Liga,220,Aves,14,36,-14,Primeira Liga,LLLWW,,,34,10,6,18,35,49,17,5,3,9,20,23,17,5,3,9,15,26,2019-05-19T00:00:00+00:00,1.06,29.41,1.03,1.44
+2018,94,Primeira Liga,218,Tondela,15,35,-14,Primeira Liga,WDLLW,,,34,9,8,17,40,54,17,7,3,7,22,24,17,2,5,10,18,30,2019-05-19T00:00:00+00:00,1.03,26.47,1.18,1.59
+2018,94,Primeira Liga,223,Chaves,16,32,-23,Primeira Liga,LLDWW,,Relegation - Segunda Liga,34,8,8,18,34,57,17,4,6,7,20,23,17,4,2,11,14,34,2019-05-19T00:00:00+00:00,0.94,23.53,1.0,1.68
+2018,94,Primeira Liga,225,Nacional,17,28,-40,Primeira Liga,LLDLL,,Relegation - Segunda Liga,34,7,7,20,33,73,17,5,3,9,12,22,17,2,4,11,21,51,2019-05-19T00:00:00+00:00,0.82,20.59,0.97,2.15
+2018,94,Primeira Liga,213,Feirense,18,20,-37,Primeira Liga,WDDLL,,Relegation - Segunda Liga,34,3,11,20,27,64,17,2,6,9,19,31,17,1,5,11,8,33,2019-05-19T00:00:00+00:00,0.59,8.82,0.79,1.88
+2019,94,Primeira Liga,212,FC Porto,1,82,52,Primeira Liga,LWWWW,same,Promotion - Champions League (Group Stage),34,26,4,4,74,22,17,15,1,1,44,7,17,11,3,3,30,15,2020-07-26T00:00:00+00:00,2.41,76.47,2.18,0.65
+2019,94,Primeira Liga,211,Benfica,2,77,45,Primeira Liga,WWWDW,same,Promotion - Champions League (Qualification),34,24,5,5,71,26,17,12,2,3,38,13,17,12,3,2,33,13,2020-07-26T00:00:00+00:00,2.26,70.59,2.09,0.76
+2019,94,Primeira Liga,217,SC Braga,3,60,21,Primeira Liga,WLDWW,same,Promotion - Europa League (Group Stage),34,18,6,10,61,40,17,10,4,3,32,20,17,8,2,7,29,20,2020-07-26T00:00:00+00:00,1.76,52.94,1.79,1.18
+2019,94,Primeira Liga,228,Sporting CP,4,60,15,Primeira Liga,LDLWD,same,Promotion - Europa League (Qualification),34,18,6,10,49,34,17,12,1,4,25,13,17,6,5,6,24,21,2020-07-26T00:00:00+00:00,1.76,52.94,1.44,1.0
+2019,94,Primeira Liga,226,Rio Ave,5,55,12,Primeira Liga,WDDWL,same,Promotion - Europa League (Qualification),34,15,10,9,48,36,17,6,6,5,27,23,17,9,4,4,21,13,2020-07-26T00:00:00+00:00,1.62,44.12,1.41,1.06
+2019,94,Primeira Liga,242,Famalicao,6,54,2,Primeira Liga,DDWDW,same,,34,14,12,8,53,51,17,7,6,4,28,26,17,7,6,4,25,25,2020-07-26T00:00:00+00:00,1.59,41.18,1.56,1.5
+2019,94,Primeira Liga,224,Guimaraes,7,50,15,Primeira Liga,DWLLW,same,,34,13,11,10,53,38,17,8,4,5,27,15,17,5,7,5,26,23,2020-07-26T00:00:00+00:00,1.47,38.24,1.56,1.12
+2019,94,Primeira Liga,215,Moreirense,8,43,-2,Primeira Liga,LLDWD,same,,34,10,13,11,42,44,17,6,6,5,23,20,17,4,7,6,19,24,2020-07-26T00:00:00+00:00,1.26,29.41,1.24,1.29
+2019,94,Primeira Liga,227,Santa Clara,9,43,-5,Primeira Liga,DDWLL,same,,34,11,10,13,36,41,17,6,4,7,18,21,17,5,6,6,18,20,2020-07-26T00:00:00+00:00,1.26,32.35,1.06,1.21
+2019,94,Primeira Liga,762,GIL Vicente,10,43,-4,Primeira Liga,DLWWW,same,,34,11,10,13,40,44,17,7,7,3,26,21,17,4,3,10,14,23,2020-07-26T00:00:00+00:00,1.26,32.35,1.18,1.29
+2019,94,Primeira Liga,214,Maritimo,11,39,-8,Primeira Liga,DLDWW,same,,34,9,12,13,34,42,17,5,8,4,24,21,17,4,4,9,10,21,2020-07-26T00:00:00+00:00,1.15,26.47,1.0,1.24
+2019,94,Primeira Liga,222,Boavista,12,39,-11,Primeira Liga,LDLLL,same,,34,10,9,15,28,39,17,5,4,8,15,18,17,5,5,7,13,21,2020-07-26T00:00:00+00:00,1.15,29.41,0.82,1.15
+2019,94,Primeira Liga,234,Pacos Ferreira,13,39,-16,Primeira Liga,DWDLW,same,,34,11,6,17,36,52,17,6,2,9,15,22,17,5,4,8,21,30,2020-07-26T00:00:00+00:00,1.15,32.35,1.06,1.53
+2019,94,Primeira Liga,218,Tondela,14,36,-14,Primeira Liga,WWLLL,same,,34,9,9,16,30,44,17,3,5,9,12,22,17,6,4,7,18,22,2020-07-26T00:00:00+00:00,1.06,26.47,0.88,1.29
+2019,94,Primeira Liga,221,Belenenses,15,35,-27,Primeira Liga,LWDLL,same,,34,9,8,17,27,54,17,5,4,8,13,25,17,4,4,9,14,29,2020-07-26T00:00:00+00:00,1.03,26.47,0.79,1.59
+2019,94,Primeira Liga,219,Vitoria Setubal,16,34,-16,Primeira Liga,WDLLL,same,,34,7,13,14,27,43,17,4,7,6,15,20,17,3,6,8,12,23,2020-07-26T00:00:00+00:00,1.0,20.59,0.79,1.26
+2019,94,Primeira Liga,216,Portimonense,17,33,-15,Primeira Liga,WLWLL,same,Relegation - LigaPro,34,7,12,15,30,45,17,5,7,5,18,18,17,2,5,10,12,27,2020-07-26T00:00:00+00:00,0.97,20.59,0.88,1.32
+2019,94,Primeira Liga,220,Aves,18,17,-44,Primeira Liga,LLLWL,same,Relegation - LigaPro,34,5,2,27,24,68,17,4,1,12,12,26,17,1,1,15,12,42,2020-07-26T00:00:00+00:00,0.5,14.71,0.71,2.0
+2020,94,Primeira Liga,228,Sporting CP,1,85,45,Primeira Liga,WLWWW,same,Promotion - Champions League (Group Stage),34,26,7,1,65,20,17,13,4,0,34,10,17,13,3,1,31,10,2021-05-26T00:00:00+00:00,2.5,76.47,1.91,0.59
+2020,94,Primeira Liga,212,FC Porto,2,80,45,Primeira Liga,WWWDW,same,Promotion - Champions League (Group Stage),34,24,8,2,74,29,17,13,3,1,40,15,17,11,5,1,34,14,2021-05-26T00:00:00+00:00,2.35,70.59,2.18,0.85
+2020,94,Primeira Liga,211,Benfica,3,76,42,Primeira Liga,WWWDW,same,Promotion - Champions League (Qualification),34,23,7,4,69,27,17,12,3,2,31,15,17,11,4,2,38,12,2021-05-26T00:00:00+00:00,2.24,67.65,2.03,0.79
+2020,94,Primeira Liga,217,SC Braga,4,64,20,Primeira Liga,DWDDL,same,Promotion - Europa League (Group Stage),34,19,7,8,53,33,17,11,3,3,27,15,17,8,4,5,26,18,2021-05-26T00:00:00+00:00,1.88,55.88,1.56,0.97
+2020,94,Primeira Liga,234,Pacos Ferreira,5,53,-1,Primeira Liga,WLDDW,same,Promotion - Europa Conference League (Qualification),34,15,8,11,40,41,17,10,3,4,23,19,17,5,5,7,17,22,2021-05-26T00:00:00+00:00,1.56,44.12,1.18,1.21
+2020,94,Primeira Liga,227,Santa Clara,6,46,8,Primeira Liga,WWWLD,same,Promotion - Europa Conference League (Qualification),34,13,7,14,44,36,17,7,5,5,26,16,17,6,2,9,18,20,2021-05-26T00:00:00+00:00,1.35,38.24,1.29,1.06
+2020,94,Primeira Liga,224,Guimaraes,7,43,-7,Primeira Liga,LDLDW,same,,34,12,7,15,37,44,17,7,1,9,21,27,17,5,6,6,16,17,2021-05-26T00:00:00+00:00,1.26,35.29,1.09,1.29
+2020,94,Primeira Liga,215,Moreirense,8,43,-6,Primeira Liga,WLWDL,same,,34,10,13,11,37,43,17,4,10,3,24,23,17,6,3,8,13,20,2021-05-26T00:00:00+00:00,1.26,29.41,1.09,1.26
+2020,94,Primeira Liga,242,Famalicao,9,40,-8,Primeira Liga,LWWWL,same,,34,10,10,14,40,48,17,4,7,6,19,24,17,6,3,8,21,24,2021-05-26T00:00:00+00:00,1.18,29.41,1.18,1.41
+2020,94,Primeira Liga,221,Belenenses,10,40,-10,Primeira Liga,LLWWL,same,,34,9,13,12,25,35,17,6,5,6,15,18,17,3,8,6,10,17,2021-05-26T00:00:00+00:00,1.18,26.47,0.74,1.03
+2020,94,Primeira Liga,762,GIL Vicente,11,39,-9,Primeira Liga,LWDWD,same,,34,11,6,17,33,42,17,4,4,9,13,20,17,7,2,8,20,22,2021-05-26T00:00:00+00:00,1.15,32.35,0.97,1.24
+2020,94,Primeira Liga,218,Tondela,12,36,-21,Primeira Liga,LLLDL,same,,34,10,6,18,36,57,17,8,2,7,18,21,17,2,4,11,18,36,2021-05-26T00:00:00+00:00,1.06,29.41,1.06,1.68
+2020,94,Primeira Liga,222,Boavista,13,36,-10,Primeira Liga,WWLDD,same,,34,8,12,14,39,49,17,5,4,8,17,22,17,3,8,6,22,27,2021-05-26T00:00:00+00:00,1.06,23.53,1.15,1.44
+2020,94,Primeira Liga,216,Portimonense,14,35,-7,Primeira Liga,DLLLD,same,,34,9,8,17,34,41,17,6,5,6,20,17,17,3,3,11,14,24,2021-05-26T00:00:00+00:00,1.03,26.47,1.0,1.21
+2020,94,Primeira Liga,214,Maritimo,15,35,-20,Primeira Liga,LDDLW,same,,34,10,5,19,27,47,17,5,3,9,10,21,17,5,2,10,17,26,2021-05-26T00:00:00+00:00,1.03,29.41,0.79,1.38
+2020,94,Primeira Liga,226,Rio Ave,16,34,-15,Primeira Liga,WLLLD,same,Primeira Liga (Relegation),34,7,13,14,25,40,17,4,6,7,12,18,17,3,7,7,13,22,2021-05-26T00:00:00+00:00,1.0,20.59,0.74,1.18
+2020,94,Primeira Liga,231,Farense,17,31,-17,Primeira Liga,LWLDD,same,Relegation - Liga Portugal 2,34,7,10,17,31,48,17,4,6,7,19,20,17,3,4,10,12,28,2021-05-26T00:00:00+00:00,0.91,20.59,0.91,1.41
+2020,94,Primeira Liga,225,Nacional,18,25,-29,Primeira Liga,LLLDL,same,Relegation - Liga Portugal 2,34,6,7,21,30,59,17,4,3,10,19,30,17,2,4,11,11,29,2021-05-26T00:00:00+00:00,0.74,17.65,0.88,1.74
+2021,94,Primeira Liga,212,FC Porto,1,91,64,Primeira Liga,WWWLW,same,Promotion - Champions League (Group Stage),34,29,4,1,86,22,17,15,2,0,50,11,17,14,2,1,36,11,2022-05-29T00:00:00+00:00,2.68,85.29,2.53,0.65
+2021,94,Primeira Liga,228,Sporting CP,2,85,50,Primeira Liga,WWWWL,same,Promotion - Champions League (Group Stage),34,27,4,3,73,23,17,14,1,2,34,8,17,13,3,1,39,15,2022-05-29T00:00:00+00:00,2.5,79.41,2.15,0.68
+2021,94,Primeira Liga,211,Benfica,3,74,48,Primeira Liga,WLWDW,same,Promotion - Champions League (Qualification),34,23,5,6,78,30,17,10,3,4,36,16,17,13,2,2,42,14,2022-05-29T00:00:00+00:00,2.18,67.65,2.29,0.88
+2021,94,Primeira Liga,217,SC Braga,4,65,21,Primeira Liga,LWWWD,same,Promotion - Europa League (Group Stage),34,19,8,7,52,31,17,10,4,3,27,13,17,9,4,4,25,18,2022-05-29T00:00:00+00:00,1.91,55.88,1.53,0.91
+2021,94,Primeira Liga,762,GIL Vicente,5,51,5,Primeira Liga,LWLDD,same,Promotion - Europa Conference League (Qualification),34,13,12,9,47,42,17,6,6,5,25,19,17,7,6,4,22,23,2022-05-29T00:00:00+00:00,1.5,38.24,1.38,1.24
+2021,94,Primeira Liga,224,Guimaraes,6,48,9,Primeira Liga,WDDDW,same,Promotion - Europa Conference League (Qualification),34,13,9,12,50,41,17,9,3,5,34,20,17,4,6,7,16,21,2022-05-29T00:00:00+00:00,1.41,38.24,1.47,1.21
+2021,94,Primeira Liga,227,Santa Clara,7,40,-16,Primeira Liga,LWDDD,same,,34,9,13,12,38,54,17,8,6,3,24,23,17,1,7,9,14,31,2022-05-29T00:00:00+00:00,1.18,26.47,1.12,1.59
+2021,94,Primeira Liga,242,Famalicao,8,39,-6,Primeira Liga,WWWDD,same,,34,9,12,13,45,51,17,5,7,5,22,21,17,4,5,8,23,30,2022-05-29T00:00:00+00:00,1.15,26.47,1.32,1.5
+2021,94,Primeira Liga,230,Estoril,9,39,-7,Primeira Liga,LWLDD,same,,34,9,12,13,36,43,17,4,8,5,21,21,17,5,4,8,15,22,2022-05-29T00:00:00+00:00,1.15,26.47,1.06,1.26
+2021,94,Primeira Liga,214,Maritimo,10,38,-5,Primeira Liga,LDLDW,same,,34,9,11,14,39,44,17,4,6,7,19,17,17,5,5,7,20,27,2022-05-29T00:00:00+00:00,1.12,26.47,1.15,1.29
+2021,94,Primeira Liga,234,Pacos Ferreira,11,38,-15,Primeira Liga,LLDDL,same,,34,9,11,14,29,44,17,5,6,6,19,22,17,4,5,8,10,22,2022-05-29T00:00:00+00:00,1.12,26.47,0.85,1.29
+2021,94,Primeira Liga,222,Boavista,12,38,-13,Primeira Liga,DDWLL,same,,34,7,17,10,39,52,17,4,10,3,20,20,17,3,7,7,19,32,2022-05-29T00:00:00+00:00,1.12,20.59,1.15,1.53
+2021,94,Primeira Liga,216,Portimonense,13,38,-14,Primeira Liga,WLLWL,same,,34,10,8,16,31,45,17,4,4,9,15,22,17,6,4,7,16,23,2022-05-29T00:00:00+00:00,1.12,29.41,0.91,1.32
+2021,94,Primeira Liga,810,Vizela,14,33,-21,Primeira Liga,LDLWL,same,,34,7,12,15,37,58,17,4,7,6,16,21,17,3,5,9,21,37,2022-05-29T00:00:00+00:00,0.97,20.59,1.09,1.71
+2021,94,Primeira Liga,240,Arouca,15,31,-24,Primeira Liga,DLWLD,same,,34,7,10,17,30,54,17,5,4,8,15,29,17,2,6,9,15,25,2022-05-29T00:00:00+00:00,0.91,20.59,0.88,1.59
+2021,94,Primeira Liga,215,Moreirense,16,29,-18,Primeira Liga,WLLLW,same,Liga Portugal (Relegation),34,7,8,19,33,51,17,5,3,9,22,23,17,2,5,10,11,28,2022-05-29T00:00:00+00:00,0.85,20.59,0.97,1.5
+2021,94,Primeira Liga,218,Tondela,17,28,-26,Primeira Liga,DLDDL,same,Relegation - Liga Portugal 2,34,7,7,20,41,67,17,4,4,9,24,33,17,3,3,11,17,34,2022-05-29T00:00:00+00:00,0.82,20.59,1.21,1.97
+2021,94,Primeira Liga,221,Belenenses,18,26,-32,Primeira Liga,DLLDW,same,Relegation - Liga Portugal 2,34,5,11,18,23,55,17,5,3,9,15,30,17,0,8,9,8,25,2022-05-29T00:00:00+00:00,0.76,14.71,0.68,1.62
+2022,94,Primeira Liga,211,Benfica,1,87,62,Primeira Liga,WDWWW,same,Promotion - Champions League (Group Stage: ),34,28,3,3,82,20,17,15,1,1,48,12,17,13,2,2,34,8,2023-06-14T00:00:00+00:00,2.56,82.35,2.41,0.59
+2022,94,Primeira Liga,212,FC Porto,2,85,51,Primeira Liga,WWWWW,same,Promotion - Champions League (Group Stage: ),34,27,4,3,73,22,17,15,0,2,44,11,17,12,4,1,29,11,2023-06-14T00:00:00+00:00,2.5,79.41,2.15,0.65
+2022,94,Primeira Liga,217,SC Braga,3,78,45,Primeira Liga,WDWLW,same,Promotion - Champions League (Qualification: ),34,25,3,6,75,30,17,13,2,2,40,11,17,12,1,4,35,19,2023-06-14T00:00:00+00:00,2.29,73.53,2.21,0.88
+2022,94,Primeira Liga,228,Sporting CP,4,74,39,Primeira Liga,WDWWW,same,Promotion - Europa League (Group Stage: ),34,23,5,6,71,32,17,13,2,2,42,12,17,10,3,4,29,20,2023-06-14T00:00:00+00:00,2.18,67.65,2.09,0.94
+2022,94,Primeira Liga,240,Arouca,5,54,-1,Primeira Liga,WWLLL,same,Promotion - Europa Conference League (Qualification: ),34,15,9,10,36,37,17,10,2,5,22,17,17,5,7,5,14,20,2023-06-14T00:00:00+00:00,1.59,44.12,1.06,1.09
+2022,94,Primeira Liga,224,Guimaraes,6,53,-5,Primeira Liga,LWWWW,same,Promotion - Europa Conference League (Qualification: ),34,16,5,13,34,39,17,10,3,4,18,12,17,6,2,9,16,27,2023-06-14T00:00:00+00:00,1.56,47.06,1.0,1.15
+2022,94,Primeira Liga,223,Chaves,7,46,-5,Primeira Liga,LLWWW,same,,34,12,10,12,35,40,17,6,5,6,20,21,17,6,5,6,15,19,2023-06-14T00:00:00+00:00,1.35,35.29,1.03,1.18
+2022,94,Primeira Liga,242,Famalicao,8,44,-8,Primeira Liga,DLDLL,same,,34,13,5,16,39,47,17,9,1,7,21,19,17,4,4,9,18,28,2023-06-14T00:00:00+00:00,1.29,38.24,1.15,1.38
+2022,94,Primeira Liga,222,Boavista,9,44,-11,Primeira Liga,WDLWL,same,,34,12,8,14,43,54,17,8,6,3,23,21,17,4,2,11,20,33,2023-06-14T00:00:00+00:00,1.29,35.29,1.26,1.59
+2022,94,Primeira Liga,4716,Casa Pia,10,41,-9,Primeira Liga,LDLDL,same,,34,11,8,15,31,40,17,6,5,6,18,17,17,5,3,9,13,23,2023-06-14T00:00:00+00:00,1.21,32.35,0.91,1.18
+2022,94,Primeira Liga,810,Vizela,11,40,-4,Primeira Liga,LLDLL,same,,34,11,7,16,34,38,17,5,4,8,18,19,17,6,3,8,16,19,2023-06-14T00:00:00+00:00,1.18,32.35,1.0,1.12
+2022,94,Primeira Liga,226,Rio Ave,12,40,-7,Primeira Liga,DLLDW,same,,34,10,10,14,36,43,17,8,3,6,18,14,17,2,7,8,18,29,2023-06-14T00:00:00+00:00,1.18,29.41,1.06,1.26
+2022,94,Primeira Liga,762,GIL Vicente,13,37,-9,Primeira Liga,WLWLL,same,,34,10,7,17,32,41,17,6,6,5,15,14,17,4,1,12,17,27,2023-06-14T00:00:00+00:00,1.09,29.41,0.94,1.21
+2022,94,Primeira Liga,230,Estoril,14,35,-16,Primeira Liga,WDWLW,same,,34,10,5,19,33,49,17,7,2,8,20,24,17,3,3,11,13,25,2023-06-14T00:00:00+00:00,1.03,29.41,0.97,1.44
+2022,94,Primeira Liga,216,Portimonense,15,34,-23,Primeira Liga,LLLDL,same,,34,10,4,20,25,48,17,6,3,8,14,21,17,4,1,12,11,27,2023-06-14T00:00:00+00:00,1.0,29.41,0.74,1.41
+2022,94,Primeira Liga,214,Maritimo,16,26,-31,Primeira Liga,LWLDL,same,Liga Portugal (Relegation),34,7,5,22,32,63,17,6,3,8,21,23,17,1,2,14,11,40,2023-06-14T00:00:00+00:00,0.76,20.59,0.94,1.85
+2022,94,Primeira Liga,234,Pacos Ferreira,17,23,-36,Primeira Liga,LWLLW,same,Relegation - Liga Portugal 2,34,6,5,23,26,62,17,3,2,12,13,33,17,3,3,11,13,29,2023-06-14T00:00:00+00:00,0.68,17.65,0.76,1.82
+2022,94,Primeira Liga,227,Santa Clara,18,22,-32,Primeira Liga,LWLWL,same,Relegation - Liga Portugal 2,34,5,7,22,26,58,17,4,5,8,18,29,17,1,2,14,8,29,2023-06-14T00:00:00+00:00,0.65,14.71,0.76,1.71
+2023,94,Primeira Liga,228,Sporting CP,1,90,67,Primeira Liga,WWWDW,same,Promotion - Champions League (League phase: ),34,29,3,2,96,29,17,17,0,0,57,11,17,12,3,2,39,18,2024-06-05T00:00:00+00:00,2.65,85.29,2.82,0.85
+2023,94,Primeira Liga,211,Benfica,2,80,49,Primeira Liga,DWLWW,same,Promotion - Champions League (League phase: ),34,25,5,4,77,28,17,15,2,0,48,7,17,10,3,4,29,21,2024-06-05T00:00:00+00:00,2.35,73.53,2.26,0.82
+2023,94,Primeira Liga,212,FC Porto,3,72,36,Primeira Liga,WWWDW,same,Promotion - Europa League (League phase: ),34,22,6,6,63,27,17,11,4,2,35,13,17,11,2,4,28,14,2024-06-05T00:00:00+00:00,2.12,64.71,1.85,0.79
+2023,94,Primeira Liga,217,SC Braga,4,68,21,Primeira Liga,LWWLW,same,Promotion - Europa League (Qualification: ),34,21,5,8,71,50,17,10,3,4,33,20,17,11,2,4,38,30,2024-06-05T00:00:00+00:00,2.0,61.76,2.09,1.47
+2023,94,Primeira Liga,224,Guimaraes,5,63,14,Primeira Liga,WLLWL,same,Promotion - Conference League (Qualification: ),34,19,6,9,52,38,17,11,2,4,31,18,17,8,4,5,21,20,2024-06-05T00:00:00+00:00,1.85,55.88,1.53,1.12
+2023,94,Primeira Liga,215,Moreirense,6,55,1,Primeira Liga,WWWWL,same,,34,16,7,11,36,35,17,8,4,5,20,18,17,8,3,6,16,17,2024-06-05T00:00:00+00:00,1.62,47.06,1.06,1.03
+2023,94,Primeira Liga,240,Arouca,7,46,4,Primeira Liga,LLDDD,same,,34,13,7,14,54,50,17,7,3,7,26,26,17,6,4,7,28,24,2024-06-05T00:00:00+00:00,1.35,38.24,1.59,1.47
+2023,94,Primeira Liga,242,Famalicao,8,42,-4,Primeira Liga,LWWLD,same,,34,10,12,12,37,41,17,6,6,5,21,21,17,4,6,7,16,20,2024-06-05T00:00:00+00:00,1.24,29.41,1.09,1.21
+2023,94,Primeira Liga,4716,Casa Pia,9,38,-12,Primeira Liga,WLLWL,same,,34,10,8,16,38,50,17,3,5,9,10,18,17,7,3,7,28,32,2024-06-05T00:00:00+00:00,1.12,29.41,1.12,1.47
+2023,94,Primeira Liga,231,Farense,10,37,-5,Primeira Liga,LLWWL,same,,34,10,7,17,46,51,17,6,4,7,24,23,17,4,3,10,22,28,2024-06-05T00:00:00+00:00,1.09,29.41,1.35,1.5
+2023,94,Primeira Liga,226,Rio Ave,11,37,-5,Primeira Liga,DDWDD,same,,34,6,19,9,38,43,17,6,8,3,25,20,17,0,11,6,13,23,2024-06-05T00:00:00+00:00,1.09,17.65,1.12,1.26
+2023,94,Primeira Liga,762,GIL Vicente,12,36,-10,Primeira Liga,LWDDW,same,,34,9,9,16,42,52,17,6,7,4,28,22,17,3,2,12,14,30,2024-06-05T00:00:00+00:00,1.06,26.47,1.24,1.53
+2023,94,Primeira Liga,230,Estoril,13,33,-9,Primeira Liga,LLLWD,same,,34,9,6,19,49,58,17,8,1,8,25,18,17,1,5,11,24,40,2024-06-05T00:00:00+00:00,0.97,26.47,1.44,1.71
+2023,94,Primeira Liga,15130,Estrela,14,33,-20,Primeira Liga,WLDLD,same,,34,7,12,15,33,53,17,6,3,8,22,27,17,1,9,7,11,26,2024-06-05T00:00:00+00:00,0.97,20.59,0.97,1.56
+2023,94,Primeira Liga,222,Boavista,15,32,-23,Primeira Liga,DLDLD,same,,34,7,11,16,39,62,17,4,8,5,21,30,17,3,3,11,18,32,2024-06-05T00:00:00+00:00,0.94,20.59,1.15,1.82
+2023,94,Primeira Liga,216,Portimonense,16,32,-33,Primeira Liga,WDLLD,same,Liga Portugal (Relegation),34,8,8,18,39,72,17,3,6,8,18,31,17,5,2,10,21,41,2024-06-05T00:00:00+00:00,0.94,23.53,1.15,2.12
+2023,94,Primeira Liga,810,Vizela,17,26,-30,Primeira Liga,DWLDL,same,Relegation - Liga Portugal 2,34,5,11,18,36,66,17,3,5,9,20,32,17,2,6,9,16,34,2024-06-05T00:00:00+00:00,0.76,14.71,1.06,1.94
+2023,94,Primeira Liga,223,Chaves,18,23,-41,Primeira Liga,LLLLD,same,Relegation - Liga Portugal 2,34,5,8,21,31,72,17,3,4,10,21,37,17,2,4,11,10,35,2024-06-05T00:00:00+00:00,0.68,14.71,0.91,2.12
